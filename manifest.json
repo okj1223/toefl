@@ -1,0 +1,39 @@
+{
+  "total_ets_cards": 900,
+  "total_awl_cards": 0,
+  "files_created": [
+    "toefl_ets_2026_set_01.tsv",
+    "toefl_ets_2026_set_02.tsv",
+    "toefl_ets_2026_set_03.tsv",
+    "toefl_ets_2026_set_04.tsv",
+    "toefl_ets_2026_set_05.tsv",
+    "toefl_ets_2026_set_06.tsv",
+    "toefl_ets_2026_set_07.tsv",
+    "toefl_ets_2026_set_08.tsv",
+    "toefl_ets_2026_set_09.tsv",
+    "fields_spec.md",
+    "generation_notes.md",
+    "rejected_candidates.tsv",
+    "duplicates_removed.tsv"
+  ],
+  "selection_principles": [
+    "No claim of an official ETS 3000 word list",
+    "ETS-based means aligned to official/public ETS TOEFL materials and test descriptions",
+    "Cross-disciplinary academic vocabulary prioritized over narrow technical terms",
+    "Modern academic-life contexts prioritized for the 2026 TOEFL direction",
+    "AWL handled by headword, not by uncontrolled derivative expansion"
+  ],
+  "excluded_categories": [
+    "very basic high-frequency words",
+    "hyper-specialized technical terms",
+    "spelling-error candidates",
+    "low-utility near-duplicates"
+  ],
+  "quality_checks": [
+    "TSV two-column validation",
+    "required-label validation",
+    "literal newline-count validation",
+    "duplicate-headword audit"
+  ],
+  "timestamp": "2026-04-03T00:58:00+09:00"
+}

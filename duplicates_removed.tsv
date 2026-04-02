@@ -1,0 +1,10 @@
+removed_from	replaced_with	reason
+toefl_ets_2026_set_05.tsv:7	concession	replaced duplicate headword subsidy
+toefl_ets_2026_set_05.tsv:15	procurement	replaced duplicate headword commodity
+toefl_ets_2026_set_05.tsv:90	oversight	replaced duplicate headword enforce
+toefl_ets_2026_set_05.tsv:91	litigation	replaced duplicate headword prohibit
+toefl_ets_2026_set_07.tsv:7	susceptibility	replaced duplicate headword mortality
+toefl_ets_2026_set_07.tsv:90	syndrome	replaced duplicate headword cohort
+toefl_ets_2026_set_07.tsv:93	pathway	replaced duplicate headword stratify
+toefl_ets_2026_set_07.tsv:95	resilience	replaced duplicate headword disparity
+toefl_ets_2026_set_09.tsv:78	solubility	replaced duplicate headword synthesis

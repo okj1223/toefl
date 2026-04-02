@@ -1,0 +1,33 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+
+
+def collect(pattern: str) -> list[str]:
+    words: set[str] = set()
+    for path in sorted(Path(".").glob(pattern)):
+        with path.open(encoding="utf-8") as handle:
+            for line in handle:
+                if "\t" in line:
+                    words.add(line.split("\t", 1)[0].strip())
+    return sorted(word for word in words if word)
+
+
+def write_lines(path: str, lines: list[str]) -> None:
+    Path(path).write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+
+
+def main() -> int:
+    ets_words = collect("toefl_ets_2026_set_*.tsv")
+    awl_words = collect("toefl_awl_set_*.tsv")
+    write_lines("all_ets_headwords.txt", ets_words)
+    write_lines("all_awl_headwords.txt", awl_words)
+    combined = sorted(set(ets_words) | set(awl_words))
+    write_lines("all_headwords.txt", combined)
+    print(f"ETS={len(ets_words)} AWL={len(awl_words)} ALL={len(combined)}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
