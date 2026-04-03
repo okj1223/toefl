@@ -1,6 +1,9 @@
 {
-  "total_ets_cards": 900,
-  "total_awl_cards": 0,
+  "total_ets_cards": 2200,
+  "total_awl_cards": 570,
+  "ets_target_policy": "quality-gated expansion; 3000 is not a hard quota",
+  "target_score_band": "TOEFL iBT overall band 5 on the 1-6 scale introduced January 21, 2026",
+  "awl_generation_note": "AWL card files are structurally validated, but Korean glosses are machine-generated draft text intended for a later Claude quality-pass.",
   "files_created": [
     "toefl_ets_2026_set_01.tsv",
     "toefl_ets_2026_set_02.tsv",
@@ -11,6 +14,25 @@
     "toefl_ets_2026_set_07.tsv",
     "toefl_ets_2026_set_08.tsv",
     "toefl_ets_2026_set_09.tsv",
+    "toefl_ets_2026_set_10.tsv",
+    "toefl_ets_2026_set_11.tsv",
+    "toefl_ets_2026_set_12.tsv",
+    "toefl_ets_2026_set_13.tsv",
+    "toefl_ets_2026_set_14.tsv",
+    "toefl_ets_2026_set_15.tsv",
+    "toefl_ets_2026_set_16.tsv",
+    "toefl_ets_2026_set_17.tsv",
+    "toefl_ets_2026_set_18.tsv",
+    "toefl_ets_2026_set_19.tsv",
+    "toefl_ets_2026_set_20.tsv",
+    "toefl_ets_2026_set_21.tsv",
+    "toefl_ets_2026_set_22.tsv",
+    "toefl_awl_set_01.tsv",
+    "toefl_awl_set_02.tsv",
+    "toefl_awl_set_03.tsv",
+    "toefl_awl_set_04.tsv",
+    "toefl_awl_set_05.tsv",
+    "toefl_awl_set_06.tsv",
     "fields_spec.md",
     "generation_notes.md",
     "rejected_candidates.tsv",
@@ -21,7 +43,8 @@
     "ETS-based means aligned to official/public ETS TOEFL materials and test descriptions",
     "Cross-disciplinary academic vocabulary prioritized over narrow technical terms",
     "Modern academic-life contexts prioritized for the 2026 TOEFL direction",
-    "AWL handled by headword, not by uncontrolled derivative expansion"
+    "AWL handled by headword, not by uncontrolled derivative expansion",
+    "Do not force low-utility tail words just to reach 3000 cards"
   ],
   "excluded_categories": [
     "very basic high-frequency words",
@@ -31,9 +54,10 @@
   ],
   "quality_checks": [
     "TSV two-column validation",
-    "required-label validation",
-    "literal newline-count validation",
+    "4-line card-back label/order validation",
+    "actual multiline TSV validation",
+    "example/translation field exclusion validation",
     "duplicate-headword audit"
   ],
-  "timestamp": "2026-04-03T00:58:00+09:00"
+  "timestamp": "2026-04-03T16:48:31+09:00"
 }

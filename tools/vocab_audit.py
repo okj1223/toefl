@@ -2,9 +2,10 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import glob
 import json
-from collections import Counter, defaultdict
+from collections import defaultdict
 from pathlib import Path
 
 
@@ -12,9 +13,12 @@ REQUIRED_LABELS = [
     "핵심 뜻:",
     "부가 뜻:",
     "핵심 느낌:",
+    "구분:",
+]
+
+FORBIDDEN_LABELS = [
     "예문:",
     "해석:",
-    "구분:",
 ]
 
 
@@ -22,14 +26,13 @@ def audit_file(path: Path) -> dict:
     rows = []
     issues = []
     with path.open(encoding="utf-8") as handle:
-        for line_no, raw_line in enumerate(handle, 1):
-            line = raw_line.rstrip("\n")
-            parts = line.split("\t")
+        reader = csv.reader(handle, delimiter="\t")
+        for row_no, parts in enumerate(reader, 1):
             if len(parts) != 2:
                 issues.append(
                     {
                         "file": str(path),
-                        "line": line_no,
+                        "line": row_no,
                         "type": "column_count",
                         "detail": len(parts),
                     }
@@ -37,29 +40,52 @@ def audit_file(path: Path) -> dict:
                 continue
 
             headword, back = parts
-            missing = [label for label in REQUIRED_LABELS if label not in back]
-            if missing:
+            back_lines = back.split("\n")
+
+            if "\\n" in back:
                 issues.append(
                     {
                         "file": str(path),
-                        "line": line_no,
-                        "type": "missing_labels",
-                        "detail": missing,
+                        "line": row_no,
+                        "type": "escaped_newline_literal",
+                        "detail": "\\n",
                     }
                 )
 
-            newline_literals = back.count("\\n")
-            if newline_literals != 5:
+            if len(back_lines) != len(REQUIRED_LABELS):
                 issues.append(
                     {
                         "file": str(path),
-                        "line": line_no,
-                        "type": "newline_literal_count",
-                        "detail": newline_literals,
+                        "line": row_no,
+                        "type": "back_line_count",
+                        "detail": len(back_lines),
                     }
                 )
 
-            rows.append({"headword": headword.strip(), "line": line_no})
+            for index, label in enumerate(REQUIRED_LABELS):
+                if index >= len(back_lines) or not back_lines[index].startswith(label):
+                    issues.append(
+                        {
+                            "file": str(path),
+                            "line": row_no,
+                            "type": "label_order",
+                            "detail": REQUIRED_LABELS,
+                        }
+                    )
+                    break
+
+            forbidden = [label for label in FORBIDDEN_LABELS if label in back]
+            if forbidden:
+                issues.append(
+                    {
+                        "file": str(path),
+                        "line": row_no,
+                        "type": "forbidden_labels",
+                        "detail": forbidden,
+                    }
+                )
+
+            rows.append({"headword": headword.strip(), "line": row_no})
 
     return {"file": str(path), "count": len(rows), "rows": rows, "issues": issues}
 

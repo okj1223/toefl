@@ -6,18 +6,18 @@ All card files are stored as UTF-8 TSV with:
 - column 1 = English headword only
 - column 2 = card back content
 - delimiter = tab
-- internal line breaks in column 2 are stored as literal `\n`
+- internal line breaks in column 2 are stored as actual newlines inside a quoted TSV field
 
 ## Card Back Required Structure
 
-Every card back must contain exactly these 6 labeled lines in this order:
+Every card back must contain exactly these 4 labeled lines in this order:
 
 1. `핵심 뜻:`
 2. `부가 뜻:`
 3. `핵심 느낌:`
-4. `예문:`
-5. `해석:`
-6. `구분:`
+4. `구분:`
+
+Example sentences and translations are intentionally excluded from the front-facing TSV cards.
 
 ## Internal Review Fields
 
@@ -41,7 +41,7 @@ The following review fields are tracked during generation and validation, but ar
 ## Validation Rules
 
 - exactly 2 TSV columns per row
-- exactly 5 literal `\n` separators in column 2
-- all 6 labels present
+- column 2 must contain actual line breaks, not escaped `\n` text
+- exactly 4 labeled lines in the required order
 - no empty files
 - no duplicate headwords within a set family after cleanup

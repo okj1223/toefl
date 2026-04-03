@@ -1,900 +1,2478 @@
+abandon
+abate
 abnormal
 abolish
+abolition
+abrupt
 absorb
+abstain
+abstract
+academy
 accelerate
 access
+access log
 accessibility
 accessible
+acclaim
+acclimate
 accommodate
+accommodating
 accommodation
 accompany
 accomplish
 accordingly
 accountability
+accountability mechanism
 accountable
-acculturation
+accrue
+accumulate
+accurate
+achieve
 achievement
-acidic
+acknowledge
+acknowledgment
+acquiesce
+acquire
 acquisition
 acquit
+action-oriented
+actionable
+activation
 acute
+adapt
+adaptable
 adaptation
 adaptive
+adaptive capacity
 additionally
+adequate
 adjacent
+adjourn
+adjudicator
+adjust
+adjustable
+adjustment
 administer
+administrability
+administrate
 administrative
+admissible
 adopt
 adult
+advancement
+advantageous
+adversarial
 adverse
 advise
+advisory
+advisory role
+advocacy
+advocacy network
+advocate
 aerosol
+aesthetic
+affect
 affective
 affiliation
+affluent
+agency
+agenda
+agenda-setting
+agent
+aggregate
+agrarian
 aid
+albeit
+algorithmic
 align
-alkaline
+alignment
 allege
-allele
+allegorical
+allocate
 allocation
+allocation formula
+allyship
 alter
 alteration
+alternative
 alternatively
+alumni
+ambience
 ambiguity
+ambiguous
+ambition
+amenable
 amend
 amendment
+amplifier
 amplify
+analog
 analogous
 analogy
+analyse
+analysis
 analytical
+analytical stance
+anatomical
 ancestry
-andragogy
-anesthesia
+annexation
+annotation
+annotation layer
 annual
 anomaly
-antibiotic
-antibody
-antigen
-apoptosis
+anthropogenic
+anticipate
 apparent
+appeal process
 append
+appetite
+applicability
+applicant
 application
+appointment
+apportionment
+appraisal
 appreciate
-apprenticeship
 approach
+appropriate
+appropriation
 approximate
 aptitude
-aquifer
 arbitrage
+arbitrary
 arbitrate
+archival
 archive
+archiving
+area
 arguably
 argument
+argument chain
+argument map
+argumentative
 arise
+arousal
 articulate
 artificial
+artisan
+aspect
+aspiration
 assemble
+assembly-line
+assertion
+assertive
 assess
 assessment
 asset
 assign
+assignment
+assimilate
 assimilation
+assist
+association
+assume
 assumption
-asteroid
+assure
+asymmetry
 atmospheric
 atomic
 attach
+attachment
 attain
 attainable
+attendance
+attendee
 attention
+attentiveness
 attenuate
+attenuation
+attest
+attitude
 attribute
+attribution
+attributional
+audience engagement
+audience-centered
+auditory cue
+augment
 austerity
 authentic
+author
+authorial
 authoritative
 authority
 authorize
-autoimmune
+authorizing body
+auto-save
 automate
-automaticity
-autonomic
+autonomous
 autonomy
+available
+aversion
+avoidance
+aware
+awareness
 axial
+backbone
+backdrop
+backing
+backlash
+backlog
+backup copy
+backward-compatible
+balanced
 ballot
+bandwidth
 bankruptcy
 barrier
-basalt
-behaviorism
+baseline
+baseline scenario
+behalf
+behavioral
+behavioral norm
+belief
 benchmark
 beneficial
+beneficiary
 benefit
-benign
-biopsy
+benefit cap
+bias
+bioenergetic
+bioindicator
+biomechanical
+biosphere
 bipartisan
+blueprint
+body language
 bolster
+bond
+bottleneck
+bottlenecked
+boundary layer
+brainstorm
+breakout
+breakpoint
 bribery
+bridge-building
 brief
+briefing
 broaden
+browser
+browser tab
+brushstroke
+budgetary
+buffer
+buffer-zone
+buildout
+buildup
+bulk
+bulletin
+burnout
+byproduct
+bystander
+cache
+calculated
+calibration
+calm
+camera angle
+camouflage
+candid
+candidate
 capability
 capable
 capacity
-carcinogen
+capacity buffer
+caption
+captioned
+caravan
+carbohydrate
+carbon-neutral
+carrying capacity
+carryover
 cartel
+cascading
+case backlog
+case review
+caseworker
 catalyst
 category
 causal
 caution
+caveat
 cease
-celestial
+cellular
 census
+centralization
+chairperson
+challenge
 channel
+chapter
+characterization
+chart
+checklist
+checkpoint
 chemical
-chromosome
+chemosensory
+chiaroscuro
+choice
+choreograph
 chronic
-chunking
+chronicle
+chronicler
+chronological
+cinematic
 circuit
+circularity
 circulate
+circulatory
+circumstance
 circumvent
+citation
+cite
+citizen input
+citizen-facing
+citizenship
+citizenship norm
 civic
+civic-minded
 civil
-clan
+civilization
+claim qualifier
+claim strength
+claim-evidence link
+clarification
 clarify
 clarity
+classic
+classification
+clause
+clickthrough
 climate
+climate adaptation
+climate exposure
+climate scenario
+climate stressor
+climate uncertainty
+climate volatility
+climate-informed
+climate-proof
+climate-ready
+climate-related
+climate-sensitive
 climatic
-clinical
+close reading
+cloud-based
+co-design
+co-funding
+co-regulation
 coalition
+coalition-building
+coauthor
 code
+coexist
 cognition
-cognitivism
 coherence
 coherent
+coherent style
+coherently
+cohesion
 cohesive
 cohort
+coincide
 collaborate
+collaboration
 collaborative
+collaborative ethos
+collage
 collapse
 collateral
+colleague
+collective responsibility
+collective voice
+colonial
 colonize
-comet
+color palette
 commemorate
+commence
+comment
 commission
+commit
+commitment
+committee
 commodity
 communal
+communicate
+communication
+communicative
+community
+community input
+community liaison
+community representation
 commute
 comparable
 comparative
+comparison
+compartment
 compatible
 compelling
+compensate
 compensation
 compete
 competency
 competent
 compile
 complement
+completion
+complex
 complexity
 compliance
+compliance audit
+compliance burden
 complication
 comply
+component
+composition
 compound
 comprehension
 comprehensive
+comprise
 compute
 conceive
+concentrate
+concentration
+concept
 conceptual
+conceptual framing
 concession
+conclude
 conclusive
 concrete
+concur
 concurrent
 condensation
+conditioning
+conduct
+conduct code
+conductive
 confer
+conferral
+confidence
 configuration
 confine
+confirm
+conflict
+conflict de-escalation
+conflict-prone
+conform
+conformity
 confound
 confront
 congregation
+connectivity
+connotation
 consensus
+consensus-building
 consent
+consent-based
+consequent
 consequently
+conservation
+conservation-oriented
 conserve
 considerable
 consideration
+consist
+consistency
 consistent
 consolidate
+constancy
 constant
+constitute
 constitution
+constrain
 constraint
-constructivism
+constraint-aware
+construct
 consult
+consultation
+consultative
 consume
 contact
-contagious
 contaminate
+contemplation
 contemporary
 contend
+content moderation
+content update
+context
+contextual
+contextual cue
+contextualize
 continental
+contingency
 contingent
+continuity
+continuum
+contract
 contradict
+contrary
+contrast
+contrastive
+contribute
+contribution
 controversy
 convection
+convene
+convention
 conventional
 convergence
+convergent
+converse
 conversely
 convert
 convict
+conviction
+convince
 convincing
+cooperate
 cooperative
 coordinate
+coordinated
+coordinating agency
+coordination
+coordinator
+coping
 core
+cornerstone
+corporate
 correlate
 correlation
+correspond
+correspondence
+corroborate
 corrosion
 corruption
-cortex
 cosmos
+cost-effective
+cost-saving retrofit
+cost-sharing
+counterargument
+counterclaim
+counterevidence
+counterforce
+countermeasure
+counterpart
 couple
+coursework
+coverage
+coverage gap
+craftsmanship
+create
+creative medium
+credential
+credibility
 credible
+credit
+criteria
 criterion
 critical
+critical lens
+critique
+cross-adaptation
+cross-cultural
+cross-functional
+cross-jurisdictional
+cross-post
+cross-sector
+cross-signaling
+crowdsourced
+crucial
 crust
-crystalline
+culminate
 cultivate
+cultural fluency
+cultural lens
+culture
 cumulative
+cumulative impact
+curate
+curatorial
+curiosity
 currency
 curriculum
+curtail
 custom
+customary
+customizable
+cybersecurity
 cycle
+cyclic
+dashboard
 data
+data portability
+data visualization
+data-driven
+dataset
+deadline
+debatable
+debate
+debrief
+debug
 decade
-declarative
+decay
+decentralize
+decision
+decision gate
+decision rule
+declaration
+decline
+decomposition
+deduce
 deductive
 default
+defensible
 defer
 deficiency
 deficient
 deficit
+define
 definite
+definitional
+deflect
+defunding
 degenerate
+degradation
+degrade
+delay
 delegate
 deliberate
+deliberation
+deliberative
+deliverable
+deliverable-based
+demand reduction
+demand-side measure
 demographic
+demonstrate
+denote
 denounce
 density
+density-dependent
 deny
+dependency
+depict
 deplete
+depletion
+deployment
 deposition
 depreciate
+depress
 deregulate
 derive
+desalination
+descendant
 descent
+descriptive
+desertification
+design
+design brief
+design constraint
+design iteration
+design-driven
 designate
+desire
 despite
+detect
 determinant
+detract
 detrimental
 developmental
+deviate
+deviation
 device
+device syncing
+devolution
+devote
 diagnose
-diagnosis
 diagnostic
 dialect
+dialogic
 diaspora
-didactic
+diasporic
+differentiate
+differentiation
 diffuse
+digital divide
+digital footprint
+digitize
+dilemma
 dilute
 dimension
+diminish
 diplomat
+diplomatic
+disbursement
+discern
+discipline
+disclose
+disclosure norm
 discrete
+discretion
+discretionary
+discriminate
+discursive
+discuss
+discussant
+discussion
+discussion-based
+disenfranchised
+disengagement
 disparity
 dispersal
 displace
+displacement
 display
 dispose
 disposition
 dispossess
+disputable
+dispute resolution
 disrupt
+disruption
+disseminate
 dissent
+dissenting
 dissolution
+distill
 distinct
 distinction
 distort
+distraction
 distribute
+distribution
+disturbance-tolerant
+diverge
 diverse
 diversity
+divert
 dividend
+doctrine
+document
+document sharing
+documentary-style
+documentation
 domain
 domestic
+dominance
 dominant
-dosage
+dominate
+dormancy
+downgrade
+download
+downregulate
+downtime
+draft
+drainage
+drama
+dramatic tension
+dramaturgical
+drive
+driver
+drought-prone
+durability
 durable
 duration
+dynamic
 dysfunction
-eclipse
+e-commerce
+eclectic
+ecological
+ecological footprint
+ecological resilience
+ecologically sound
 ecology
 economy
+ecosystem-based
 edit
+editable
+editorial
+educational
 effectively
+effectiveness
+efficiency ratio
 efficient
+egalitarian
 elaboration
 electorate
 element
 elicit
+eligibility
+eligibility screening
+eliminate
 elite
+elucidate
+emancipation
 embargo
+embedded in
+embody
+emerge
 emergence
 emergent
 emigrate
 emission
+emotion
+emotive
+empathy
 emphasis
 emphasize
+emphatic
+empire
+empirical
+enable
 enact
+encapsulate
 enclave
 encode
-endemic
+encounter
+encroach
+encryption
+end-user
+endorsement
+enduring
 energy
+energy budget
+energy-efficient
 enforce
+enforcement
+engagement
+engagement level
 enhance
+enhancement
+enormous
+enrollment
+enrollment pathway
+ensure
+entitlement
 entity
 environment
-enzyme
-epidemic
-epidemiology
-episodic
+environmental burden
+environmental oversight
+environmental threshold
+envision
+epitomize
 equate
+equilibrate
 equilibrium
+equip
 equitable
+equitable access
 equity
+equity audit
+equity-oriented
 equivalent
 era
-eradicate
 erode
 error
+error-prone
+escalation
+establish
+estate
 estimate
+ethic
 ethical
 ethnic
 ethnicity
-ethnography
-etiology
+etiquette
+evaluate
 evaluation
+evaluation metric
+evaluative
 evaporation
+eventual
+evidence hierarchy
+evidence threshold
+evidence trail
+evidence-backed
+evidence-based
 evident
+evidentiary
+evocative
 evoke
 evolution
+evolve
 exceed
+excerpt
 exclude
+execution gap
 executive
 exemplar
 exemplify
+exhaustive
+exhibit
+exile
 exodus
+exogenous
+expand
+expectancy
+expectation
 expenditure
 experiential
 expert
+explanation
+explanatory
+explanatory frame
+explanatory gap
+explanatory power
 explicit
 explicitly
 exploit
 export
+expose
+exposure
+exposure level
+expressive
+expressive range
+extension
 external
 extract
 extradition
 extrinsic
 facilitate
+facilitation
+facilitative
+facilitator
+factor
+faculty
+failure mode
+fallacious
+fallback
+family-based
+fatigue
 fault
+fault-tolerant
+favorable
+feasibility
+feasibility study
 feasible
+feature
+federal
+federated
 federation
+fee
 feedback
+feedback-driven
 fertility
-fibrosis
+field-tested
+fieldwork
+figurehead
+file
+file-sharing
 filibuster
+filter
 final
+finance
+fine-grained
+fine-tune
+finite
+firewall
 fiscal
+fiscal year
+fit check
+fit gap
+fit-for-purpose
+fixation
+flexibility
 flexible
+flood-mitigation
+floodplain
+floor
+flow dynamics
+flow-through
 fluctuate
+fluctuating
 fluency
-folklore
-formative
+focus
+follow-up
+forage
+foreground
+format
+formatting
+formula
 formulate
+forthcoming
+forum
 fossil
 foster
+found
+foundation
+foundational
 fracture
+frame narrative
 framework
+framing
+framing device
+framing effect
 fraud
 frequency
 frequently
+friction point
+frictionless
 frontier
+frustration
+function
 fund
 fundamental
-galactic
-galaxy
+funding stream
+furthermore
+future-oriented
+future-proof
+future-proofing
+galvanize
+gatekeeping
 gender
-gene
+generalizable
+generalization
 generalize
 generally
-genome
-genotype
+generate
+generation
+genre convention
+genre-bending
 gentrify
-geothermal
-glacial
-glacier
+geotagged
+gestural
 global
+globe
+go-live
 goal
+goal-oriented
+goodwill
 governance
-granite
+governance gap
+governing charter
+gradational
+grade
 grant
-gravitational
+grassroots
+gratification
+green certification
+green investment
+green transition
+greenwashing
+grievance
+group belonging
+group dynamic
+group-based
+groupwide
+growth constraint
+growth curve
 guarantee
+guidance
+guided
+guideline
+habit
 habitat
-hegemony
+habitat corridor
+habituation
+handbook
+handcrafted
+handshake
+hazard
+hazard mitigation
+hedge
+heirloom
 hence
-hereditary
 heritage
-heuristic
+heterogeneous
+hierarchical
 hierarchy
+high-availability
+high-contrast
+high-throughput
 highlight
-hinterland
-hippocampus
+holistic
 homeland
-homeostasis
+homeostatic
 homogeneous
-hormone
+host community
+human-centered
 humidity
+hybridize
+hygiene
+hyperlink
 hypothesis
 hypothetical
+iconic
+iconography
+idealized
+identical
+identify
+identity
+identity marker
+identity-based
 ideology
+ignorant
 ignore
+illustrate
+illustrative
 image
+imagery
+imitation
 immersion
+immersive
+immigrant
 immigrate
 immune
 immunity
-immunize
+immutable
+impact
+impact assessment
+impartial
+impede
+impermeable
+impetus
+implausible
 implement
+implementation
+implementation gap
+implementation lag
+implementation toolkit
+implementation-ready
+implementer
+implicate
 implication
 implicit
 implicitly
+imply
 impose
+impoverish
+impressionistic
+improvement
+improvise
+impulse
+impulsive
+inadvertent
 incentive
+incentivize
+inception
 incidence
+incline
 inclusion
+inclusionary
 inclusive
+inclusivity
 income
+inconsistency
 incorporate
+incremental
+incremental rollout
 incumbent
+independence
 independently
+index
+indexing
+indicate
 indicator
+indicator species
 indictment
 indigenous
+indispensable
+individual
+induce
 inductive
 industrialize
 inefficient
 inequality
-inertia
 inevitable
 inevitably
-infection
 infer
-inflammation
+inferential
+infiltration
 inflation
+inflow
+infographic
+informal norm
+informative
+infostream
 infrastructure
 inhabit
 inherent
+inheritance
+inheritance-based
+inherited
 inhibit
+inhibition
 initial
 initially
+initiate
+initiative
 injunction
+injure
 innovate
 innovative
+input
 inquiry
+inscription
+insert
 insight
 inspect
+inspection regime
 instance
+instinct
+institute
 institution
+institutional
+institutional buy-in
+institutional trust
+institutionalized
+instruct
+instruction
+instructional
+instructor
 insufficient
+insulate
+insurrection
+intake
+intangible
 integral
 integrate
+integration point
 integrity
+intelligent
+intense
+intensified
+intention
 interact
-interleave
+interaction
+interaction zone
+interactive
+interagency
+interchangeable
+interconnection
+interdependent
+interface
+interface layer
+intergenerational
+intergroup
 intermediate
 internal
 internalize
+internship
+interoperability
+interpersonal
 interpret
-interstellar
+interpretation
+interpretive
+interpretive bias
+interpretive lens
+interpretive range
+intertextual
 interval
 intervene
 intervention
+intervention package
 intrinsic
-ionize
+introspection
+intrusion
+intuition
+inventory
+invest
+investigate
+invoke
+involve
+irrigate
+irrigation
 isolate
-isotope
+issue
+issue advocacy
+item
+iterative
+itinerary
+jeopardize
+job
 jointly
+journal
+journey
+judgment
 judiciary
+judicious
+junction
 jurisdiction
+jurisdictional
 justify
+juxtapose
+keynote
+kingdom
 kinship
 label
+laborer
+labour
+lag
+land restoration
+land-use planning
+landmark
 landscape
 largely
-lava
+latency
 layer
+layered
+leadership
+learning
 lecture
+legacy
 legal
+legible
+legislate
 legislation
+legislative agenda
 legislature
+legitimacy
 legitimate
-lesion
 leverage
 levy
 liability
+liaison
+liberal
+licence
+life cycle
+life-cycle thinking
 likelihood
+likewise
+line of authority
+line of reasoning
+line-by-line
 lineage
+linear narrative
 link
+link-sharing
 liquidity
 literacy
 litigate
 litigation
+lived experience
+livestream
+load-bearing
 lobby
 locale
+localize
 locate
+log-in
 logic
+logistics
+long-horizon
+long-range planning
+long-term viability
 longitudinal
-luminosity
-lunar
-magma
+low-carbon
+low-consumption
+low-cost adaptation
+low-emission
+low-footprint
+low-impact
+low-maintenance
+low-regret
+low-resource setting
+low-vulnerability
+low-waste
+lowland
+lyrical
+machine-readable
 magnitude
-malignant
+maintain
+maintainability
+maintainable
+maintenance cycle
+major
+majoritarian
+majority view
+make-or-buy
+malfunction
+malleability
+malware
+manageable
+managerial
 mandate
+mandated
 manipulate
 mantle
+manual
+manuscript
 margin
 marginal
+marginalized
+marker
 mastery
+material footprint
+mature
+maximise
+meaning
+means-tested
 measurable
 mechanism
+media
+media literacy
 mediate
+mediation
 medical
+medium
+medium-specific
+meeting record
+memorandum
+memorial
 memorize
+memory
 mental
+mentor
+mentorship
+merchant
 merger
-metabolism
-metacognition
+message thread
+metabolic rate
+metadata
+metaphorical
+method
 methodology
+meticulous
 metropolitan
+microhabitat
+microstructure
 migrant
 migrate
+migration
+milestone
+milestone-driven
 military
+mindfulness
 mindset
 mineral
+minimal
+minimalist
+minimise
 minimum
+minimum viable
+ministry
+minor
 minority
+misconception
+mise-en-scene
+misinformation
+misinterpret
+misleadingly
 mitigate
-mnemonic
+mobile
 mobility
+mobilize
+mode
+moderate
+moderator
 modernize
+modification
 modify
+modular
+modulator
+moisture-retaining
 molecular
 momentum
 monetary
 monitor
+monitoring
+monitoring framework
 monopoly
-morbidity
+montage
+mood
+morphological
 mortality
+motif
 motivation
-motor
+motive
+motivic
+multi-stakeholder
+multicultural
 multiculturalism
+multimedia
+multimodal
+multiphase
 municipality
-mutation
+mutual
+mutual obligation
+mutually reinforcing
 namely
 narrative
+narrative arc
 nationalism
 nationalize
+navigate
+needs assessment
+negate
 negligible
+negotiable
 negotiate
+net-zero
 network
-neural
-neuron
-neuroplasticity
+networked
+neutral
 neutralize
-nomadic
+nevertheless
+newsletter
+niche
+node
+nominal
+nomination
+nominee
+non sequitur
+noncompliance
+nonetheless
+nonlinear
+nonverbal cue
 norm
+norm enforcement
 normal
+normative
+notable
 notably
+notification
 notion
+notwithstanding
+novelty
 nuance
+nuanced
 nuclear
-nutrition
+nutrient
+nutrient cycle
+nutrient-rich
 objective
 objectivity
+objectivity claim
+obscure
 observable
+observational
 obstacle
+obtain
+obvious
 occupy
+occur
+odd
+off-the-shelf
+offscreen
+offset
 oligopoly
+omit
+onboarding
+ongoing
+online etiquette
+open-ended
+open-source
+operating mandate
+operational
+operationalize
+opinion climate
 optimal
+optimism
 optimize
 option
 oral
-orbital
-organ
+orchestrate
+ordinance
+organismal
+organization
+organizational
+organizational buy-in
+organize
+orient
+orientation
+ornamental
+oscillation
+out-group
+outage-prone
 outbreak
 outcome
+outcome metric
+outcompete
+outflow
+outline
+outlying
 output
+outreach
 overall
+overexploit
+overextraction
+overflow
+overgeneralize
+overhaul
+overlap
+overseas
+overseer
 oversight
-oxidize
-pandemic
+oversight board
+overstate
+overt
+overuse
+overview
+oxygenation
+pace
+pacing
+pain point
+panel
 paradigm
+paragraph
 parallel
 parameter
+parameterize
+paramount
+paraphrase
+paraphrastic
 partially
+participant
 participate
+participation
+participation barrier
+participation rate
+participatory
+participatory planning
 particulate
 partisan
+partition
+partner
 passive
-pathogen
-pathology
-pathway
-patriarchal
+password-protected
+pasture
+patience
 patronage
-pedagogy
+pattern
+pedigree
+peer
+peer pressure
+peer recognition
+penetration
+perceive
+percent
 perception
+perceptual
 performance
+performance baseline
+performative
+performer
+period
+peripheral
 periphery
 permeability
+permeate
 permit
 persist
 persistent
+personality
+perspectival
 perspective
+perspective shift
+persuasion
+persuasive
+persuasive force
+persuasively
+pertinent
+pessimism
 petition
 phase
 phenomenon
-phenotype
-pilgrimage
-placebo
+phenotypic
+philosophy
+photoperiodic
+photorealistic
+photosensitive
+physical
+pictorial
+pilot program
+plagiarism
 plaintiff
 planetary
+planned retreat
+planning
+plasticity
+platform
+plausibility
 plausible
+plug-and-play
+plug-in
 pluralism
+pluralistic
+plus
+podcast
+poetics
+polarization
 polarize
 policy
+policy alignment
+policymaking
+pollution load
+pollution-intensive
 polymer
+pop-up
 population
+porosity
 porous
 portfolio
 portion
+portrayal
 pose
+positioning
+positive
+post-launch
+poster
 potential
 potentially
 poverty
+practical
+practice-oriented
+practitioner
 pragmatic
-praxis
 precede
 precedent
 precipitation
 precise
+precolonial
+predation
 predict
 predominant
 predominantly
+preference
 prehistoric
+preindustrial
 prejudice
 preliminary
+premise
+premise-checking
+preparation
+preparatory
+preparedness
 prerequisite
+presentation
+presentational
+preservation
 preserve
+pressure gradient
+presume
+presuppose
 prevalence
 prevalent
+preventive
+preventive adaptation
 previous
 primary
+prime
+priming
+principal
+principle
 prior
+prioritization
+priority
+privacy
 privatize
 procedural
+procedural fairness
+procedure
 proceed
+process
+process bottleneck
+process-oriented
+procure
 procurement
+productive
 professional
 proficiency
-prognosis
+profile
+program continuity
+program uptake
+progress
+progression
 prohibit
 project
+projection
 proliferate
 prominent
 promote
+proof-of-concept
+propagate
+propensity
 proportion
+proposal
 prosecution
-protein
+prospect
+prosperity
 protocol
 prototype
-proximal
+provider network
 proximity
-psychomotor
+psychology
+public comment
+public deliberation
+public mandate
+public narrative
+public-facing
+public-facing service
+publication
+publicize
+publish
+purchase
+purposeful
+pursue
 qualitative
+quality-assurance
 quantitative
-quantum
 quarantine
+query
+questionnaire
 quota
+quota-based
 quote
-radiation
+quote-heavy
 radical
-radioactive
 random
+range
+rapport
 ratify
 ratio
 rational
 rationale
+rationalization
 react
-reactant
-reagent
+readability
+readiness
+readiness check
+reading cue
+readout
+real-time
+reason-giving
+reasoned
+reasoning
+reassembly
+rebut
+rebuttal-ready
 recall
-receptor
+recap
+receptiveness
 recession
+recharge
+rechargeable
+recipient
 reciprocal
 reciprocity
+reclamation
+recognition
+recombination
+recommendation
 reconcile
+reconfigurable
+reconstruction
+recontextualize
+recorder
 recover
+recoverable
+recovery
+recruitment
+rectify
+recurring
+redistributive
 reduction
+redundancy
+reference sheet
 referendum
+referral
 refine
+reflection
 reflective
+reframe
+refugee
+refute
 regenerate
+regenerative
+regime
 region
 register
+registration
+regularity
 regulate
+regulator
+regulatory scope
 rehabilitation
 rehearsal
+rehearsed
 reinforce
-relapse
+reinforcement
+reinterpret
+reject
+relax
+release
 relevant
 reliability
 reliable
 religion
 relocate
+reluctance
 rely
-remediation
-remission
+remedy
+reminder
+remnant
+remote access
+remove
+renaissance
+rendering
+renewable
+repertoire
+replenish
+replicable
+repository
 representation
+representative body
+require
+requirements drift
+requisite
+research
+reservation
+reserve
+resettlement
+reside
 resident
+residual
+residual risk
 residue
 resilience
+resilience planning
+resilience-oriented
+resilient
 resistance
 resolve
+resonance
 resource
+resource buffer
+resource ceiling
+resource constraint
+resource depletion rate
+resource governance
+resource partitioning
+resource prioritization
+resource recovery
+resource renewal
+resource scarcity
+resource stewardship
+resource substitution
+resource targeting
+resource uptake
+resource-efficient
+resource-intensive
+resource-sharing
 respectively
+respond
+responsive
+restoration
+restoration-oriented
+restorative intervention
+restore
+restrain
+restraint
 restrict
+restructure
 retain
 retention
+retentive
 retrieval
+retrofit
+reusability
+reuse-oriented
 reveal
 revenue
+reverse
+review
+revise
+revision
+revision tracking
+revitalization
+revolt
 revolution
+reward
+rhetorical
+rhetorically
+rhythmic
+rigid
 rigorous
+risk
+risk buffering
 ritual
+roadmap
+roadmapping
+robustness
+role
+role expectation
+rollout
+roster
 rotation
-rote
-rubric
+roundtable
+route
+rule compliance
+rule-bound
+rulemaking
+rumination
 rural
-salinity
+safeguard
+salience
+salient
 sample
 sanction
-sanitation
 saturate
-scaffold
+scalable
+scalable architecture
+scaling constraint
+scarcity
+scenario
+scene-setting
+scenic
+schedule
 schema
+scheme
+scholarly
+scholarship
 scope
+screen capture
+screen time
 screening
+scripted
+scrolling
+scrutiny
+search history
+searchable
+section
 sector
-sedation
+secular
+secure
+sedentary
 sediment
-sedimentary
+seek
 segregation
-seismic
-self-efficacy
-sensory
+select
+selective
+self-assurance
+self-control
+self-directed
+self-esteem
+self-regulating
+self-regulation
+self-renewal
+seminar
+semiotic
+senior-led
+sensitivity range
+sensory detail
 sequence
+sequential
+series
+server
+service continuity
+service delivery
+service gap
+serviceability
+setback
 settlement
+sex
+shareability
+shared understanding
+shift
+shock absorption
+shortage
+shrine
+side-by-side rollout
 signal
+signal cascade
+significant
 signify
+silhouette
+similar
 simulate
 simulation
+single-point failure
+sink-source
+site
 situated
+situational
+size-selective
+slavery
+smoothness
+so-called
+social accountability
+social capital
+social cue
+social distance
+socialization
 sociocultural
-solar
+software
+sole
 solidarity
 solubility
 solute
+solution-oriented
 solvency
 solvent
+somewhat
+soundscape
+source
+source attribution
+source-based
+source-critical
+sovereign
 sovereignty
-spacing
+spam
+sparing
 spatial
+spatial arrangement
+spatially patterned
+specific
 specifically
+specification
 specify
+spectator
 spectrum
 speculate
+sphere
+spillover
+spokesperson
+sponsorship
 sporadic
 stability
+stabilizer
 stable
+staging
+stakeholder
+stakeholder dialogue
+stakeholder mapping
+stance
+stance marker
 standardize
+statement-level
+statistic
+status
+status hierarchy
+status-seeking
 statute
-stellar
+stepwise
 stereotype
+stewardship
+stigma
 stipulate
+storage
+storytelling
+straightforward
+strain
+stranded
+strategic
 strategy
+stratified
 stratify
-stratosphere
+streaming
+streamline
+streamlined
+strengthen
+stress
+stress condition
+stress response
+stress-test
+stronghold
+structural
+structure
+structured
+style
+stylized
 subculture
+subgroup
 subjective
+submission
+submit
+suboptimal
+subordinate
 subpoena
+subscribe
 subsequent
 subsequently
+subsidize
 subsidy
+subsistence
+substantiated
+substantive
+substitute
+substrate
+subsystem
+subtext
 subtle
 suburb
+succession
+successor
 sufficient
-summative
+sum
+summarize
+summary
+sunset clause
+superfluous
+supervisor
+supplement
+supply
+supply disruption
+supply resilience
+support grant
+supporting detail
+supportive
 surplus
 surveillance
+survey
+survive
+survivorship
 susceptibility
 susceptible
 suspend
 sustain
-syllabus
+sustainability benchmark
+sustainability trade-off
+sustainability-oriented
+sustainable
+sustainable sourcing
+symbiotic
 symbol
 symbolic
-symptom
-synapse
-syndrome
+symbolic weight
+symbolism
+symposium
+synopsis
 synthesis
+systematic
+systemwide
+tacit
+tacit agreement
+tag
+tangible
+tape
+target
+targeted
+targeting criteria
 tariff
-taxonomy
-tectonic
-tectonics
+task
+task-focused
+team
+team norm
+teamwork
+technical
+technical debt
+technique
+technology
 telescope
+temperament
+template
 temporal
+temporary
+tendency
+tense
+tentative
+terminate
 terrain
 territory
+testbed
 testimony
-therapeutic
-thermal
+text
+text-centered
+text-to-context
+textile
+textual evidence
+textual nuance
+textured
+thaw
+thematic
+theme
+theory
+thereby
+thesis
+threat
 threshold
-tissue
+threshold-sensitive
+throughput
+thumbnail
+timeline
+timescale
+timetable
+tonal
 topic
+topic sentence
 topography
-toxin
+trace
+traceable
+traceable claim
+tractable
+trade-off
 tradition
+training
 trajectory
+transboundary
+transcript
 transfer
+transferability
+transferable
 transform
+transient
+transit
+transit-based
 transition
+transition cost
+transition pathway
+transitional
 translate
 transmission
+transmit
 transparency
-transplant
+transparency pledge
+transparency rule
+transparent
 transport
-treatment
 treaty
-tribal
-troposphere
-tumor
+trend
+trialable
+trigger
+trust-building
 turbulence
+turn-taking
+turning point
+turnover rate
+tutorial
+two-factor
 typically
+ultimate
+unanimity
+uncertainty
+uncertainty-reduction
+uncover
 undergo
+undergraduate
+underlie
 underlying
+underrepresented
+underscore
+understate
+understated
+undertake
+underutilized
+unexamined
+unfavorable
+unfunded
+uniform
+unify
+unique
+unprecedented
+unstable
+unsubstantiated
+unwritten rule
+update
+upgradable
+upgrade path
+upgrade-ready
+upheaval
+upload
+upload limit
+upregulate
+uprising
+uptake rate
+urban greening
+urban runoff
+urbanism
+urbanization
 urbanize
-vaccine
+usability
+usable
+user pathway
+user testing
+user-generated
+utilise
+utilization
+valid
+validate
+validation
+validation step
 validity
+value alignment
+value-based
+value-laden
+vapor
+variability
 variable
-velocity
+variance
+variety
+vary
+vegetation
+vehicle
+venue
 verdict
 verify
 vernacular
 version
+version history
+versioning
+vessel
+vestige
 veto
+via
+viability threshold
 viable
-virulent
-viscosity
+viewpoint shift
+viewpoint-dependent
+vigilance
+violate
+virtual
+visibility
+visible
+vision
+visual
+visual metaphor
+visualize
+vocal delivery
+voice
+voiceover
 volatile
-volcanic
 volume
+voluntary
+voluntary association
+volunteer-based
 vulnerability
 vulnerable
+vulnerable group
+waitlist
 warrant
-wavelength
+warranted
+waste minimization
+waste stream
+water conservation
+water reuse
+water-stressed
+waterway
+weather-proofing
+weather-resilient
 weathering
+web-based
+webinar
+welcome culture
 welfare
-xenophobia
+well-grounded
+whereas
+whereby
+whistleblower
+whiteboard
+whole-of-government
+widespread
+willpower
+wireless
+withdrawal
+word choice
+workable
+workaround
+workflow
+workflow automation
+workforce
+workload
+workplace culture
+workshop
+world-building
+yardstick
+zero-defect
 zone
+zoning
+zoomable

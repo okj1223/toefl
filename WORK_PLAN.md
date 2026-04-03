@@ -2,14 +2,14 @@
 
 ## Current Audit
 
-- Existing ETS files: `toefl_ets_2026_set_01.tsv` to `toefl_ets_2026_set_08.tsv`
-- Current ETS row count: 752
-- File count mismatch:
-  - `set_01`: 102 rows
-  - `set_02`: 50 rows
-- Exact-format validation: passed for all 8 existing files
-- Current duplicate headwords across ETS files: 8
-  - `commodity`, `cohort`, `disparity`, `enforce`, `mortality`, `prohibit`, `stratify`, `subsidy`
+- Existing ETS files: `toefl_ets_2026_set_01.tsv` to `toefl_ets_2026_set_22.tsv`
+- Current ETS row count after the latest expansion pass: 2200
+- Required format policy is changing:
+  - remove `예문:` and `해석:` from every card
+  - store actual line breaks inside quoted TSV fields instead of escaped `\\n` text
+- Current target policy is also changing:
+  - do not force 3000 ETS-based cards if the tail quality drops
+  - prioritize a defensible high-utility academic core for post-2026 TOEFL band 5
 
 ## Official-Source Direction To Preserve
 
@@ -18,6 +18,8 @@
   - multistage adaptive Reading and Listening
   - more modern and equitable topics
   - stronger academic-life relevance such as group discussions and project work
+- Reflect the January 21, 2026 score-report transition:
+  - the former 100-point goal maps approximately to overall band 5
 - Avoid claiming any non-existent "ETS official 3000 word list."
 
 ## Build Sequence
@@ -28,7 +30,8 @@
    - very basic words removed
    - hyper-specialized terms excluded or pushed down
    - modern academic/campus/lecture contexts preferred
-3. Generate ETS files in 100-card batches with duplicate checks after every batch.
+   - no hard 3000-card quota if quality gates say stop
+3. Convert existing TSVs to the 4-line no-example format with real multiline fields.
 4. Generate the AWL headword set separately by sublist order.
 5. Emit metadata and review files:
    - `manifest.json`
@@ -40,12 +43,21 @@
    - row counts
    - duplicate headwords
    - label completeness
-   - literal `\n` count
+   - actual multiline TSV formatting
    - empty file check
+
+## Set Architecture Redesign
+
+- Avoid "one set = one school subject" design.
+- Use function-centered and discourse-centered set focuses: evidence, cause-effect, comparison, interpretation, project coordination, data explanation, policy reasoning, and academic response language.
+- Allow topic variety inside each set, but cap any one narrow specialist subdomain to roughly 15 cards so biology/history/engineering clusters do not take over.
+- Prefer transferable academic wording that can reappear in multiple TOEFL sections and passage types.
+- Do not pre-create all future `.task_setXX.md` files up to 30 sets, because 3000 cards is not a hard quota and future focuses should stay adjustable.
+- Keep completed-set task files as historical records, but use `.task_next.md` as the only active prompt spec for the next immediate ETS set.
 
 ## Immediate Next Actions
 
-1. Repair `set_01` and `set_02` counts without breaking priority order.
-2. Regenerate or complete `set_09` and `set_10` using the same format.
-3. Extend the generator workflow so sets `11` to `30` can be created reproducibly.
-4. Build the AWL headword pipeline with sublist metadata retained in notes or manifest.
+1. Generate the next ETS file from `.task_next.md`, then update `.task_next.md` for only the following set.
+2. Re-run validation after each rewritten/generated set and repair malformed cards immediately.
+3. Periodically rebalance earlier ETS sets if any subject silo or meaning-quality drift appears.
+4. Do a semantic polishing pass on machine-generated AWL glosses before final study use.
