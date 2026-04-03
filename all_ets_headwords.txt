@@ -521,7 +521,6 @@ diffuse
 dispersal
 dispossess
 diversity
-ecology
 emigrate
 enclave
 ethnic
@@ -843,7 +842,6 @@ variability
 operational
 breakpoint
 organizational
-sediment
 purposeful
 weathering
 deposition
@@ -859,7 +857,6 @@ outflow
 fluctuating
 scalable
 supportive
-fossil
 targeted
 porous
 permeability
@@ -870,7 +867,6 @@ crust
 continental
 workable
 atomic
-molecular
 catalyst
 solvent
 solute
@@ -1471,7 +1467,6 @@ content moderation
 data portability
 digital footprint
 file-sharing
-geotagged
 infostream
 link-sharing
 media literacy
@@ -1537,7 +1532,6 @@ interdependent
 life cycle
 microstructure
 modulator
-morphological
 niche
 nutrient-rich
 organismal

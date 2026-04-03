@@ -72,9 +72,9 @@ Cards now omit example sentences and translations.
 
 As of this draft:
 
-- ETS sets `01` to `22` exist, bringing the ETS-based total to 2200 cards
-- AWL sets `01` to `06` exist, covering 570 AWL headwords
+- ETS sets `01` to `22` exist, bringing the ETS-based total to 2194 cards after specialist-term pruning
+- AWL sets `01` to `06` exist, covering 278 AWL headwords after ETS-overlap removal
 - automated TSV validation is in place
-- AWL generation is structurally complete but semantic polishing remains necessary for machine-translated glosses
+- AWL generation is structurally complete and a first-pass Korean meaning polish has been applied, but manual spot review is still recommended
 - duplicate cleanup has started and is tracked in `duplicates_removed.tsv`
 - remaining ETS expansion and final meaning-quality review still need completion

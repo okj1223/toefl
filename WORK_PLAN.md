@@ -3,7 +3,7 @@
 ## Current Audit
 
 - Existing ETS files: `toefl_ets_2026_set_01.tsv` to `toefl_ets_2026_set_22.tsv`
-- Current ETS row count after the latest expansion pass: 2200
+- Current ETS row count after pruning and dedupe cleanup: 2194
 - Required format policy is changing:
   - remove `예문:` and `해석:` from every card
   - store actual line breaks inside quoted TSV fields instead of escaped `\\n` text

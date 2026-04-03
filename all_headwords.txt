@@ -790,7 +790,6 @@ ecological
 ecological footprint
 ecological resilience
 ecologically sound
-ecology
 economy
 ecosystem-based
 edit
@@ -1001,7 +1000,6 @@ formula
 formulate
 forthcoming
 forum
-fossil
 foster
 found
 foundation
@@ -1039,7 +1037,6 @@ generation
 genre convention
 genre-bending
 gentrify
-geotagged
 gestural
 global
 globe
@@ -1471,7 +1468,6 @@ modify
 modular
 modulator
 moisture-retaining
-molecular
 momentum
 monetary
 monitor
@@ -1480,7 +1476,6 @@ monitoring framework
 monopoly
 montage
 mood
-morphological
 mortality
 motif
 motivation
@@ -2043,7 +2038,6 @@ sector
 secular
 secure
 sedentary
-sediment
 seek
 segregation
 select
