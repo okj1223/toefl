@@ -1,5 +1,5 @@
 {
-  "total_ets_cards": 2194,
+  "total_ets_cards": 2076,
   "total_awl_cards": 278,
   "ets_target_policy": "quality-gated expansion; 3000 is not a hard quota",
   "target_score_band": "TOEFL iBT overall band 5 on the 1-6 scale introduced January 21, 2026",
@@ -27,12 +27,11 @@
     "toefl_ets_2026_set_20.tsv",
     "toefl_ets_2026_set_21.tsv",
     "toefl_ets_2026_set_22.tsv",
+    "toefl_ets_2026_set_23.tsv",
+    "toefl_ets_2026_set_24.tsv",
     "toefl_awl_set_01.tsv",
     "toefl_awl_set_02.tsv",
     "toefl_awl_set_03.tsv",
-    "toefl_awl_set_04.tsv",
-    "toefl_awl_set_05.tsv",
-    "toefl_awl_set_06.tsv",
     "fields_spec.md",
     "generation_notes.md",
     "rejected_candidates.tsv",
@@ -59,5 +58,5 @@
     "example/translation field exclusion validation",
     "duplicate-headword audit"
   ],
-  "timestamp": "2026-04-03T17:02:15+09:00"
+  "timestamp": "2026-04-04T13:38:53+09:00"
 }

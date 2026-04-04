@@ -1,3 +1,4 @@
 .codex
 .mini_test.tsv
 *.new.tsv
+__pycache__/

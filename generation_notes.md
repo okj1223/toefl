@@ -42,6 +42,19 @@ This build is oriented to the TOEFL iBT scoring/content direction in effect from
 
 These changes push the vocabulary mix toward modern academic-life usage rather than older niche or culturally narrow topics.
 
+## Old-vs-New TOEFL Comparison Policy
+
+Pruning was done against ETS's own before/after January 21, 2026 content description:
+
+- pre-2026: traditional reading/listening passages, 4 speaking tasks, 2 writing tasks, and broader legacy academic passage topics
+- post-2026: adaptive Reading/Listening, more modern and relatable language, `Read in Daily Life`, `Write an Email`, `Take an Interview`, and content less centered on traditional narrow topics such as Greek mythology
+
+Operationally, this means:
+
+- delete narrow one-field specialist words that feel closer to old passage-specific topic banks than to reusable academic-life vocabulary
+- delete multi-word front entries because they violate the one-headword lemma rule and are better omitted than forced into phrase cards
+- do not refill deleted ETS slots just to preserve 100 cards per file
+
 ## AWL Handling Principle
 
 The AWL set is built around AWL headwords, not by exploding every derivative into separate cards.
@@ -72,9 +85,12 @@ Cards now omit example sentences and translations.
 
 As of this draft:
 
-- ETS sets `01` to `22` exist, bringing the ETS-based total to 2194 cards after specialist-term pruning
-- AWL sets `01` to `06` exist, covering 278 AWL headwords after ETS-overlap removal
+- ETS sets `01` to `24` exist, and after the 2026-pruning pass plus a practical/data supplement pass the ETS-based total is now 2076 cards
+- that second pruning pass deleted outdated, over-specialized, and multi-word front entries without backfilling
+- set `23` adds practical post-2026 academic-life language for email, scheduling, campus services, interviews, and file workflows
+- set `24` adds transferable quantitative/data language for trends, dispersion, uncertainty, approximation, and interpretation
+- AWL sets `01` to `03` now contain 278 AWL headwords repacked into 100/100/78 records after ETS-overlap removal
 - automated TSV validation is in place
 - AWL generation is structurally complete and a first-pass Korean meaning polish has been applied, but manual spot review is still recommended
 - duplicate cleanup has started and is tracked in `duplicates_removed.tsv`
-- remaining ETS expansion and final meaning-quality review still need completion
+- with sets `23` and `24` added, there is no obvious remaining domain gap for a band-5-oriented single-headword core, but final meaning-quality spot review is still recommended

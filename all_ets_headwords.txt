@@ -501,12 +501,10 @@ compliance
 adapt
 affiliation
 ancestry
-assimilation
 census
 civic
 adjust
 cohort
-colonize
 commemorate
 communal
 commute
@@ -1058,7 +1056,6 @@ thaw
 adjustment
 observational
 vegetation
-turning point
 transitional
 participatory
 preparatory
@@ -1220,11 +1217,9 @@ enrollment
 excerpt
 extension
 faculty
-support grant
 follow-up
 forum
 handbook
-reference sheet
 instructor
 internship
 receptiveness
@@ -1243,7 +1238,6 @@ participant
 peer
 groupwide
 poster
-meeting record
 publicize
 questionnaire
 floor
@@ -1369,7 +1363,6 @@ idealized
 displacement
 heirloom
 iconography
-kinship
 institutional
 family-based
 preindustrial
@@ -1396,15 +1389,11 @@ irrigation
 stranded
 algorithmic
 bandwidth
-browser
-cache
-clickthrough
 cloud-based
 connectivity
 crowdsourced
 curate
 cybersecurity
-dashboard
 data-driven
 debug
 digitize
@@ -1458,38 +1447,13 @@ user-generated
 virtual
 web-based
 wireless
-workflow automation
 zoomable
-annotation layer
-backup copy
-browser tab
-content moderation
-data portability
-digital footprint
 file-sharing
 infostream
 link-sharing
-media literacy
-online etiquette
-screen time
 scrolling
-search history
-source attribution
 two-factor
-upload limit
 webinar
-version history
-digital divide
-evidence trail
-message thread
-screen capture
-content update
-device syncing
-data visualization
-remote access
-document sharing
-revision tracking
-access log
 auto-save
 cross-post
 dataset
@@ -1515,7 +1479,6 @@ decomposition
 differentiation
 dormancy
 downregulate
-efficiency ratio
 encapsulate
 equilibrate
 exogenous
@@ -1523,13 +1486,10 @@ feedback-driven
 flow-through
 frictionless
 gradational
-growth curve
 homeostatic
 hybridize
-indicator species
 inflow
 interdependent
-life cycle
 microstructure
 modulator
 niche
@@ -1545,44 +1505,25 @@ photosensitive
 plasticity
 porosity
 predation
-pressure gradient
 reassembly
 recombination
 regenerative
 replicable
-resource uptake
 retentive
 self-regulating
-sensitivity range
-signal cascade
 sink-source
 size-selective
-spatially patterned
 stabilizer
 survivorship
 symbiotic
 threshold-sensitive
 transboundary
-turnover rate
 upregulate
-viability threshold
-adaptive capacity
-boundary layer
-carrying capacity
 cross-adaptation
 density-dependent
 disturbance-tolerant
-energy budget
-flow dynamics
-growth constraint
-habitat corridor
-interaction zone
-metabolic rate
-nutrient cycle
 oxygenation
-resource partitioning
 self-renewal
-stress response
 bioenergetic
 chemosensory
 co-regulation
@@ -1594,14 +1535,9 @@ multiphase
 photoperiodic
 administrability
 advocacy
-allocation formula
-appeal process
-authorizing body
 beneficiary
 budgetary
 caseworker
-citizen input
-coordinating agency
 decentralize
 deliverable-based
 discretionary
@@ -1610,7 +1546,6 @@ enforcement
 entitlement
 equity-oriented
 federated
-funding stream
 grievance
 implementer
 incentivize
@@ -1623,75 +1558,28 @@ multi-stakeholder
 noncompliance
 operationalize
 ordinance
-oversight board
-pilot program
 policymaking
-public comment
 redistributive
-regulatory scope
 rollout
 rulemaking
-service delivery
 subsidize
-targeting criteria
-transparency rule
 unfunded
-uptake rate
-vulnerable group
 whole-of-government
 zoning
-case review
-community liaison
-compliance audit
 cost-sharing
 cross-jurisdictional
 defunding
 disbursement
-equity audit
 evidence-based
 gatekeeping
-governance gap
-impact assessment
-implementation gap
-institutional buy-in
 means-tested
-outcome metric
-participatory planning
-program uptake
-procedural fairness
-public-facing service
 quota-based
-resource targeting
-service gap
-stakeholder mapping
-sunset clause
 underrepresented
-user pathway
 adjudicator
 appropriation
-benefit cap
-case backlog
 citizen-facing
 co-funding
-compliance burden
-coverage gap
-decision rule
 devolution
-eligibility screening
-enrollment pathway
-fiscal year
-governing charter
-implementation toolkit
-inspection regime
-intervention package
-legislative agenda
-monitoring framework
-needs assessment
-operating mandate
-policy alignment
-program continuity
-provider network
-public mandate
 argumentative
 assertive
 backing
@@ -1705,18 +1593,14 @@ defensible
 disputable
 emphatic
 evidentiary
-explanatory power
 foreground
 generalization
 hedge
 illustrative
 implausible
 inconsistency
-interpretive lens
-line of reasoning
 misinterpret
 nuanced
-objectivity claim
 overgeneralize
 overstate
 paraphrase
@@ -1732,71 +1616,41 @@ scholarly
 source-based
 stance
 substantiated
-textual evidence
 thematic
 thesis
-traceable claim
 understate
 warranted
-analytical stance
-claim-evidence link
-conceptual framing
-evidence hierarchy
-explanatory gap
-framing effect
 line-by-line
 perspectival
-reading cue
 text-to-context
 unsubstantiated
-viewpoint shift
 voice
-argument map
 attributional
-claim strength
 contrastive
 definitional
-evidence threshold
-interpretive bias
-persuasive force
 premise-checking
 quote-heavy
 reason-giving
 rebuttal-ready
 statement-level
 text-centered
-topic sentence
 well-grounded
-argument chain
-claim qualifier
-close reading
-contextual cue
 counterclaim
-critical lens
 discursive
 evidence-backed
-explanatory frame
 fallacious
-interpretive range
 misleadingly
-non sequitur
 paraphrastic
 persuasively
 reasoned
 recontextualize
 rhetorically
 source-critical
-stance marker
-supporting detail
-textual nuance
 unexamined
 viewpoint-dependent
-word choice
 bottlenecked
 buildout
 cost-effective
-design constraint
-design iteration
 downtime
 durability
 fit-for-purpose
@@ -1806,32 +1660,21 @@ field-tested
 fine-tune
 future-proof
 human-centered
-incremental rollout
 interchangeable
 load-bearing
-maintenance cycle
 modular
 overhaul
-pain point
 proof-of-concept
 reconfigurable
 retrofit
 robustness
-scaling constraint
 stress-test
 trade-off
-upgrade path
-user testing
 workaround
 zero-defect
 assembly-line
-capacity buffer
 cross-functional
-design brief
-failure mode
-friction point
 implementation-ready
-interface layer
 make-or-buy
 reusability
 testbed
@@ -1842,8 +1685,6 @@ deployment
 downgrade
 end-user
 error-prone
-evaluation metric
-execution gap
 fine-grained
 high-throughput
 iterative
@@ -1865,48 +1706,27 @@ versioning
 backward-compatible
 constraint-aware
 design-driven
-feasibility study
-fit gap
 go-live
 high-availability
-integration point
-minimum viable
 off-the-shelf
-performance baseline
-process bottleneck
-readiness check
-requirements drift
-scalable architecture
-service continuity
-side-by-side rollout
-single-point failure
 solution-oriented
-stress condition
-technical debt
 trialable
 upgrade-ready
-validation step
 co-design
-decision gate
-fit check
-implementation lag
 maintainability
 open-ended
 aesthetic
 allegorical
 ambience
-auditory cue
 backdrop
 brushstroke
 captioned
 choreograph
 cinematic
 collage
-color palette
 composition
 connotation
 curatorial
-dramatic tension
 evocative
 expressive
 genre-bending
@@ -1919,17 +1739,14 @@ metaphorical
 minimalist
 motif
 multimodal
-narrative arc
 orchestrate
 performative
-perspective shift
 photorealistic
 pictorial
 portrayal
 resonance
 rhythmic
 scene-setting
-sensory detail
 silhouette
 soundscape
 spectator
@@ -1941,21 +1758,14 @@ tonal
 understated
 visualize
 voiceover
-vocal delivery
 authorial
-body language
-camera angle
 characterization
 contextualize
-creative medium
-cultural lens
 dramaturgical
 embody
 emotive
-frame narrative
 impressionistic
 intertextual
-linear narrative
 medium-specific
 montage
 nonlinear
@@ -1969,25 +1779,17 @@ reinterpret
 scenic
 scripted
 semiotic
-spatial arrangement
-symbolic weight
-visual metaphor
 world-building
 abstract
 audience-centered
 chiaroscuro
-coherent style
 documentary-style
-expressive range
-framing device
-genre convention
 gestural
 handcrafted
 high-contrast
 imagery
 mise-en-scene
 motivic
-nonverbal cue
 presentational
 readability
 rendering
@@ -2000,7 +1802,6 @@ bystander
 civic-minded
 coalition-building
 consensus-building
-cultural fluency
 deliberative
 dissenting
 disenfranchised
@@ -2011,184 +1812,265 @@ interpersonal
 marginalized
 mediation
 normative
-peer pressure
 polarization
-representative body
-social capital
-social cue
-stakeholder dialogue
 stigma
 trust-building
 unanimity
 whistleblower
-advisory role
-behavioral norm
 bridge-building
-collective voice
-conduct code
-conflict de-escalation
 consultative
 cross-cultural
-dispute resolution
-engagement level
-group dynamic
-host community
 identity-based
-informal norm
-institutional trust
 intergroup
-lived experience
 majoritarian
-mutual obligation
-opinion climate
-participation barrier
-peer recognition
 pluralistic
-public deliberation
-rule compliance
-social accountability
 status-seeking
 subgroup
-tacit agreement
-team norm
 turn-taking
-unwritten rule
-value alignment
-voluntary association
-workplace culture
-accountability mechanism
-audience engagement
-collective responsibility
-community input
 consent-based
 cross-sector
 dialogic
 diplomatic
-disclosure norm
-embedded in
-equitable access
 facilitative
-group belonging
-identity marker
 institutionalized
-issue advocacy
-line of authority
-majority view
-mutually reinforcing
-norm enforcement
-organizational buy-in
 out-group
-participation rate
-public narrative
-role expectation
-shared understanding
-social distance
-status hierarchy
-transparency pledge
 value-laden
 volunteer-based
-welcome culture
-advocacy network
-citizenship norm
-collaborative ethos
-community representation
-baseline scenario
 carbon-neutral
 climate-sensitive
-climate stressor
 conservation-oriented
-cumulative impact
-demand reduction
 depletion
 drought-prone
-ecological footprint
-exposure level
 flood-mitigation
 future-oriented
-green transition
-hazard mitigation
-long-range planning
 low-emission
-material footprint
 net-zero
 overextraction
-pollution load
-preventive adaptation
-resilience planning
 resource-efficient
-resource stewardship
 restoration-oriented
 scarcity
-shock absorption
-supply disruption
-sustainability trade-off
-transition pathway
 water-stressed
 weather-resilient
-waste minimization
-life-cycle thinking
-resource substitution
 low-impact
-climate adaptation
-resource ceiling
-residual risk
 low-waste
-climate volatility
 preparedness
-resource constraint
-urban greening
-resource governance
 climate-informed
-ecologically sound
-resource buffer
 low-carbon
-land-use planning
-restorative intervention
-long-term viability
-environmental burden
 resilience-oriented
-sustainable sourcing
-waste stream
-water conservation
-environmental oversight
 greenwashing
-low-resource setting
-planned retreat
-resource recovery
-transition cost
 weather-proofing
 climate-proof
-resource prioritization
-sustainability benchmark
-water reuse
 pollution-intensive
 climate-ready
 low-maintenance
-risk buffering
-urban runoff
-resource renewal
-environmental threshold
-green investment
-ecological resilience
-cost-saving retrofit
-resource depletion rate
 low-footprint
 sustainability-oriented
-land restoration
-demand-side measure
-climate exposure
 resource-sharing
-low-cost adaptation
 ecosystem-based
 low-vulnerability
 future-proofing
-resource scarcity
-climate uncertainty
-green certification
-supply resilience
 low-regret
 long-horizon
 rechargeable
 reuse-oriented
-climate scenario
 low-consumption
+reschedule
+resend
+rebook
+recheck
+reapply
+preregister
+shortlist
+signup
+signoff
+checkin
+checkout
+walkin
+dropoff
+pickup
+handoff
+followup
+inbox
+outbox
+sender
+salutation
+timeslot
+headsup
+callback
+voicemail
+overrun
+frontdesk
+helpdesk
+workstation
+workspace
+proofread
+reword
+redraft
+markup
+waiver
+refund
+invoice
+receipt
+deposit
+stipend
+reimbursement
+referee
+recommender
+filename
+folder
+sync
+backup
+login
+logout
+username
+passcode
+barcode
+timesheet
+queue
+waittime
+locker
+keycard
+shuttle
+buspass
+classmate
+teammate
+roommate
+registrar
+doublecheck
+crosscheck
+quickstart
+slot
+headcount
+turnout
+retake
+regrade
+appeal
+reopen
+resubmit
+overwrite
+autosave
+walkthrough
+setup
+wordcount
+spellcheck
+grammarcheck
+handout
+printout
+scan
+scanner
+photocopy
+slides
+projector
+soundcheck
+turnaround
+leadtime
+timeframe
+sincerely
+courteous
+respectfully
+request
+availability
+advisor
+troubleshooting
+campus
+service
+approximation
+scatter
+cluster
+outlier
+forecast
+percentage
+median
+mean
+dispersion
+skew
+slope
+plateau
+uptrend
+downtrend
+spike
+dip
+surge
+trendline
+timepoint
+increment
+decrement
+amplitude
+subset
+datapoint
+metric
+denominator
+numerator
+rounding
+underestimate
+overestimate
+sensitivity
+specificity
+granularity
+normalization
+weighting
+benchmarking
+extrapolate
+interpolate
+disaggregate
+tabulate
+quantify
+calibrate
+compare
+rank
+classify
+stratification
+segmentation
+causation
+confounding
+randomization
+replicability
+extrapolation
+interpolation
+thresholding
+filtering
+ranking
+trendwise
+upward
+downward
+comparability
+uncorrelated
+linear
+proportional
+inverse
+annualized
+seasonality
+cyclicality
+volatility
+stabilization
+deterioration
+attainment
+shortfall
+divergence
+stagnation
+acceleration
+deceleration
+plateauing
+breakdown
+databased
+measurability
+observability
+traceability
+statistically
+numerically
+approximately
+roughly
+consistently
+systematically
+sequentially
+simultaneously
+cautiously
+tentatively
+substantially
+marginally
+uniformly
+unevenly
+monotonically
+erratically
+steadily
+intermittently
