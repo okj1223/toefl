@@ -1,396 +1,92 @@
-abolition	"핵심 뜻: 폐지 / 철폐
-부가 뜻: 제도나 관행을 공식적으로 없앰
-핵심 느낌: 남겨두지 않고 제도를 걷어내는 느낌
-구분: abolition=제도 폐지 / reform=고쳐서 바꿈 / repeal=법을 공식 취소함"
-continuum	"핵심 뜻: 연속선 / 이어진 범위
-부가 뜻: 서로 분리된 조각이 아니라 한 흐름으로 이어진 범위
-핵심 느낌: 뚝 끊긴 점들이 아니라 하나의 선으로 이어진 느낌
-구분: continuum=연속적으로 이어진 범위 / sequence=순서 / spectrum=폭넓은 연속 분포"
-trace	"핵심 뜻: 흔적 / 남은 자취
-부가 뜻: 직접 보이지 않는 과거나 원인을 짐작하게 해 주는 남은 표시
-핵심 느낌: 사라진 것의 발자국만 남아 있는 느낌
-구분: trace=남은 흔적 / evidence=근거 자료 / remnant=남은 일부"
-assimilate	"핵심 뜻: 동화되다 / 흡수하다
-부가 뜻: 새 문화나 정보를 받아들여 기존 체계 안에 섞이다
-핵심 느낌: 낯선 것이 안으로 들어와 점점 하나처럼 섞이는 느낌
-구분: assimilate=흡수해 동화시키다 / integrate=구조 안에 함께 포함시키다 / adapt=환경에 맞춰 조정하다"
-autonomous	"핵심 뜻: 자율적인 / 자치적인
-부가 뜻: 외부 통제 없이 스스로 결정·운영하는
-핵심 느낌: 밖에서 끌려가기보다 안에서 스스로 움직이는 느낌
-구분: autonomous=자율·자치적인 / independent=의존하지 않는 / sovereign=정치적으로 주권을 가진"
-chronicle	"핵심 뜻: 연대기 / 기록하다
-부가 뜻: 사건을 시간 순서대로 적은 기록이나 그렇게 남기는 일
-핵심 느낌: 언제 무슨 일이 있었는지 줄 세워 적는 느낌
-구분: chronicle=시간순 기록 / archive=보관 기록물 / narrative=이야기식 서술"
-chronological	"핵심 뜻: 시간 순서의 / 연대순의
-부가 뜻: 사건을 발생한 순서대로 배열한
-핵심 느낌: 앞뒤 시간을 따라 차례대로 늘어놓는 느낌
-구분: chronological=시간 순서대로 / sequential=순차적으로 / historical=역사와 관련된"
-citizenship	"핵심 뜻: 시민권 / 시민으로서의 자격
-부가 뜻: 공동체 구성원으로 인정받는 법적·사회적 지위
-핵심 느낌: 그 사회 안의 정식 구성원으로 서 있는 느낌
-구분: citizenship=시민으로서의 자격과 지위 / nationality=국적 / residency=거주 자격"
-civilization	"핵심 뜻: 문명 / 고도화된 사회
-부가 뜻: 도시·제도·문화가 발달한 큰 사회 체계
-핵심 느낌: 흩어진 삶이 제도와 문화로 커다랗게 짜인 상태
-구분: civilization=발달한 사회·문명 / culture=생활양식과 가치체계 / society=사람들의 조직된 집단"
-community	"핵심 뜻: 공동체 / 집단
-부가 뜻: 사람들이 관계와 소속감을 공유하며 함께 묶인 집단
-핵심 느낌: 따로 흩어진 개인이 아니라 같이 속한 무리
-구분: community=소속과 관계가 있는 집단 / population=전체 인구 집단 / network=연결망"
-colonial	"핵심 뜻: 식민지의 / 식민 지배와 관련된
-부가 뜻: 한 지역이 다른 권력에 지배·정착 통제되는 체제와 관련된
-핵심 느낌: 밖에서 들어온 권력이 땅과 제도를 누르는 느낌
-구분: colonial=식민 지배와 관련된 / imperial=제국 권력의 / native=토착의"
-dominance	"핵심 뜻: 우위 / 지배적 영향력
-부가 뜻: 다른 대상보다 더 강하게 위에 서거나 영향을 행사함
-핵심 느낌: 힘이나 존재감이 위쪽에서 눌러 앞서는 느낌
-구분: dominance=지배적 우위 / control=직접 통제 / superiority=더 뛰어나거나 위에 있음"
-convention	"핵심 뜻: 관습 / 공식 회의
-부가 뜻: 오래 굳어진 사회적 방식 또는 정식 모임
-핵심 느낌: 사람들이 으레 그렇게 하는 약속된 방식
-구분: convention=관습·대회 / custom=생활 관습 / conference=발표·논의 중심 회의"
-craftsmanship	"핵심 뜻: 장인 기술 / 정교한 솜씨
-부가 뜻: 손으로 물건을 잘 만들고 다듬는 숙련된 기술
-핵심 느낌: 대충이 아니라 손끝으로 공들여 만든 완성도
-구분: craftsmanship=장인적 제작 솜씨 / skill=기술 일반 / workmanship=작업 품질"
-customary	"핵심 뜻: 관습적인 / 보통의
-부가 뜻: 오랜 습관이나 사회 규범상 흔히 따르는
-핵심 느낌: 특별 규칙보다 원래 늘 그렇게 해온 방식
-구분: customary=관습적으로 으레 하는 / conventional=통상적·관례적인 / habitual=개인의 습관적인"
-declaration	"핵심 뜻: 선언 / 공식 공표
-부가 뜻: 입장·원칙·독립 등을 분명하게 밝히는 공식 발표
-핵심 느낌: 모호하게 두지 않고 밖으로 분명히 선포하는 느낌
-구분: declaration=공식 선언 / announcement=알림 발표 / statement=입장 진술"
-descendant	"핵심 뜻: 후손
-부가 뜻: 어떤 조상이나 집단에서 이어 내려온 사람
-핵심 느낌: 앞선 세대에서 아래로 이어져 내려온 사람
-구분: descendant=후손 / ancestor=조상 / heir=상속자"
-regime	"핵심 뜻: 체제 / 통치 방식
-부가 뜻: 권력과 규칙이 한 사회를 운영하는 방식이나 그 지배 질서
-핵심 느낌: 누가 어떤 규칙으로 판을 움직이는지 정해진 권력 틀
-구분: regime=권력이 작동하는 통치 체제 / government=정부 조직 / administration=행정 운영"
-egalitarian	"핵심 뜻: 평등주의적인
-부가 뜻: 지위나 권리 차이를 줄이고 동등성을 중시하는
-핵심 느낌: 위아래를 크게 세우지 않고 같은 선을 보려는 느낌
-구분: egalitarian=평등을 중시하는 / democratic=민주적 절차를 중시하는 / equal=동등한"
-emancipation	"핵심 뜻: 해방 / 속박으로부터의 자유
-부가 뜻: 억압·예속 상태에서 벗어나게 됨
-핵심 느낌: 묶여 있던 상태에서 끈이 풀리는 느낌
-구분: emancipation=제도적·사회적 해방 / liberation=해방 일반 / independence=독립"
-empire	"핵심 뜻: 제국
-부가 뜻: 여러 지역이나 민족을 넓게 지배하는 거대한 정치 체계
-핵심 느낌: 중심 권력이 넓은 땅을 크게 거느리는 구조
-구분: empire=광범위한 제국 지배 체제 / kingdom=왕국 / state=국가 일반"
-enduring	"핵심 뜻: 오래 지속되는 / 오래 남는
-부가 뜻: 시간이 지나도 쉽게 사라지지 않는
-핵심 느낌: 잠깐 반짝이 아니라 오래 버티며 남는 느낌
-구분: enduring=오래 지속되는 / temporary=일시적인 / lasting=지속 효과가 긴"
-uncover	"핵심 뜻: 드러내다 / 밝혀내다
-부가 뜻: 가려져 있던 정보나 사실을 찾아 겉으로 나오게 하다
-핵심 느낌: 덮여 있던 것을 걷어 안의 내용을 밖으로 꺼내는 느낌
-구분: uncover=숨은 것을 드러내다 / reveal=밝히다 / discover=처음 찾아내다"
-recovery	"핵심 뜻: 회수 / 되찾음
-부가 뜻: 흩어졌거나 가려진 자료·기능·상태를 다시 찾아 얻는 일
-핵심 느낌: 잃거나 묻힌 것을 다시 손에 넣는 느낌
-구분: recovery=다시 찾아 얻거나 회복함 / retrieval=찾아 꺼냄 / restoration=원래 상태로 되돌림"
-hierarchical	"핵심 뜻: 위계적인 / 서열이 있는
-부가 뜻: 권한이나 지위가 층층이 나뉘어 배열된
-핵심 느낌: 평평하지 않고 위아래 계단이 뚜렷한 느낌
-구분: hierarchical=위계가 있는 / egalitarian=평등주의적인 / stratified=층으로 나뉜"
-storytelling	"핵심 뜻: 서사 전달 / 이야기로 전하기
-부가 뜻: 정보나 의미를 이야기 형식으로 구성해 전달하는 방식
-핵심 느낌: 날것의 사실을 줄거리와 장면으로 엮어 들려주는 느낌
-구분: storytelling=이야기 구조로 전달함 / narration=사건을 서술함 / explanation=이유와 원리를 풀어 설명함"
-pedigree	"핵심 뜻: 계통 / 출처와 이어진 내력
-부가 뜻: 대상이나 아이디어가 어디서 이어져 왔는지 보여주는 출신과 연원
-핵심 느낌: 지금 모습 뒤에 따라붙은 출발점과 이어진 줄기
-구분: pedigree=출처와 계통의 내력 / origin=기원 / lineage=혈통·계열"
-chronicler	"핵심 뜻: 기록자 / 사건을 정리해 남기는 사람
-부가 뜻: 지나간 사건을 시간 흐름에 따라 정리해 글로 남기는 사람
-핵심 느낌: 흘러간 일을 놓치지 않게 줄 세워 적는 사람
-구분: chronicler=사건을 기록해 남기는 사람 / analyst=자료를 해석하는 사람 / observer=관찰자"
-immigrant	"핵심 뜻: 이민자 / 이주해 온 사람
-부가 뜻: 다른 나라나 지역으로 옮겨 와 정착한 사람
-핵심 느낌: 고향을 떠나 새 사회 안으로 들어온 사람
-구분: immigrant=들어와 정착한 이민자 / migrant=이동하는 사람 일반 / refugee=피난 온 난민"
-inheritance	"핵심 뜻: 상속 / 물려받은 것
-부가 뜻: 재산·권리·특성·문화가 앞세대에서 뒤세대로 넘어오는 것
-핵심 느낌: 앞사람이 남긴 것이 내 쪽으로 이어져 들어오는 느낌
-구분: inheritance=물려받은 재산·특성 / heritage=문화적 유산 / legacy=뒤에 남긴 영향"
-inscription	"핵심 뜻: 새겨진 글 / 비문
-부가 뜻: 돌·금속·기념물 등에 새긴 문자 기록
-핵심 느낌: 종이 대신 단단한 표면에 남긴 오래가는 글
-구분: inscription=새겨진 문구·비문 / manuscript=손으로 쓴 원고 / record=기록 일반"
-insurrection	"핵심 뜻: 봉기 / 반란
-부가 뜻: 기존 권력에 맞서 집단이 무력이나 강하게 들고일어남
-핵심 느낌: 아래에서 위 권력에 확 치고 올라가는 저항
-구분: insurrection=권력에 맞선 봉기 / rebellion=반란 일반 / protest=항의 행동"
-intergenerational	"핵심 뜻: 세대 간의
-부가 뜻: 서로 다른 세대 사이에서 일어나거나 이어지는
-핵심 느낌: 한 세대 안이 아니라 부모·자녀 세대를 가로지르는 느낌
-구분: intergenerational=세대 간의 / historical=역사적 / familial=가족의"
-kingdom	"핵심 뜻: 왕국
-부가 뜻: 왕이나 여왕이 다스리는 국가나 영역
-핵심 느낌: 한 군주의 통치 아래 묶인 정치 공간
-구분: kingdom=군주가 다스리는 왕국 / empire=여러 지역을 거느린 제국 / state=국가 일반"
-landmark	"핵심 뜻: 획기적 사건 / 지표가 되는 기준점
-부가 뜻: 역사나 변화 과정에서 방향을 바꾼 중요한 지점
-핵심 느낌: 여기서부터 흐름이 달라졌다고 찍히는 표지
-구분: landmark=중요한 전환점·기준물 / milestone=진행 중 주요 단계 / turning point=결정적 전환점"
-legacy	"핵심 뜻: 유산 / 남긴 영향
-부가 뜻: 앞선 시대나 사람이 뒤에 남긴 오래 가는 흔적과 영향
-핵심 느낌: 지나간 뒤에도 계속 뒤따라 남는 자취
-구분: legacy=뒤에 남긴 영향·유산 / heritage=문화적으로 물려받은 유산 / inheritance=직접 물려받은 것"
-estate	"핵심 뜻: 대규모 토지 자산 / 소유지
-부가 뜻: 넓은 땅과 관련 재산이 하나의 소유 단위로 묶인 것
-핵심 느낌: 집 한 채보다 땅과 자산이 크게 묶인 덩어리
-구분: estate=넓은 토지·재산 묶음 / property=소유 재산 일반 / site=특정 장소"
-transit-based	"핵심 뜻: 이동 경로 중심의 / 수송과 연결된
-부가 뜻: 사람이나 물자의 이동·연결 경로에 초점을 둔
-핵심 느낌: 대상 자체보다 어디서 어디로 오가는 선을 보는 느낌
-구분: transit-based=이동·운송 경로에 초점을 둔 / stationary=고정된 / logistical=운영 이동과 관련된"
-merchant	"핵심 뜻: 상인 / 무역상
-부가 뜻: 상품을 사고팔며 유통과 교역을 맡는 사람
-핵심 느낌: 물건을 이동시키며 이익을 만드는 거래자
-구분: merchant=교역·판매를 하는 상인 / trader=사고파는 거래자 / artisan=직접 만드는 장인"
-migration	"핵심 뜻: 이주 / 이동
-부가 뜻: 사람이나 집단이 다른 지역으로 옮겨 가는 흐름
-핵심 느낌: 한 곳에 고정되지 않고 삶의 터를 옮겨가는 움직임
-구분: migration=집단적 이동·이주 / immigration=들어오는 이민 / relocation=거처·위치를 옮김"
-centralization	"핵심 뜻: 중앙집중화 / 권한 집중
-부가 뜻: 결정권이나 자원이 한 중심으로 모이게 되는 구조
-핵심 느낌: 권한이 여기저기 흩어지지 않고 가운데로 몰리는 느낌
-구분: centralization=권한이 중심으로 모임 / decentralization=권한이 분산됨 / concentration=한곳에 모임"
-marker	"핵심 뜻: 표지 / 의미를 남기는 표시물
-부가 뜻: 어떤 장소나 사건을 알아보게 하거나 기억하게 하는 표시
-핵심 느낌: 그냥 지나치지 않게 여기 의미가 있다고 찍어두는 느낌
-구분: marker=의미나 위치를 표시하는 것 / symbol=의미를 대표하는 표지 / landmark=중요한 기준점"
-multicultural	"핵심 뜻: 다문화의
-부가 뜻: 여러 문화 집단이 함께 존재하거나 상호작용하는
-핵심 느낌: 한 색이 아니라 여러 문화가 같이 놓인 느낌
-구분: multicultural=여러 문화가 공존하는 / diverse=다양한 / cosmopolitan=여러 문화에 열린 도시적"
-symbolism	"핵심 뜻: 상징성 / 상징 체계
-부가 뜻: 겉으로 보이는 것 너머에 담긴 의미와 표지 체계
-핵심 느낌: 이미지나 이야기 뒤에 숨은 뜻을 읽는 느낌
-구분: symbolism=상징을 통한 의미 표현 / imagery=이미지 표현 / interpretation=해석"
-mobile	"핵심 뜻: 이동성 있는 / 옮겨 다니는
-부가 뜻: 한곳에 고정되지 않고 위치나 상태를 바꿀 수 있는
-핵심 느낌: 붙박이보다 필요에 따라 움직일 수 있는 느낌
-구분: mobile=움직이며 옮길 수 있는 / flexible=조정 가능한 / sedentary=정착형의"
-laborer	"핵심 뜻: 노동자 / 일하는 사람
-부가 뜻: 생산이나 현장 일을 맡아 수행하는 사람
-핵심 느낌: 지위보다 실제로 몸과 시간을 들여 일하는 사람
-구분: laborer=노동을 제공하는 사람 / worker=일하는 사람 일반 / artisan=숙련 제작자"
-journey	"핵심 뜻: 여정 / 긴 이동 과정
-부가 뜻: 한 목적지를 향해 이어지는 이동이나 진행 과정
-핵심 느낌: 출발해서 여러 단계를 지나 목적지로 가는 길
-구분: journey=목적지를 향한 이동·과정 / trip=짧은 여행 / process=진행 과정"
-prosperity	"핵심 뜻: 번영 / 경제적·사회적 풍요
-부가 뜻: 사회나 집단이 안정적으로 잘살고 성장하는 상태
-핵심 느낌: 살림과 사회가 넉넉하게 커지는 느낌
-구분: prosperity=풍요로운 번영 / wealth=재산·부 / growth=성장"
-reconstruction	"핵심 뜻: 재건 / 복원적 재구성
-부가 뜻: 무너진 제도·건물·역사상을 다시 세우거나 자료로 다시 짜는 일
-핵심 느낌: 흩어진 조각을 모아 다시 형태를 세우는 느낌
-구분: reconstruction=다시 세우거나 재구성함 / restoration=원래 상태에 가깝게 복원함 / renovation=낡은 것을 새로 고침"
-refugee	"핵심 뜻: 난민 / 피난민
-부가 뜻: 전쟁·박해·재난을 피해 떠난 사람
-핵심 느낌: 살던 곳을 떠날 수밖에 없어 보호를 찾아 움직이는 사람
-구분: refugee=위험을 피해 온 난민 / immigrant=정착 목적 이민자 / exile=추방되거나 망명한 상태"
-vestige	"핵심 뜻: 자취 / 아주 조금 남은 흔적
-부가 뜻: 거의 사라진 과거나 상태에서 조금 남아 있는 잔재
-핵심 느낌: 큰 것은 없어졌는데 끝에 희미한 흔적만 남은 느낌
-구분: vestige=희미하게 남은 자취 / remnant=남은 일부 / trace=흔적"
-renaissance	"핵심 뜻: 부흥 / 재탄생
-부가 뜻: 예술·학문·관심이 다시 활발해지는 시기나 운동
-핵심 느낌: 한동안 약해졌다가 다시 살아 올라오는 느낌
-구분: renaissance=문화·학문의 부흥 / revival=되살아남 일반 / reform=제도 개선"
-resettlement	"핵심 뜻: 재정착 / 이주 후 정착
-부가 뜻: 다른 곳으로 옮겨 새 삶의 터를 다시 잡는 과정
-핵심 느낌: 떠난 뒤 다시 자리를 잡고 삶을 세우는 느낌
-구분: resettlement=새 지역에 다시 정착함 / relocation=위치를 옮김 / displacement=강제로 밀려남"
-revolt	"핵심 뜻: 반란 / 봉기하다
-부가 뜻: 지배나 권위에 맞서 집단이 들고일어나다
-핵심 느낌: 더는 못 참겠다고 아래에서 위로 치받는 느낌
-구분: revolt=반란·저항 봉기 / protest=항의하다 / riot=소요·폭동"
-leadership	"핵심 뜻: 지도층 / 이끄는 역할
-부가 뜻: 집단의 방향과 결정을 이끄는 위치나 사람들
-핵심 느낌: 앞에서 방향을 잡고 다른 사람을 이끄는 자리
-구분: leadership=이끄는 역할·지도력 / authority=공식 권한 / status=사회적 지위"
-recorder	"핵심 뜻: 기록 담당자 / 기록자
-부가 뜻: 논의나 사건을 글로 남기는 사람
-핵심 느낌: 흘러가는 내용을 빠뜨리지 않고 적어두는 역할
-구분: recorder=내용을 기록하는 사람 / writer=글쓴이 일반 / clerk=사무 기록 담당자"
-sedentary	"핵심 뜻: 정착 생활의 / 오래 앉아 있는
-부가 뜻: 한곳에 머물러 사는 방식 또는 몸을 덜 움직이는 상태
-핵심 느낌: 계속 이동하기보다 한자리에 자리 잡은 느낌
-구분: sedentary=정착형·비활동적인 / nomadic=유목·이동형의 / stationary=움직이지 않는"
-slavery	"핵심 뜻: 노예제 / 노예 상태
-부가 뜻: 사람이 소유와 강제 노동의 대상이 되는 제도나 상태
-핵심 느낌: 사람의 자유가 제도적으로 묶인 상태
-구분: slavery=노예제·노예 상태 / bondage=예속 상태 / servitude=강제적 종속"
-stratified	"핵심 뜻: 계층화된 / 층으로 나뉜
-부가 뜻: 사회나 구조가 서로 다른 층위로 분리·배열된
-핵심 느낌: 평평하지 않고 여러 층으로 갈라진 느낌
-구분: stratified=계층으로 나뉜 / hierarchical=위계가 있는 / divided=나뉜"
-succession	"핵심 뜻: 계승 / 이어받음
-부가 뜻: 권력·지위·순서가 다음 사람이나 단계로 넘어감
-핵심 느낌: 앞사람 자리와 역할이 다음 줄로 넘어가는 느낌
-구분: succession=지위·권력의 계승 / inheritance=재산·특성의 상속 / sequence=순서"
-textile	"핵심 뜻: 직물 / 섬유 제품
-부가 뜻: 실이나 섬유를 짜서 만든 천과 관련 제품
-핵심 느낌: 역사 속 생산과 교역을 보여주는 짜인 천
-구분: textile=천·직물 제품 / fabric=천 재료 / garment=옷"
-legitimacy	"핵심 뜻: 정당성 / 인정받을 만한 근거
-부가 뜻: 권한이나 주장, 제도가 타당하다고 받아들여지는 근거와 상태
-핵심 느낌: 힘이 있다는 것보다 그 힘이 맞다고 인정받는 느낌
-구분: legitimacy=권한·주장이 정당하다고 인정됨 / authority=공식 권위 / credibility=믿을 만함"
-memorial	"핵심 뜻: 기념물 / 추모 대상
-부가 뜻: 사람이나 사건을 기억하고 기리기 위해 만든 대상이나 장소
-핵심 느낌: 없어진 사람·사건을 기억 속에 세워두는 표시
-구분: memorial=추모·기념 대상 / monument=기념 구조물 / reminder=떠올리게 하는 것"
-group-based	"핵심 뜻: 집단 기반의 / 공동체 단위의
-부가 뜻: 개인 하나보다 소속 집단의 경계와 규범을 중심으로 작동하는
-핵심 느낌: 혼자 판단하는 게 아니라 어느 집단에 속했는지가 먼저 보이는 느낌
-구분: group-based=집단 단위로 작동하는 / individual=개인 중심의 / communal=공동체적인"
-uprising	"핵심 뜻: 봉기 / 반란
-부가 뜻: 사람들이 권력에 맞서 집단적으로 일어나는 사건
-핵심 느낌: 눌려 있던 집단이 한꺼번에 위로 솟는 느낌
-구분: uprising=집단적 봉기 / revolt=반란 / protest=항의 행동"
-urbanization	"핵심 뜻: 도시화
-부가 뜻: 인구와 생활·산업이 도시로 집중되는 변화 과정
-핵심 느낌: 사람과 기능이 점점 도시 쪽으로 빨려 들어가는 흐름
-구분: urbanization=도시로 집중되는 과정 / industrialization=산업 중심 구조로 바뀜 / migration=사람의 이동"
-vessel	"핵심 뜻: 선박 / 용기
-부가 뜻: 사람·물건을 실어 나르는 배 또는 담는 그릇
-핵심 느낌: 무언가를 담거나 운반하는 바깥 껍질
-구분: vessel=배·용기 / ship=큰 배 / container=담는 용기"
-conflict-prone	"핵심 뜻: 갈등이 잦은 / 충돌로 기우는
-부가 뜻: 협력보다 대립과 충돌이 쉽게 생기는 경향이 있는
-핵심 느낌: 작은 차이도 싸움 쪽으로 번지기 쉬운 느낌
-구분: conflict-prone=갈등이 쉽게 생기는 / cooperative=협력적인 / aggressive=공격적인"
-waterway	"핵심 뜻: 수로 / 배가 다니는 물길
-부가 뜻: 교통·무역·이동에 쓰이는 강·운하 같은 물길
-핵심 느낌: 땅길 대신 물 위로 열린 이동 통로
-구분: waterway=배가 다니는 물길 / canal=인공 운하 / river=강"
-artisan	"핵심 뜻: 장인 / 숙련 수공업자
-부가 뜻: 손기술로 물건을 정교하게 만드는 사람
-핵심 느낌: 기계보다 손과 숙련으로 결과물을 만드는 사람
-구분: artisan=숙련 장인 / craftsman=수공예 기술자 / laborer=일반 노동자"
-figurehead	"핵심 뜻: 상징적 지도자 / 대표 얼굴
-부가 뜻: 실제 세부 집행보다 집단을 대표하는 상징적 인물
-핵심 느낌: 조직의 얼굴로 앞에 서지만 모든 실무를 직접 하진 않는 느낌
-구분: figurehead=상징적 대표 인물 / leader=실제 지도자 일반 / spokesperson=공식 발언자"
-idealized	"핵심 뜻: 이상화된 / 높게 그려진
-부가 뜻: 현실 그대로보다 더 완벽하거나 가치 있게 표현된
-핵심 느낌: 있는 그대로보다 위로 끌어올려 빛나게 그리는 느낌
-구분: idealized=현실보다 이상적으로 그려진 / symbolic=상징적인 / realistic=현실적인"
-displacement	"핵심 뜻: 강제 이주 / 밀려남
-부가 뜻: 사람이나 집단이 기존 자리에서 밀려나 다른 곳으로 옮겨짐
-핵심 느낌: 원래 있던 곳에서 힘에 의해 밖으로 떠밀리는 느낌
-구분: displacement=자리에서 밀려남·강제 이동 / migration=이주 이동 / relocation=새 장소로 옮김"
-heirloom	"핵심 뜻: 가보 / 대대로 물려받은 물건
-부가 뜻: 가족 안에서 세대를 넘어 전해지는 소중한 물건
-핵심 느낌: 물건 하나에 집안의 시간이 같이 묻어 이어지는 느낌
-구분: heirloom=집안 대대로 내려온 가보 / artifact=역사적 유물 / souvenir=기념품"
-iconography	"핵심 뜻: 도상 해석 / 상징 이미지 체계
-부가 뜻: 그림·조각 속 상징과 이미지가 어떤 의미를 갖는지 보는 체계
-핵심 느낌: 겉모습 아래 상징 코드를 읽어내는 방식
-구분: iconography=이미지 상징 체계와 해석 / symbolism=상징성 일반 / imagery=이미지 표현"
-institutional	"핵심 뜻: 제도적 / 기관 차원의
-부가 뜻: 개인 선택보다 조직·제도의 틀 안에서 작동하는
-핵심 느낌: 개인보다 큰 공식 구조가 움직이는 느낌
-구분: institutional=제도·기관 차원의 / organizational=조직의 / individual=개인의"
-family-based	"핵심 뜻: 가족 관계 기반의 / 친족 중심의
-부가 뜻: 개인보다 가족·친족 관계망을 중심으로 조직된
-핵심 느낌: 혼자 떨어진 개인보다 가족선 안에서 위치가 정해지는 느낌
-구분: family-based=가족 관계를 바탕으로 한 / community-based=공동체 기반의 / individual-based=개인 중심의"
-preindustrial	"핵심 뜻: 산업화 이전의
-부가 뜻: 산업 생산과 현대 도시체계가 본격화되기 전의
-핵심 느낌: 공장과 대규모 현대 시스템 이전의 사회 조건을 보는 느낌
-구분: preindustrial=산업화 이전의 / modern=근대·현대의 / traditional=전통적인"
-rule-bound	"핵심 뜻: 규율에 묶인 / 규칙 중심의
-부가 뜻: 개인 재량보다 정해진 규칙과 절차를 강하게 따르는
-핵심 느낌: 자유롭게 흘러가기보다 규칙선 안에서 움직이는 느낌
-구분: rule-bound=규칙과 규율에 강하게 묶인 / flexible=유연한 / informal=비공식적인"
-archival	"핵심 뜻: 기록 보관의 / 아카이브 관련의
-부가 뜻: 문서와 자료를 보관·정리해 두는 일과 관련된
-핵심 느낌: 나중에 다시 찾을 수 있게 남겨두는 기록 쪽 느낌
-구분: archival=기록 보관과 관련된 / documentary=문서 기록의 / historical=역사와 관련된"
-senior-led	"핵심 뜻: 상위자가 이끄는 / 연장자 주도의
-부가 뜻: 결정이나 방향이 위쪽 또는 선배·상위자 중심으로 잡히는
-핵심 느낌: 아래에서 평등하게가 아니라 위에서 끌고 가는 느낌
-구분: senior-led=상위자·선배가 주도하는 / participatory=참여 중심의 / egalitarian=평등주의적인"
-inheritance-based	"핵심 뜻: 상속 기반의 / 계승 질서 중심의
-부가 뜻: 권리나 지위가 누구에게 어떻게 넘어가는지의 계승 규칙에 기반한
-핵심 느낌: 관계보다 무엇을 누구에게 넘기는지의 줄을 먼저 보는 느낌
-구분: inheritance-based=상속·계승 규칙에 기반한 / hereditary=세습적인 / familial=가족 관계의"
-workforce	"핵심 뜻: 노동력 집단 / 일하는 인력
-부가 뜻: 생산이나 업무를 실제로 수행하는 사람들의 집단
-핵심 느낌: 계획이 아니라 일을 몸으로 굴리는 사람들 전체
-구분: workforce=일하는 인력 집단 / laborer=노동자 개인 / population=인구 집단"
-precolonial	"핵심 뜻: 식민지화 이전의
-부가 뜻: 외부 식민 지배가 들어오기 전 시대와 관련된
-핵심 느낌: 바깥 제국이 들어오기 전 자기 질서가 있던 시기
-구분: precolonial=식민 지배 이전의 / colonial=식민 지배기의 / indigenous=토착의"
-remnant	"핵심 뜻: 잔존물 / 남은 일부
-부가 뜻: 큰 것이 사라진 뒤에도 일부 남아 있는 흔적이나 조각
-핵심 느낌: 다 없어지지 않고 끝에 조금 남은 자투리
-구분: remnant=남은 일부·잔재 / relic=과거의 유물·흔적 / remainder=나머지"
-shrine	"핵심 뜻: 성지 / 신전
-부가 뜻: 종교적 숭배나 기념을 위해 마련된 장소
-핵심 느낌: 특정 신성함이나 기억 앞에 멈춰 서는 장소
-구분: shrine=숭배·기념의 성소 / temple=종교 건축물 / monument=기념 구조물"
-subsistence	"핵심 뜻: 생계 유지 / 자급 수준의 생활
-부가 뜻: 최소한 먹고살 만큼 생산하고 버티는 방식
-핵심 느낌: 남는 축적보다 하루하루 살아낼 만큼 유지하는 느낌
-구분: subsistence=기초 생계 유지·자급 / livelihood=생계를 버는 방식 / prosperity=넉넉한 번영"
-urbanism	"핵심 뜻: 도시 생활 양식 / 도시 중심 사고
-부가 뜻: 도시의 공간·생활·사회 구조를 중심으로 보는 성향이나 방식
-핵심 느낌: 삶의 기준이 도시 구조와 리듬에 맞춰진 느낌
-구분: urbanism=도시 중심 생활·사고 / urbanization=도시로 집중되는 과정 / metropolitan=대도시권의"
-subordinate	"핵심 뜻: 하위의 / 종속된 사람
-부가 뜻: 권한이나 지위가 위쪽에 비해 아래에 놓인 사람이나 위치
-핵심 느낌: 중심에 서기보다 위 체계 아래에 딸려 있는 느낌
-구분: subordinate=하위 지위의 사람·종속된 / dependent=의존적인 / assistant=보조자"
-upheaval	"핵심 뜻: 격변 / 대혼란
-부가 뜻: 사회나 정치 질서가 크게 뒤흔들리는 변화
-핵심 느낌: 바닥부터 뒤집혀 안정이 깨지는 느낌
-구분: upheaval=질서를 크게 흔드는 격변 / reform=제도 개선 / unrest=불안과 소요"
-agrarian	"핵심 뜻: 농업 중심의 / 농경 사회의
-부가 뜻: 토지 경작과 농업 생산이 사회의 중심인
-핵심 느낌: 도시 산업보다 땅과 농사가 바닥을 이루는 느낌
-구분: agrarian=농업 기반의 / rural=농촌의 / industrial=산업의"
-annexation	"핵심 뜻: 병합 / 영토 편입
-부가 뜻: 한 지역을 자국의 통치권 아래 공식적으로 편입하는 일
-핵심 느낌: 경계 밖 땅을 자기 지도 안으로 끌어넣는 느낌
-구분: annexation=영토를 공식 편입함 / occupation=점령 / integration=제도 안으로 통합"
-caravan	"핵심 뜻: 대상 / 이동 상인 행렬
-부가 뜻: 사막·장거리 길에서 함께 이동하는 상인·여행자 무리
-핵심 느낌: 혼자 가지 않고 짐과 사람을 줄지어 함께 움직이는 행렬
-구분: caravan=장거리 이동 상인·여행 행렬 / convoy=호위받는 차량·선박 행렬 / expedition=목적 있는 탐사대"
-stronghold	"핵심 뜻: 거점 / 강한 기반
-부가 뜻: 영향력이나 방어가 단단히 유지되는 중심 근거지
-핵심 느낌: 쉽게 밀리지 않는 단단한 중심 자리
-구분: stronghold=힘이 집중된 거점 / base=기반 / center=중심지"
-diasporic	"핵심 뜻: 디아스포라의 / 흩어진 이주 집단과 관련된
-부가 뜻: 고향 밖 여러 지역에 퍼진 공동체의 정체성·문화와 관련된
-핵심 느낌: 떨어져 있어도 같은 뿌리가 여러 곳에 이어진 느낌
-구분: diasporic=디아스포라 집단의 / migratory=이동성의 / ethnic=민족 집단의"
-exile	"핵심 뜻: 망명 / 추방
-부가 뜻: 정치적·사회적 이유로 고향 밖에 강제로 떠나 있거나 그렇게 만드는 일
-핵심 느낌: 돌아가고 싶어도 원래 자리 밖으로 밀려난 상태
-구분: exile=고향 밖으로 추방·망명됨 / migration=이주 / banishment=추방 처벌"
-outlying	"핵심 뜻: 외곽의 / 중심에서 떨어진
-부가 뜻: 중심 지역에서 벗어나 주변부에 놓인
-핵심 느낌: 핵심 한복판이 아니라 가장자리 바깥쪽에 있는 느낌
-구분: outlying=중심에서 떨어진 외곽의 / peripheral=주변부의 / remote=멀리 떨어진"
-irrigation	"핵심 뜻: 관개 / 물대기
-부가 뜻: 농경지에 물길을 대어 작물을 키우는 체계
-핵심 느낌: 자연 비만 기다리지 않고 물을 끌어와 땅을 적시는 느낌
-구분: irrigation=농경지에 물을 대는 체계 / drainage=물을 빼는 배수 / cultivation=경작"
-stranded	"핵심 뜻: 발이 묶인 / 오도 가도 못하는
-부가 뜻: 예상치 못한 이유로 이동하거나 빠져나가기 어려운
-핵심 느낌: 어딘가에 남겨져 길이 막힌 느낌
-구분: stranded=발이 묶인 / isolated=떨어져 고립된 / delayed=늦춰진"
+usable	핵심 뜻: 사용 가능한
+nutrient	핵심 뜻: 영양분
+overexploit	"핵심 뜻: 과도하게 이용하다 / 남용하다
+구분: overexploit=자원을 과도 이용 / exploit=활용·착취"
+variance	핵심 뜻: 분산 / 변동
+reflection	핵심 뜻: 성찰 / 되돌아보기
+overuse	핵심 뜻: 과용
+pasture	핵심 뜻: 목초지 / 방목지
+summary	핵심 뜻: 요약
+countermeasure	핵심 뜻: 대응책
+foundational	핵심 뜻: 기초가 되는 / 토대의
+recommendation	핵심 뜻: 권고 / 추천
+stakeholder	"핵심 뜻: 이해관계자
+구분: stakeholder=영향을 주고받는 관련 당사자 / participant=참가자"
+preservation	핵심 뜻: 보존 / 유지
+comparison	핵심 뜻: 비교 / 대조
+recharge	핵심 뜻: 다시 채우다 / 재충전되다
+reclamation	핵심 뜻: 간척 / 개간
+revitalization	핵심 뜻: 활성화
+replenish	핵심 뜻: 다시 채우다 / 보충하다
+storage	핵심 뜻: 저장
+guidance	핵심 뜻: 지도 / 안내
+spillover	핵심 뜻: 파급 효과
+initiative	핵심 뜻: 주도성
+completion	핵심 뜻: 완료
+orientation	핵심 뜻: 방향 설정 / 오리엔테이션
+visibility	핵심 뜻: 가시성
+stewardship	핵심 뜻: 책임 있는 관리 / 보전 관리
+sustainable	핵심 뜻: 지속 가능한
+thaw	핵심 뜻: 녹다 / 해빙되다
+adjustment	핵심 뜻: 조정 / 수정
+observational	핵심 뜻: 관찰 기반의 / 관찰용의
+vegetation	핵심 뜻: 식생 / 초목
+transitional	핵심 뜻: 전환기의
+participatory	핵심 뜻: 참여형의
+preparatory	핵심 뜻: 준비 단계의 / 예비적인
+anthropogenic	"핵심 뜻: 인간 활동에서 비롯된 / 인위적인
+구분: anthropogenic=인간 활동 기원 / artificial=인공적"
+desalination	핵심 뜻: 담수화
+desertification	"핵심 뜻: 사막화
+구분: desertification=토지의 사막화 과정 / drought=가뭄"
+ecological	"핵심 뜻: 생태학적인 / 생태계의
+구분: ecological=생태계 관계 관련 / environmental=환경 전반 관련"
+workflow	핵심 뜻: 작업 흐름
+junction	핵심 뜻: 접합 지점 / 합류점
+floodplain	핵심 뜻: 범람원
+strategic	핵심 뜻: 전략적인
+accommodating	핵심 뜻: 협조적인
+analysis	핵심 뜻: 분석
+infiltration	"핵심 뜻: 침투 / 스며듦
+구분: infiltration=안으로 스며듦 / runoff=표면 유출"
+coordinated	핵심 뜻: 조율된
+agent	핵심 뜻: 작용 주체 / 행위자
+propagate	"핵심 뜻: 전파되다
+구분: propagate=신호·정보·영향이 퍼져 나가다 / diffuse=넓게 확산되다"
+roadmapping	핵심 뜻: 실행 로드맵을 짜기
+evaluative	핵심 뜻: 평가적인
+instructional	핵심 뜻: 교육용의 / 교수의
+drainage	"핵심 뜻: 배수
+구분: drainage=물을 빼내는 체계 / irrigation=물을 대는 체계"
+interpretive	"핵심 뜻: 해석의
+구분: interpretive=의미 해석 중심 / analytical=구조 분석 중심"
+manageable	핵심 뜻: 감당할 수 있는 / 다루기 쉬운
+negotiable	핵심 뜻: 협상 가능한
+persuasive	핵심 뜻: 설득력 있는
+vapor	핵심 뜻: 증기 / 수증기
+restoration	"핵심 뜻: 복원 / 회복
+구분: restoration=훼손 상태를 되돌림 / preservation=현재 상태 보존"
+conservation	"핵심 뜻: 보전
+구분: conservation=자원을 보호하며 관리 / preservation=손대지 않고 보존"
+degradation	"핵심 뜻: 악화
+구분: degradation=질이 떨어지는 악화 / deterioration=점진적 악화"
+renewable	핵심 뜻: 재생 가능한
+finite	핵심 뜻: 유한한
+productive	핵심 뜻: 생산적인
+structured	핵심 뜻: 구조화된
+transferable	핵심 뜻: 전이 가능한
+disruption	핵심 뜻: 교란
+awareness	핵심 뜻: 인식 / 자각
+arousal	핵심 뜻: 각성
+attachment	핵심 뜻: 애착
+aversion	핵심 뜻: 혐오
+behavioral	핵심 뜻: 행동의
+belief	"핵심 뜻: 믿음 / 신념
+구분: belief=사실처럼 받아들이는 믿음 / assumption=검증 전 가정"
+burnout	핵심 뜻: 번아웃
+concentration	핵심 뜻: 집중
+conformity	핵심 뜻: 동조
+curiosity	핵심 뜻: 호기심
+deliberation	핵심 뜻: 숙고
+dependency	핵심 뜻: 의존성
+distraction	핵심 뜻: 주의 산만

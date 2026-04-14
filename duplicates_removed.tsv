@@ -300,3 +300,6 @@ toefl_awl_set_06.tsv:63	panel	removed AWL duplicate already covered in ETS (toef
 toefl_awl_set_06.tsv:64	persist	removed AWL duplicate already covered in ETS (toefl_ets_2026_set_04.tsv:80)
 toefl_awl_set_06.tsv:65	pose	removed AWL duplicate already covered in ETS (toefl_ets_2026_set_01.tsv:71)
 toefl_awl_set_06.tsv:69	undergo	removed AWL duplicate already covered in ETS (toefl_ets_2026_set_01.tsv:98)
+toefl_ets_2026_set_15.tsv:51	login	removed semantic duplicate already covered in ETS supplement (toefl_ets_2026_set_23.tsv:93)
+toefl_ets_2026_set_23.tsv:15	follow-up	removed semantic duplicate already covered in ETS campus set (toefl_ets_2026_set_13.tsv:25)
+toefl_ets_2026_set_23.tsv:96	auto-save	removed semantic duplicate already covered in ETS digital set (toefl_ets_2026_set_15.tsv:95)

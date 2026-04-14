@@ -8,14 +8,23 @@ All card files are stored as UTF-8 TSV with:
 - delimiter = tab
 - internal line breaks in column 2 are stored as actual newlines inside a quoted TSV field
 
-## Card Back Required Structure
+## Card Back Structure
 
-Every card back must contain exactly these 4 labeled lines in this order:
+Every card back now uses a compact structure:
 
-1. `핵심 뜻:`
-2. `부가 뜻:`
-3. `핵심 느낌:`
-4. `구분:`
+1. `핵심 뜻:` required
+2. `구분:` optional
+
+The card back may therefore have 1 or 2 lines.
+
+## Meaning Count Policy
+
+There is no fixed target count for how many glosses or contrast points a card must contain.
+
+- `핵심 뜻:` may contain one meaning or several TOEFL-relevant senses when those senses are all genuinely reusable on the test
+- `구분:` is used only when the confusion risk is real, and it may compare against one or two nearby words depending on what is actually helpful
+
+Cards should therefore be driven by study value, not by symmetric formatting.
 
 Example sentences and translations are intentionally excluded from the front-facing TSV cards.
 
@@ -36,12 +45,15 @@ The following review fields are tracked during generation and validation, but ar
 
 - ETS-based sets: priority-first ordering
 - AWL sets: sublist 1 to 10, then utility within each sublist
-- files split in blocks of 100 cards
+- after pruning/review, files are rebalanced into roughly even sections instead of fixed 100-card blocks
+- current section sizing is `79/78` for ETS and `70/70/69/69` for AWL
 
 ## Validation Rules
 
 - exactly 2 TSV columns per row
 - column 2 must contain actual line breaks, not escaped `\n` text
-- exactly 4 labeled lines in the required order
+- 1 to 2 labeled lines in the allowed order
+- `핵심 뜻:` must always be present
+- `부가 뜻:` and `핵심 느낌:` must not appear in the front-facing TSV cards
 - no empty files
 - no duplicate headwords within a set family after cleanup

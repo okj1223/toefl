@@ -9,14 +9,18 @@ from collections import defaultdict
 from pathlib import Path
 
 
-REQUIRED_LABELS = [
+CANONICAL_LABELS = [
     "핵심 뜻:",
-    "부가 뜻:",
-    "핵심 느낌:",
     "구분:",
 ]
 
+REQUIRED_LABELS = {
+    "핵심 뜻:",
+}
+
 FORBIDDEN_LABELS = [
+    "부가 뜻:",
+    "핵심 느낌:",
     "예문:",
     "해석:",
 ]
@@ -52,7 +56,7 @@ def audit_file(path: Path) -> dict:
                     }
                 )
 
-            if len(back_lines) != len(REQUIRED_LABELS):
+            if not 1 <= len(back_lines) <= len(CANONICAL_LABELS):
                 issues.append(
                     {
                         "file": str(path),
@@ -62,17 +66,54 @@ def audit_file(path: Path) -> dict:
                     }
                 )
 
-            for index, label in enumerate(REQUIRED_LABELS):
-                if index >= len(back_lines) or not back_lines[index].startswith(label):
+            labels = []
+            for line in back_lines:
+                label = next(
+                    (candidate for candidate in CANONICAL_LABELS if line.startswith(candidate)),
+                    None,
+                )
+                if label is None:
+                    issues.append(
+                        {
+                            "file": str(path),
+                            "line": row_no,
+                            "type": "unknown_label",
+                            "detail": line,
+                        }
+                    )
+                    labels = []
+                    break
+                if not line[len(label) :].strip():
+                    issues.append(
+                        {
+                            "file": str(path),
+                            "line": row_no,
+                            "type": "empty_label_value",
+                            "detail": label,
+                        }
+                    )
+                labels.append(label)
+
+            if labels:
+                order = [CANONICAL_LABELS.index(label) for label in labels]
+                if order != sorted(order) or len(set(labels)) != len(labels):
                     issues.append(
                         {
                             "file": str(path),
                             "line": row_no,
                             "type": "label_order",
-                            "detail": REQUIRED_LABELS,
+                            "detail": labels,
                         }
                     )
-                    break
+                if not REQUIRED_LABELS.issubset(set(labels)):
+                    issues.append(
+                        {
+                            "file": str(path),
+                            "line": row_no,
+                            "type": "missing_required_labels",
+                            "detail": sorted(REQUIRED_LABELS - set(labels)),
+                        }
+                    )
 
             forbidden = [label for label in FORBIDDEN_LABELS if label in back]
             if forbidden:

@@ -1,168 +1,118 @@
-agenda-setting	"핵심 뜻: 의제 설정 / 무엇을 먼저 논의할지 정함
-부가 뜻: 여러 문제 중 어떤 주제를 공적 논의의 중심으로 끌어올릴지 방향을 잡는 일
-핵심 느낌: 모든 말이 동시에 나오지 않게 토론판의 첫 줄을 정하는 느낌
-구분: agenda-setting=공론장의 논의 우선순위를 정함 / prioritization=우선순위 정하기 / framing=어떤 틀로 보게 하는 방식"
-allyship	"핵심 뜻: 연대적 지지 / 직접 당사자가 아니어도 함께 편드는 태도
-부가 뜻: 자신이 중심 피해 당사자가 아니어도 불평등 문제에서 책임 있게 지지와 행동을 보태는 것
-핵심 느낌: 밖에서 구경만 하지 않고 같은 편 줄에 서서 어깨를 붙이는 느낌
-구분: allyship=당사자와 함께하는 지지와 연대 / sympathy=공감 / sponsorship=공식 후원"
-asymmetry	"핵심 뜻: 비대칭 / 양쪽 힘·정보·지위가 같지 않음
-부가 뜻: 상호작용하는 두 집단이나 개인이 자원, 권한, 정보에서 균형을 이루지 못하는 상태
-핵심 느낌: 마주 보는 저울이 한쪽으로 기울어 출발선부터 다른 느낌
-구분: asymmetry=양쪽이 균형을 이루지 못함 / inequality=불평등 / imbalance=균형이 어긋남"
-backlash	"핵심 뜻: 역풍 / 변화에 대한 반발
-부가 뜻: 새 정책, 사회 변화, 발언이 나온 뒤 이에 맞서 강한 저항이나 부정 반응이 되돌아오는 현상
-핵심 느낌: 앞으로 밀어낸 힘에 뒤에서 반대로 확 치고 들어오는 바람
-구분: backlash=변화나 조치에 대한 반발 역풍 / criticism=비판 / resistance=저항"
-bystander	"핵심 뜻: 방관자 / 현장에 있지만 직접 개입하지 않는 사람
-부가 뜻: 문제나 상호작용을 보고 있으면서도 당사자나 개입자로 들어가지 않고 옆에 머무는 사람
-핵심 느낌: 장면 안에는 있지만 손을 안 대고 가장자리에서 보는 자리
-구분: bystander=현장에 있으나 개입하지 않는 사람 / witness=목격자 / participant=참여자"
-civic-minded	"핵심 뜻: 시민의식이 있는 / 공공의 이익을 생각하는
-부가 뜻: 개인 이익만이 아니라 공동체 규범, 공적 책임, 사회적 참여를 염두에 두는
-핵심 느낌: 내 일만 보는 게 아니라 모두가 쓰는 길의 상태도 같이 보는 느낌
-구분: civic-minded=공공 책임과 시민 참여를 중시하는 / public-spirited=공익 지향적인 / self-interested=자기 이익 중심의"
-coalition-building	"핵심 뜻: 연합 형성 / 여러 집단을 묶어 공동전선을 만듦
-부가 뜻: 이해관계가 완전히 같지 않은 집단들도 공통 목표를 중심으로 협력 구조를 만들어 가는 일
-핵심 느낌: 따로 흩어진 선들을 하나의 굵은 밧줄로 묶는 느낌
-구분: coalition-building=여러 집단을 연합으로 묶음 / collaboration=협력 / alliance=동맹"
-consensus-building	"핵심 뜻: 합의 형성 / 여러 의견을 모아 공통 결론을 만드는 과정
-부가 뜻: 한쪽이 일방적으로 밀기보다 서로의 차이를 조정해 같이 받아들일 수 있는 결론을 만드는 일
-핵심 느낌: 각자 흩어진 목소리를 겹치는 가운데 지점으로 천천히 모으는 느낌
-구분: consensus-building=공통 합의를 만들어 가는 과정 / negotiation=조건을 조율하는 협상 / persuasion=설득"
-deliberative	"핵심 뜻: 숙의적인 / 충분히 논의하며 판단하는
-부가 뜻: 즉각 반응보다 이유, 근거, 대안, 공적 영향을 두고 차분히 따져 보는 성격의
-핵심 느낌: 한 번에 찍지 않고 여러 목소리를 올려놓고 천천히 저울질하는 느낌
-구분: deliberative=토론과 숙고를 거쳐 판단하는 / impulsive=충동적인 / reflective=되돌아보는"
-dissenting	"핵심 뜻: 이견을 내는 / 다수 의견에 반대하는
-부가 뜻: 지배적 합의나 공식 입장과 같은 줄에 서지 않고 다른 판단을 드러내는
-핵심 느낌: 모두 같은 방향으로 손들 때 옆에서 다른 팻말을 드는 느낌
-구분: dissenting=다수·공식 의견에 반대하는 / critical=비판적인 / supportive=지지하는"
-disenfranchised	"핵심 뜻: 권리에서 배제된 / 정치·사회 참여 힘이 약한
-부가 뜻: 법적·제도적·사회적 이유로 자신의 목소리를 충분히 내거나 영향력을 행사하기 어려운 상태의
-핵심 느낌: 회의장은 열려 있어도 내 표와 말이 문턱 밖으로 밀려난 느낌
-구분: disenfranchised=참여 권한과 영향력에서 배제된 / marginalized=주변화된 / empowered=힘과 권한을 가진"
-etiquette	"핵심 뜻: 예절 / 상황에 맞는 사회적 행동 규범
-부가 뜻: 공식 법보다 더 부드러운 수준에서 어떤 자리에서 어떻게 말하고 행동해야 하는지를 정하는 관습
-핵심 느낌: 틀리면 처벌받기보다 분위기가 어색해지는 보이지 않는 행동 규칙
-구분: etiquette=사회적 예절과 관습 규범 / protocol=공식 절차와 의례 / manners=예의범절"
-grassroots	"핵심 뜻: 풀뿌리의 / 현장 시민에서 아래로부터 올라오는
-부가 뜻: 정부나 중앙 조직이 먼저 내려보내는 방식이 아니라 지역 구성원과 일반 참여자가 기반이 되는
-핵심 느낌: 위에서 설계된 탑보다 땅 아래 잔뿌리에서 힘이 올라오는 느낌
-구분: grassroots=아래로부터 시민 기반의 / top-down=위에서 아래로 내려오는 / local=지역의"
-inclusivity	"핵심 뜻: 포용성 / 다양한 사람이 배제되지 않고 함께 들어오는 정도
-부가 뜻: 특정 배경이나 정체성의 사람만 편하게 들어오는 구조가 아니라 더 많은 사람이 참여하고 존중받게 하는 성질
-핵심 느낌: 문이 좁게 한 줄만 통과시키지 않고 여러 사람이 들어올 수 있게 열리는 느낌
-구분: inclusivity=다양한 사람을 배제하지 않고 받아들이는 성질 / diversity=구성의 다양성 / tolerance=관용"
-interpersonal	"핵심 뜻: 대인 관계의 / 사람 사이 상호작용과 관련된
-부가 뜻: 개인 내부보다 두 사람 이상이 서로 말하고 반응하고 관계를 조정하는 방식에 관한
-핵심 느낌: 머릿속 혼잣말보다 사람과 사람 사이 공간에서 일이 생기는 느낌
-구분: interpersonal=사람 사이 상호작용의 / intrapersonal=개인 내면의 / social=사회적인"
-marginalized	"핵심 뜻: 주변화된 / 중심 결정과 인정에서 밀려난
-부가 뜻: 수나 존재가 없다는 뜻이 아니라 권력, 자원, 가시성, 발언권에서 중심 자리 밖으로 밀린
-핵심 느낌: 방 안에 있어도 테이블 가운데가 아니라 벽 쪽으로 밀려난 느낌
-구분: marginalized=사회적 중심과 자원에서 밀려난 / disenfranchised=참여 권한이 약한 / minority=수적으로 적은 집단"
-mediation	"핵심 뜻: 중재 / 사이에서 갈등과 오해를 조정함
-부가 뜻: 대립하는 쪽들이 직접 부딪혀 굳어지지 않도록 제3자가 말과 조건을 조율해 접점을 찾게 돕는 과정
-핵심 느낌: 두 줄이 정면충돌하지 않게 가운데에서 매듭을 풀어 주는 느낌
-구분: mediation=제3자가 갈등을 조정하는 중재 / negotiation=당사자 간 협상 / arbitration=중재자가 판정하는 절차"
-normative	"핵심 뜻: 규범적인 / 무엇이 옳고 바람직한지 기준을 두는
-부가 뜻: 사실이 어떻게 되었는지만 말하기보다 어떤 기준대로 해야 한다는 판단이 들어간
-핵심 느낌: 있는 그대로 묘사보다 이래야 한다는 잣대가 같이 서 있는 느낌
-구분: normative=옳고 바람직함의 기준을 담은 / descriptive=있는 그대로 설명하는 / prescriptive=어떻게 해야 한다고 처방하는"
-polarization	"핵심 뜻: 양극화 / 입장과 집단이 서로 더 갈라짐
-부가 뜻: 중간 지점에서 섞이기보다 두 진영이 더 멀리 벌어지고 상대를 덜 받아들이게 되는 현상
-핵심 느낌: 가운데 다리가 얇아지고 양끝 언덕이 서로 더 멀어지는 느낌
-구분: polarization=입장과 집단이 양끝으로 갈라짐 / disagreement=의견 불일치 / segmentation=여러 조각으로 나뉨"
-stigma	"핵심 뜻: 낙인 / 특정 집단이나 상태에 붙는 부정적 사회표지
-부가 뜻: 개인의 실제 모습보다 사회가 특정 특성에 부정적 의미를 붙여 거리와 차별을 만드는 효과
-핵심 느낌: 피부에 실제로 적힌 건 아닌데 주변 시선이 보이지 않는 딱지를 붙이는 느낌
-구분: stigma=부정적 사회 낙인 / stereotype=고정된 단순화 이미지 / prejudice=편견"
-trust-building	"핵심 뜻: 신뢰 형성 / 서로 믿고 협력할 기반을 쌓음
-부가 뜻: 한 번의 약속보다 반복된 투명한 소통과 책임 있는 행동을 통해 관계의 신뢰도를 높이는 과정
-핵심 느낌: 말 한마디보다 시간에 걸쳐 천천히 다리를 놓는 느낌
-구분: trust-building=관계의 신뢰 기반을 쌓음 / rapport-building=편한 소통 관계를 만듦 / persuasion=설득"
-unanimity	"핵심 뜻: 만장일치 / 모두가 같은 결론에 동의함
-부가 뜻: 대부분이 아니라 참여한 구성원 전원이 공식적으로 같은 입장을 취하는 상태
-핵심 느낌: 회의 테이블에서 손이 하나도 빠지지 않고 같은 방향으로 올라간 느낌
-구분: unanimity=전원이 같은 결론에 동의함 / consensus=대체로 함께 받아들일 수 있는 합의 / majority=다수"
-whistleblower	"핵심 뜻: 내부고발자 / 조직 안 문제를 밖으로 알리는 사람
-부가 뜻: 조직 내부에서 본 위법, 부정, 위험을 침묵하지 않고 신고하거나 공개하는 사람
-핵심 느낌: 안쪽에서 덮인 문제를 문 밖으로 들고 나오는 사람
-구분: whistleblower=내부 문제를 신고·공개하는 사람 / informant=정보 제공자 / dissenter=이견을 내는 사람"
-bridge-building	"핵심 뜻: 가교 형성 / 갈라진 집단 사이 연결을 만드는 일
-부가 뜻: 서로 불신하거나 따로 움직이던 사람들 사이에 대화와 협력의 통로를 여는 과정
-핵심 느낌: 끊어진 양쪽 둑 사이에 다시 건널 수 있는 판을 놓는 느낌
-구분: bridge-building=집단 사이 연결과 신뢰를 만드는 일 / mediation=갈등 중재 / outreach=외부와 연결하려는 접근"
-consultative	"핵심 뜻: 의견 수렴형의 / 결정 전 관련자 의견을 듣는
-부가 뜻: 한쪽이 혼자 확정하기보다 영향을 받는 사람들에게 의견을 묻고 반영 가능성을 여는 방식의
-핵심 느낌: 닫힌 방 안에서 정하지 않고 문을 열어 목소리를 먼저 듣는 느낌
-구분: consultative=관련자 의견을 듣는 방식의 / participatory=당사자가 직접 참여하는 / unilateral=일방적인"
-cross-cultural	"핵심 뜻: 문화 간의 / 서로 다른 문화가 만나는
-부가 뜻: 한 문화 내부만이 아니라 서로 다른 관습, 가치, 소통 방식이 부딪히고 조정되는 상황과 관련된
-핵심 느낌: 각자 다른 규칙으로 움직이던 사람들이 한 장면에서 만나는 느낌
-구분: cross-cultural=서로 다른 문화 사이의 / multicultural=여러 문화가 공존하는 / intercultural=문화 간 상호작용을 강조하는"
-identity-based	"핵심 뜻: 정체성 기반의 / 집단 소속과 자기인식에 근거한
-부가 뜻: 개인의 선택을 단순 취향보다 성별, 언어, 지역, 인종, 세대 같은 사회적 정체성과 연결해 보는
-핵심 느낌: 무작위 개인이 아니라 내가 어느 이름표 아래 서 있는지가 영향을 주는 느낌
-구분: identity-based=사회적 정체성에 근거한 / individual=개인적인 / demographic=인구집단 특성의"
-intergroup	"핵심 뜻: 집단 간의 / 서로 다른 사회 집단 사이에서 생기는
-부가 뜻: 한 집단 내부가 아니라 서로 다른 소속과 정체성을 가진 집단들이 만나고 비교되고 긴장하는 관계와 관련된
-핵심 느낌: 방 하나 안의 대화보다 서로 다른 울타리 사이에 선이 오가는 느낌
-구분: intergroup=집단 사이의 / intragroup=집단 내부의 / interpersonal=개인 사이의"
-majoritarian	"핵심 뜻: 다수결 중심의 / 다수의 뜻을 우선하는
-부가 뜻: 전체 합의나 소수 보호보다 숫자상 많은 쪽의 선호와 결정을 더 강하게 반영하는 성격의
-핵심 느낌: 모든 목소리를 고르게 재기보다 가장 큰 덩어리의 표가 방향을 잡는 느낌
-구분: majoritarian=다수의 뜻을 우선하는 / pluralistic=여러 집단 공존을 인정하는 / unanimous=전원 일치의"
-pluralistic	"핵심 뜻: 다원주의적인 / 여러 입장과 집단이 함께 존재함을 인정하는
-부가 뜻: 한 기준이나 정체성으로 모두를 밀어넣기보다 서로 다른 가치와 방식이 공존할 수 있다고 보는
-핵심 느낌: 한 색으로 덮기보다 여러 색이 같은 판에 같이 놓일 자리를 여는 느낌
-구분: pluralistic=다양한 집단과 입장의 공존을 인정하는 / majoritarian=다수 우선의 / homogeneous=동질적인"
-status-seeking	"핵심 뜻: 지위 추구적인 / 인정과 서열 상승을 노리는
-부가 뜻: 행동의 목적이 내용 자체보다 더 높은 평가, 권위, 눈에 띄는 위치를 얻는 데 많이 향한
-핵심 느낌: 무슨 일을 하느냐보다 사다리에서 한 칸 더 위로 보이려는 움직임
-구분: status-seeking=지위와 인정 상승을 추구하는 / achievement-oriented=성과를 중시하는 / altruistic=이타적인"
-subgroup	"핵심 뜻: 하위 집단 / 큰 집단 안에서 다시 나뉜 작은 묶음
-부가 뜻: 전체 공동체나 조직 안에 공통 관심, 역할, 정체성으로 따로 구분되는 작은 집단
-핵심 느낌: 한 큰 원 안에 다시 작은 원들이 접혀 있는 느낌
-구분: subgroup=큰 집단 안의 작은 하위 집단 / minority=수적으로 적은 집단 / faction=내부 파벌"
-turn-taking	"핵심 뜻: 발언 순서 교대 / 대화에서 차례를 주고받는 방식
-부가 뜻: 여러 사람이 말할 때 끼어들기, 넘겨주기, 침묵, 응답 타이밍으로 순서를 조절하는 상호작용 방식
-핵심 느낌: 대화가 한 사람 독주가 아니라 말의 공이 서로 넘어가는 리듬
-구분: turn-taking=대화에서 발언 차례를 주고받는 방식 / interruption=끼어들기 / dialogue=대화"
-consent-based	"핵심 뜻: 동의 기반의 / 당사자 수락을 전제로 하는
-부가 뜻: 힘이나 관습으로 밀어붙이지 않고 당사자가 알고 받아들였는지를 핵심 기준으로 삼는
-핵심 느낌: 아무리 가능해 보여도 먼저 고개 끄덕임이 있어야 문이 열리는 느낌
-구분: consent-based=당사자 동의를 전제로 하는 / coercive=강압적인 / voluntary=자발적인"
-cross-sector	"핵심 뜻: 부문 간의 / 정부·민간·비영리 등 서로 다른 영역이 함께하는
-부가 뜻: 한 조직 분야 안에서만 끝나지 않고 서로 다른 제도 영역이 협력하거나 영향을 주고받는
-핵심 느낌: 각자 다른 건물의 사람들이 한 프로젝트 다리 위에서 만나는 느낌
-구분: cross-sector=서로 다른 사회·조직 부문이 함께하는 / cross-functional=여러 기능 부서가 함께하는 / single-sector=한 부문에 한정된"
-dialogic	"핵심 뜻: 대화적인 / 한쪽 전달보다 주고받는 상호작용의
-부가 뜻: 말이 일방향 발표로 닫히지 않고 상대 응답과 의미 조정을 포함하는 성격의
-핵심 느낌: 한 사람이 벽에 말하는 게 아니라 말이 오가며 사이 공간에서 뜻이 생기는 느낌
-구분: dialogic=상호응답적 대화의 / monologic=일방향 발화의 / conversational=대화체의"
-diplomatic	"핵심 뜻: 외교적이고 신중한 / 갈등을 자극하지 않게 조절하는
-부가 뜻: 자기 입장을 숨긴다는 뜻만이 아니라 상대 체면과 관계를 고려해 표현 강도와 표현 방식을 조심스럽게 맞추는
-핵심 느낌: 날카로운 말을 그대로 던지지 않고 모서리를 조금 다듬어 건네는 느낌
-구분: diplomatic=관계를 고려해 신중하게 표현하는 / blunt=직설적인 / strategic=전략적인"
-facilitative	"핵심 뜻: 촉진적인 / 사람들이 말하고 협력하기 쉽게 돕는
-부가 뜻: 직접 결론을 대신 내기보다 참여자들이 의견을 내고 조정하고 다음 행동으로 가게 과정을 열어 주는
-핵심 느낌: 앞에서 명령하는 손보다 흐름이 막히지 않게 길을 터 주는 손
-구분: facilitative=과정과 참여를 촉진하는 / directive=지시적인 / supportive=도움을 주는"
-institutionalized	"핵심 뜻: 제도화된 / 관행이 공식 구조와 규칙 속에 굳어진
-부가 뜻: 한 번의 행동이 아니라 반복된 방식이 규칙, 절차, 조직 구조에 들어가 비교적 안정적으로 자리 잡은
-핵심 느낌: 즉석 습관이 아니라 조직의 뼈대 안에 아예 홈이 파인 느낌
-구분: institutionalized=제도와 절차 속에 굳어진 / informal=비공식적인 / established=자리 잡은"
-out-group	"핵심 뜻: 외집단 / 자기 소속 바깥으로 구분되는 집단
-부가 뜻: 내가 속한 우리 집단과 대비되어 거리감, 고정관념, 경쟁의 대상으로 인식될 수 있는 바깥 집단
-핵심 느낌: 우리라는 원 밖에 다른 색으로 둘러쳐진 바깥 원
-구분: out-group=자기 집단 바깥으로 구분된 집단 / in-group=자기 소속 집단 / outsider=외부자"
-value-laden	"핵심 뜻: 가치 판단이 실린 / 중립처럼 보여도 어떤 기준을 담은
-부가 뜻: 말이나 분류, 설명이 사실 전달만 하는 듯해도 무엇을 더 좋고 나쁘게 보는 기준을 함께 싣고 있는
-핵심 느낌: 평평한 정보판처럼 보여도 아래에 한쪽으로 기우는 저울이 깔린 느낌
-구분: value-laden=가치 판단이 담긴 / neutral=중립적인 / normative=어떻게 해야 하는지 기준을 두는"
-volunteer-based	"핵심 뜻: 자원봉사 기반의 / 자발적 참여 인력에 기대는
-부가 뜻: 급여를 받는 정규 인력보다 자발적으로 시간을 내는 사람들의 참여가 운영의 중요한 기반이 되는
-핵심 느낌: 돈으로 고용한 손보다 스스로 보태는 손들이 조직을 받치는 느낌
-구분: volunteer-based=자발적 참여 인력에 기반한 / staff-led=직원이 주도하는 / grassroots=아래로부터 시민 기반의"
+illustrative	핵심 뜻: 예시가 되는
+implausible	"핵심 뜻: 그럴듯하지 않은
+구분: implausible=설득력 있게 믿기 어려운 / unlikely=가능성이 낮은"
+inconsistency	"핵심 뜻: 불일치
+구분: inconsistency=내용이나 기준이 서로 어긋남 / contradiction=정면으로 충돌하는 모순"
+misinterpret	"핵심 뜻: 잘못 해석하다
+구분: misinterpret=의미를 잘못 해석하다 / misunderstand=잘못 이해하다 일반"
+nuanced	"핵심 뜻: 미묘한 차이를 살린 / 정교한
+구분: nuanced=미묘한 차이까지 반영한 / subtle=차이가 섬세한"
+overgeneralize	"핵심 뜻: 과도하게 일반화하다
+구분: overgeneralize=근거보다 너무 넓게 일반화하다 / generalize=일반화하다"
+overstate	"핵심 뜻: 과장해 말하다
+구분: overstate=실제보다 강하게 말하다 / exaggerate=과장하다"
+paraphrase	"핵심 뜻: 바꿔 말하다 / 의역하다
+구분: paraphrase=뜻을 살려 다른 말로 바꾸다 / quote=원문 그대로 인용하다"
+plausibility	핵심 뜻: 그럴듯함 / 개연성
+positioning	"핵심 뜻: 입장 설정
+구분: positioning=어떤 입장·자리로 배치해 보이게 함 / framing=해석 틀을 씌움"
+premise	"핵심 뜻: 전제
+구분: premise=논증이 출발하는 전제 / conclusion=최종 결론"
+presuppose	"핵심 뜻: 전제로 깔다
+구분: presuppose=이미 사실로 전제하다 / assume=가정하다"
+rebut	"핵심 뜻: 반박하다
+구분: rebut=근거를 들어 반박하다 / refute=틀렸음을 입증하며 논파하다"
+reframe	"핵심 뜻: 틀을 다시 짜다 / 다른 관점으로 다시 제시하다
+구분: reframe=해석의 틀을 다시 설정하다 / reinterpret=다시 해석하다"
+rhetorical	"핵심 뜻: 수사적인
+구분: rhetorical=표현 방식과 설득 효과의 / argumentative=논증적인"
+salience	"핵심 뜻: 두드러짐 / 현저성
+구분: salience=특히 눈에 띄고 중요하게 보임 / prominence=두드러진 위치"
+scholarly	핵심 뜻: 학술적인
+source-based	"핵심 뜻: 출처 기반의
+구분: source-based=출처와 자료에 근거한 / evidence-based=검증된 근거에 기반한"
+stance	"핵심 뜻: 입장
+구분: stance=쟁점에 대한 입장과 관점 / position=놓인 자리나 입장"
+substantiated	"핵심 뜻: 근거로 뒷받침된 / 입증된
+구분: substantiated=근거로 뒷받침된 / supported=지지받는"
+thematic	핵심 뜻: 주제 중심의
+thesis	"핵심 뜻: 핵심 주장 / 논지
+구분: thesis=글의 중심 논지 / claim=개별 주장"
+understate	"핵심 뜻: 축소해 말하다
+구분: understate=실제보다 약하게 말하다 / downplay=중요성을 낮춰 보이게 하다"
+warranted	"핵심 뜻: 정당화되는 / 타당한
+구분: warranted=근거상 정당화되는 / justified=타당한 이유가 있는"
+perspectival	핵심 뜻: 관점에 따른
+unsubstantiated	"핵심 뜻: 근거가 부족한
+구분: unsubstantiated=근거가 충분히 뒷받침되지 않은 / unsupported=지지 근거가 없는"
+voice	핵심 뜻: 서술 목소리 / 어조
+attributional	핵심 뜻: 귀인과 관련된
+contrastive	핵심 뜻: 대조적인
+definitional	핵심 뜻: 정의와 관련된
+text-centered	"핵심 뜻: 본문 중심의
+구분: text-centered=본문 표현과 구조에 밀착한 / context-driven=주변 맥락에 크게 기대는"
+well-grounded	"핵심 뜻: 근거가 탄탄한
+구분: well-grounded=근거와 바탕이 탄탄한 / substantiated=근거로 뒷받침된"
+counterclaim	"핵심 뜻: 맞대응 주장 / 맞주장
+구분: counterclaim=기존 주장에 맞서는 주장 / counterargument=반대 논거"
+discursive	핵심 뜻: 담화적인
+evidence-backed	핵심 뜻: 근거로 뒷받침된
+fallacious	"핵심 뜻: 오류를 담은
+구분: fallacious=논리 오류가 있는 / invalid=타당하지 않은"
+misleadingly	"핵심 뜻: 오해를 부르게
+구분: misleadingly=잘못된 인상을 주며 / inaccurately=부정확하게"
+paraphrastic	핵심 뜻: 바꿔 말한 / 의역적인
+persuasively	핵심 뜻: 설득력 있게 / 납득되게
+reasoned	"핵심 뜻: 숙고된
+구분: reasoned=이유를 갖춘 숙고된 / impulsive=충동적인"
+recontextualize	핵심 뜻: 새 맥락에 다시 놓다 / 맥락을 바꿔 재해석하다
+rhetorically	핵심 뜻: 수사적으로
+source-critical	핵심 뜻: 출처를 비판적으로 검토하는
+unexamined	"핵심 뜻: 검토되지 않은
+구분: unexamined=충분히 검토되지 않은 / unquestioned=의심 없이 받아들인"
+viewpoint-dependent	핵심 뜻: 관점에 따라 달라지는
+bottlenecked	핵심 뜻: 병목이 걸린
+cost-effective	핵심 뜻: 비용 대비 효율적인
+downtime	핵심 뜻: 중단 시간
+durability	핵심 뜻: 내구성
+fit-for-purpose	핵심 뜻: 목적에 맞는
+fallback	"핵심 뜻: 대체 수단 / 예비안
+구분: fallback=문제 시 쓰는 예비 대안 / default=기본값"
+fault-tolerant	"핵심 뜻: 고장에 강한
+구분: fault-tolerant=부분 고장을 견디는 / resilient=충격에도 버티고 회복하는"
+field-tested	"핵심 뜻: 현장 검증된
+구분: field-tested=실제 현장에서 시험된 / theoretical=이론적인"
+fine-tune	"핵심 뜻: 미세 조정하다
+구분: fine-tune=세부를 미세 조정하다 / revise=고쳐 쓰다"
+future-proof	핵심 뜻: 미래 변화에도 버티게 설계하다
+human-centered	핵심 뜻: 사람 중심의 / 사용자 중심의
+interchangeable	핵심 뜻: 서로 바꿔 쓸 수 있는
+load-bearing	핵심 뜻: 하중을 지탱하는
+modular	핵심 뜻: 모듈형의
+overhaul	핵심 뜻: 전면 개편하다
+reconfigurable	핵심 뜻: 재구성 가능한
+retrofit	핵심 뜻: 개조해 덧붙이다
+robustness	핵심 뜻: 견고성
+stress-test	"핵심 뜻: 한계 시험을 하다
+구분: stress-test=강한 부담 조건에서 한계와 약점을 시험하다 / field-test=실제 환경에서 시험하다"
+trade-off	"핵심 뜻: 상충 관계
+구분: trade-off=서로 상충하는 목표 사이의 선택 / compromise=서로 양보한 절충"
+workaround	"핵심 뜻: 우회 해결책
+구분: workaround=문제를 피해 가는 임시 우회책 / solution=근본 해결책"
+assembly-line	"핵심 뜻: 조립 라인식의
+구분: assembly-line=단계별로 이어지는 반복 작업 방식의 / modular=모듈형의"
+cross-functional	핵심 뜻: 여러 기능 부서가 함께하는 / 기능 간 협업형의
+implementation-ready	"핵심 뜻: 실행 준비가 된
+구분: implementation-ready=실제로 실행할 준비가 된 / feasible=실현 가능한"
+reusability	"핵심 뜻: 재사용성
+구분: reusability=다른 맥락에서도 다시 쓸 수 있음 / transferability=다른 상황에 적용 가능함"
+testbed	"핵심 뜻: 시험 플랫폼
+구분: testbed=시험용 환경·플랫폼 / prototype=시험용 모델"
+buildup	"핵심 뜻: 점진적 축적
+구분: buildup=단계적으로 쌓아 감 / expansion=규모를 넓힘"
+calculated	핵심 뜻: 신중히 계산된
+customizable	핵심 뜻: 맞춤 조정 가능한
+deployment	핵심 뜻: 배치·도입
+downgrade	핵심 뜻: 성능·등급을 낮추다
+end-user	핵심 뜻: 최종 사용자
+error-prone	핵심 뜻: 오류가 나기 쉬운

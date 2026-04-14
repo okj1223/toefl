@@ -1,388 +1,121 @@
-adjourn	"핵심 뜻: 회의를 마치다 / 휴회하다
-부가 뜻: 논의를 잠시 멈추거나 공식 종료하다
-핵심 느낌: 모임을 일단 접고 끝내는 느낌
-구분: adjourn=회의를 마치다 / postpone=나중으로 미루다 / suspend=일시 중단하다"
-alumni	"핵심 뜻: 졸업생들 / 동문
-부가 뜻: 학교 출신자 집단
-핵심 느낌: 같은 학교를 나온 사람들 묶음
-구분: alumni=졸업생 집단 / graduates=졸업한 사람들 / classmates=같은 반·동기"
-applicant	"핵심 뜻: 지원자 / 신청자
-부가 뜻: 프로그램·장학금·직무 등에 신청한 사람
-핵심 느낌: 기회를 얻으려고 서류를 낸 사람
-구분: applicant=지원한 사람 / candidate=선발 대상자 / nominee=지명된 사람"
-appointment	"핵심 뜻: 약속 / 면담 예약
-부가 뜻: 정해진 만남 또는 공식 임명
-핵심 느낌: 시간을 잡아 만나는 공식 자리
-구분: appointment=예약된 만남 / reservation=자리·시설 예약 / meeting=논의 모임"
-attendance	"핵심 뜻: 출석 / 참석
-부가 뜻: 수업이나 행사에 실제로 온 상태
-핵심 느낌: 자리에 와 있는지 세는 느낌
-구분: attendance=출석 여부 / participation=활동 참여 / enrollment=등록 상태"
-attendee	"핵심 뜻: 참석자
-부가 뜻: 행사·강연·회의에 온 사람
-핵심 느낌: 그 자리에 실제로 온 사람
-구분: attendee=행사 참석자 / participant=활동에 참여하는 사람 / audience=듣고 보는 청중"
-brainstorm	"핵심 뜻: 아이디어를 자유롭게 내다
-부가 뜻: 초기 단계에서 여러 생각을 빠르게 모으다
-핵심 느낌: 판단을 미루고 생각을 쏟아내는 느낌
-구분: brainstorm=아이디어를 많이 내다 / discuss=의견을 나누다 / plan=실행안을 짜다"
-bulletin	"핵심 뜻: 공지 / 게시 안내문
-부가 뜻: 여러 사람에게 알리는 짧은 공식 안내
-핵심 느낌: 게시판에 붙는 공지 느낌
-구분: bulletin=게시형 공지 / announcement=공식 발표 / notice=알림문"
-candidate	"핵심 뜻: 후보자 / 검토 대상
-부가 뜻: 선발·임명·검증을 앞둔 사람이나 대안
-핵심 느낌: 여러 선택지 중 심사 대상에 오른 것
-구분: candidate=후보·심사 대상 / applicant=지원자 / option=선택 가능한 대안"
-chairperson	"핵심 뜻: 의장 / 회의 진행 책임자
-부가 뜻: 회의를 이끌고 발언 순서와 절차를 조정하는 사람
-핵심 느낌: 회의 테이블의 중심에서 진행을 잡는 사람
-구분: chairperson=회의 진행 책임자 / moderator=토론 흐름 조정자 / coordinator=업무 연결 담당자"
-citation	"핵심 뜻: 인용 / 참고문헌 표기
-부가 뜻: 출처를 밝히기 위해 다는 문헌 정보
-핵심 느낌: 어디서 가져왔는지 근거를 붙이는 표시
-구분: citation=출처 표기 / reference=참고문헌·참조 대상 / quotation=직접 인용문"
-coauthor	"핵심 뜻: 공동 저자
-부가 뜻: 한 논문이나 글을 함께 쓴 사람
-핵심 느낌: 같은 글에 이름을 같이 올린 사람
-구분: coauthor=공동 집필자 / collaborator=협력자 / contributor=기여한 사람"
-discussion-based	"핵심 뜻: 토론 중심의
-부가 뜻: 일방향 전달보다 참여자 간 의견 교환이 중심이 되는
-핵심 느낌: 혼자 설명하는 게 아니라 주고받으며 생각을 여는 느낌
-구분: discussion-based=토론 참여가 중심인 / lecture-based=강의 전달 중심의 / interactive=상호작용이 있는"
-committee	"핵심 뜻: 위원회
-부가 뜻: 특정 안건을 검토·결정하기 위해 꾸린 공식 집단
-핵심 느낌: 일을 나눠 맡은 소수 결정 그룹
-구분: committee=공식 심의 집단 / panel=발표·심사단 / board=최상위 이사회·위원회"
-consultation	"핵심 뜻: 상담 / 협의
-부가 뜻: 조언을 구하거나 의견을 맞추기 위한 공식 대화
-핵심 느낌: 혼자 정하지 않고 물어보고 조율하는 자리
-구분: consultation=전문가·관계자와 상담·협의 / discussion=폭넓은 논의 / advice=받는 조언 자체"
-convene	"핵심 뜻: 소집하다 / 모이다
-부가 뜻: 회의나 공식 모임을 열거나 그 자리에 모이다
-핵심 느낌: 정해진 자리로 사람들을 불러 모으는 느낌
-구분: convene=공식적으로 소집하다 / gather=모이다 / assemble=한곳에 집합시키다"
-coordinator	"핵심 뜻: 조정자 / 진행 담당자
-부가 뜻: 사람·일정·업무 연결을 맞춰 주는 사람
-핵심 느낌: 따로 움직이는 일을 한 줄로 엮는 사람
-구분: coordinator=실무 조율자 / supervisor=감독·지도자 / organizer=행사 준비 책임자"
-correspondence	"핵심 뜻: 서신 교환 / 업무 연락
-부가 뜻: 이메일·편지 등으로 오가는 공식 소통
-핵심 느낌: 문서로 주고받는 연락의 흐름
-구분: correspondence=서면 연락 교환 / communication=소통 전반 / message=개별 메시지 하나"
-credential	"핵심 뜻: 자격 증명 / 인증
-부가 뜻: 능력·신분·학력을 보여 주는 공식 증빙
-핵심 느낌: 이 사람이 조건을 갖췄다는 공식 표시
-구분: credential=자격을 증명하는 문서·경력 / certificate=수료·자격 증서 / qualification=자격 요건 자체"
-deadline	"핵심 뜻: 마감 기한
-부가 뜻: 제출이나 완료를 끝내야 하는 마지막 시점
-핵심 느낌: 그때를 넘기면 늦는 선
-구분: deadline=마감 시한 / timeline=전체 일정 흐름 / due date=제출 예정 날짜"
-discussant	"핵심 뜻: 토론 발표자 / 지정 토론자
-부가 뜻: 발표 내용에 대해 논평과 질문을 맡은 사람
-핵심 느낌: 발표를 듣고 바로 반응을 정리해 던지는 사람
-구분: discussant=지정 논평자 / presenter=발표자 / moderator=토론 진행자"
-disseminate	"핵심 뜻: 널리 퍼뜨리다 / 배포하다
-부가 뜻: 연구 결과나 정보를 많은 사람에게 확산시키다
-핵심 느낌: 알아야 할 내용을 넓게 퍼뜨리는 느낌
-구분: disseminate=지식·정보를 확산하다 / distribute=자료를 나눠 주다 / spread=일반적으로 퍼지다"
-enrollment	"핵심 뜻: 등록 / 수강 신청 상태
-부가 뜻: 수업·프로그램에 공식적으로 이름을 올린 상태
-핵심 느낌: 명단에 들어가서 정식 참가자가 되는 것
-구분: enrollment=등록 상태·인원 / registration=등록 절차 / attendance=실제 출석"
-excerpt	"핵심 뜻: 발췌문 / 일부 인용
-부가 뜻: 긴 글에서 떼어 낸 짧은 부분
-핵심 느낌: 전체 중 필요한 조각만 잘라 온 느낌
-구분: excerpt=일부 발췌문 / quotation=인용문 / summary=요약문"
-extension	"핵심 뜻: 연장 / 기한 추가
-부가 뜻: 시간·기간·범위를 더 늘리는 것
-핵심 느낌: 끝나는 선을 뒤로 조금 늘려 주는 느낌
-구분: extension=기한·범위 연장 / postponement=일정 자체 연기 / expansion=규모 확대"
-faculty	"핵심 뜻: 교수진 / 교직원 집단
-부가 뜻: 대학에서 가르치거나 연구하는 교원 집단
-핵심 느낌: 학생이 아니라 학교 측 학문 인력
-구분: faculty=교수진 집단 / staff=행정·지원 직원 / department=학과 조직"
-follow-up	"핵심 뜻: 후속 조치 / 추가 확인
-부가 뜻: 처음 일이나 대화 뒤에 이어서 확인·보완하는 행동
-핵심 느낌: 한 번 하고 끝내지 않고 뒤를 챙기는 느낌
-구분: follow-up=후속 확인·조치 / reminder=잊지 않게 알림 / review=다시 검토"
-forum	"핵심 뜻: 공개 토론의 장 / 포럼
-부가 뜻: 여러 사람이 의견을 나누는 공식 공개 자리
-핵심 느낌: 의견을 꺼내 놓는 열린 토론 공간
-구분: forum=공개 논의의 장 / seminar=학술 발표·수업형 모임 / meeting=특정 안건 회의"
-handbook	"핵심 뜻: 안내서 / 편람
-부가 뜻: 필요한 규정과 절차를 모아 둔 실용적 책자
-핵심 느낌: 모르는 게 생길 때 찾아보는 사용설명서 느낌
-구분: handbook=실무 안내서 / manual=작동·절차 설명서 / brochure=홍보용 소책자"
-instructor	"핵심 뜻: 강사 / 수업 담당자
-부가 뜻: 수업을 직접 가르치는 사람
-핵심 느낌: 강의실에서 설명을 이끄는 사람
-구분: instructor=가르치는 담당자 / professor=대학 교수 직위 / tutor=개별 지도자"
-internship	"핵심 뜻: 인턴십 / 실무 연수
-부가 뜻: 현장에서 경험을 쌓는 단기 실습·근무 과정
-핵심 느낌: 배운 것을 실제 일터에서 시험해보는 기간
-구분: internship=현장 실습 과정 / training=훈련 전반 / employment=정식 고용"
-receptiveness	"핵심 뜻: 수용성 / 받아들이려는 태도
-부가 뜻: 새로운 제안이나 정보, 참여 요청을 열린 태도로 받아들이는 성향
-핵심 느낌: 닫아걸지 않고 들어오는 걸 받을 준비가 된 느낌
-구분: receptiveness=열린 태도로 받아들이는 성향 / openness=개방성 일반 / responsiveness=반응을 잘 보임"
-keynote	"핵심 뜻: 기조연설 / 핵심 발표
-부가 뜻: 행사의 큰 방향을 여는 중심 강연
-핵심 느낌: 전체 분위기와 핵심 메시지를 먼저 잡는 발표
-구분: keynote=행사의 중심 기조연설 / lecture=일반 강의 / presentation=특정 내용을 보여주는 발표"
-liaison	"핵심 뜻: 연락 담당자 / 연결 역할
-부가 뜻: 두 집단 사이에서 소통과 조율을 맡는 사람
-핵심 느낌: 따로 있는 쪽들을 이어 주는 다리 역할
-구분: liaison=집단 사이 연락·연결 담당 / coordinator=업무 조정자 / representative=대표자"
-logistics	"핵심 뜻: 실무 준비 / 운영 세부사항
-부가 뜻: 장소·시간·장비·이동 등 실행에 필요한 조정
-핵심 느낌: 아이디어보다 실제 굴러가게 만드는 뒷단 준비
-구분: logistics=운영·준비 세부사항 / planning=계획 수립 / management=전체 관리"
-manuscript	"핵심 뜻: 원고
-부가 뜻: 출판이나 제출을 위해 작성한 글의 본문 초안·완성본
-핵심 느낌: 논문·책으로 내기 전 손에 든 글 파일
-구분: manuscript=제출·출판용 원고 / draft=아직 고치는 초안 / article=출판된 글"
-memorandum	"핵심 뜻: 공식 메모 / 업무 전달문
-부가 뜻: 조직 안에서 짧고 공식적으로 남기는 안내 문서
-핵심 느낌: 말로 흘리지 않고 문서로 박아 두는 메모
-구분: memorandum=공식 업무 메모 / note=짧은 메모 / report=더 긴 보고서"
-mentor	"핵심 뜻: 멘토 / 조언자
-부가 뜻: 경험을 바탕으로 성장과 판단을 도와주는 사람
-핵심 느낌: 앞서 간 사람이 방향을 짚어 주는 느낌
-구분: mentor=성장을 돕는 조언자 / supervisor=업무·연구 지도자 / advisor=공식·비공식 조언자"
-moderator	"핵심 뜻: 진행자 / 사회자
-부가 뜻: 토론의 흐름과 발언 순서를 조정하는 사람
-핵심 느낌: 말들이 엉키지 않게 순서를 잡아 주는 역할
-구분: moderator=토론 진행자 / chairperson=회의 책임자 / host=행사 진행·초청자"
-nomination	"핵심 뜻: 지명 / 후보 추천
-부가 뜻: 공식 역할이나 상의 후보로 이름을 올리는 일
-핵심 느낌: 이 사람을 후보로 세우자고 올려 보내는 느낌
-구분: nomination=후보로 지명함 / recommendation=추천 의견 / appointment=공식 임명"
-nominee	"핵심 뜻: 지명된 후보자
-부가 뜻: 추천이나 공식 지명을 받은 사람
-핵심 느낌: 아직 확정 전이지만 이름이 올라간 사람
-구분: nominee=지명된 후보 / candidate=검토 대상 후보 / awardee=수상자"
-outline	"핵심 뜻: 개요 / 윤곽을 잡다
-부가 뜻: 전체 구조와 큰 항목을 먼저 정리한 틀
-핵심 느낌: 세부를 채우기 전에 뼈대를 세우는 느낌
-구분: outline=큰 틀의 개요 / draft=문장까지 쓴 초안 / summary=내용을 줄인 요약"
-panel	"핵심 뜻: 토론 패널 / 심사단
-부가 뜻: 발표·토론·심사를 맡은 여러 명의 구성원
-핵심 느낌: 앞에 앉아 질문하고 평가하는 한 줄 사람들
-구분: panel=토론·심사단 / committee=공식 의사결정 위원회 / audience=일반 청중"
-participant	"핵심 뜻: 참가자
-부가 뜻: 활동·연구·행사에 실제로 참여하는 사람
-핵심 느낌: 가만히 듣기만이 아니라 그 일 안에 들어간 사람
-구분: participant=활동 참가자 / attendee=자리에 온 사람 / respondent=응답자"
-peer	"핵심 뜻: 동료 / 또래 집단
-부가 뜻: 비슷한 지위나 수준에 있는 사람
-핵심 느낌: 위아래가 아니라 같은 선상에 있는 사람
-구분: peer=비슷한 위치의 동료 / colleague=함께 일하는 동료 / supervisor=윗선 지도자"
-groupwide	"핵심 뜻: 전체 집단 대상의
-부가 뜻: 일부 소그룹이 아니라 구성원 전체가 함께하는
-핵심 느낌: 작은 분과가 아니라 모두를 한꺼번에 묶는 느낌
-구분: groupwide=전체 집단에 걸친 / partial=일부만의 / collective=집단 전체의"
-poster	"핵심 뜻: 발표 포스터 / 게시물
-부가 뜻: 연구 내용을 한 장에 시각적으로 정리한 전시 자료
-핵심 느낌: 긴 발표 대신 벽에 붙여 설명하는 연구 요약판
-구분: poster=게시·전시 포스터 / paper=논문 글 / slide=화면 발표 자료"
-publicize	"핵심 뜻: 홍보하다 / 널리 알리다
-부가 뜻: 행사나 결과를 많은 사람에게 알려 관심을 끌다
-핵심 느낌: 모르는 사람이 없게 바깥으로 크게 띄우는 느낌
-구분: publicize=널리 알리다 / announce=공식 발표하다 / advertise=광고하다"
-questionnaire	"핵심 뜻: 설문지 / 질문지
-부가 뜻: 정보를 모으기 위해 정해진 질문을 적어둔 양식
-핵심 느낌: 응답을 받으려고 질문 칸을 미리 깔아 둔 종이
-구분: questionnaire=설문 질문지 / survey=조사 전체 또는 설문 / interview=직접 묻는 면담"
-floor	"핵심 뜻: 하한선 / 최저 기준
-부가 뜻: 이 아래로 내려가면 조건을 충족하지 못하는 기준 수준
-핵심 느낌: 더 내려가면 안 되는 바닥선을 하나 긋는 느낌
-구분: floor=최저 기준선 / threshold=성립 경계선 / minimum=가장 작은 허용치"
-rapport	"핵심 뜻: 친밀한 신뢰 관계
-부가 뜻: 대화나 협업이 편하게 이어질 만큼 쌓인 좋은 관계
-핵심 느낌: 말이 잘 통하고 경계가 풀린 연결감
-구분: rapport=편안한 신뢰·유대 / relationship=관계 일반 / trust=믿음"
-recipient	"핵심 뜻: 수령인 / 받는 사람
-부가 뜻: 장학금·이메일·상 등을 받는 사람
-핵심 느낌: 무언가가 최종적으로 도착하는 사람
-구분: recipient=공식적으로 받는 사람 / receiver=받는 사람 일반 / awardee=상을 받은 사람"
-recruitment	"핵심 뜻: 모집 / 선발 활동
-부가 뜻: 참가자·학생·직원을 찾아 뽑는 과정
-핵심 느낌: 필요한 사람을 모으려고 끌어들이는 작업
-구분: recruitment=사람을 모집·선발하는 과정 / selection=뽑는 판단 단계 / admission=입학·입회 허가"
-referral	"핵심 뜻: 추천 / 의뢰 연결
-부가 뜻: 다른 사람이나 기관으로 공식적으로 소개해 넘기는 일
-핵심 느낌: 필요한 곳으로 이어 보내는 연결표
-구분: referral=다른 곳으로 추천·의뢰 / recommendation=좋다고 추천함 / transfer=소속·위치를 옮김"
-registration	"핵심 뜻: 등록 / 신청 절차
-부가 뜻: 수업·행사에 이름과 정보를 공식 접수하는 과정
-핵심 느낌: 참가하려고 행정 절차를 밟는 단계
-구분: registration=등록 절차 / enrollment=등록된 상태·인원 / application=지원서 제출"
-reminder	"핵심 뜻: 알림 / 상기시키는 말
-부가 뜻: 잊지 않도록 다시 알려 주는 메시지나 신호
-핵심 느낌: 머릿속에서 빠지지 않게 한 번 더 톡 건드리는 느낌
-구분: reminder=잊지 않게 상기함 / notification=시스템·공식 알림 / warning=위험 경고"
-repository	"핵심 뜻: 저장소 / 자료 보관처
-부가 뜻: 파일·데이터·자료를 모아 두는 보관 공간
-핵심 느낌: 자료를 한곳에 쌓아 두고 찾아 쓰는 창고
-구분: repository=자료 저장소 / database=구조화된 데이터베이스 / archive=장기 보관 기록물"
-reservation	"핵심 뜻: 예약
-부가 뜻: 자리·시설·장비를 미리 확보해 두는 일
-핵심 느낌: 나중에 쓰려고 지금 내 몫을 잡아 두는 느낌
-구분: reservation=자리·공간 예약 / appointment=사람과의 약속 예약 / booking=예약 행위 일반"
-roster	"핵심 뜻: 명단 / 근무·참가자 목록
-부가 뜻: 사람들의 이름과 배정 정보를 적은 목록
-핵심 느낌: 누가 들어 있는지 줄줄이 적은 표
-구분: roster=사람 명단·배정표 / list=목록 일반 / schedule=시간 배치표"
-roundtable	"핵심 뜻: 원탁 토론 / 자유 토의 모임
-부가 뜻: 위계보다 수평적 논의를 강조하는 집단 토론
-핵심 느낌: 한 방향 강의가 아니라 둘러앉아 주고받는 느낌
-구분: roundtable=수평적 집단 토론 / seminar=학술 수업·발표 모임 / lecture=일방향 강의"
-scholarship	"핵심 뜻: 장학금 / 학문성
-부가 뜻: 학업 비용 지원금 또는 학술적 연구 역량
-핵심 느낌: 공부를 지원하는 돈이나 학문적 깊이
-구분: scholarship=장학금·학술성 / fellowship=연구 중심 지원 / grant=특정 프로젝트 자금"
-seminar	"핵심 뜻: 세미나 / 토론식 수업
-부가 뜻: 작은 규모에서 발표와 토론이 중심이 되는 학술 모임
-핵심 느낌: 강의만 듣지 않고 함께 읽고 말하는 수업
-구분: seminar=소규모 토론형 학술 모임 / lecture=강의 중심 수업 / workshop=실습 중심 모임"
-spokesperson	"핵심 뜻: 대변인 / 공식 발언자
-부가 뜻: 단체나 팀을 대표해 입장을 말하는 사람
-핵심 느낌: 여러 사람의 입을 하나로 모아 밖에 말하는 사람
-구분: spokesperson=공식 대변인 / representative=대표자 일반 / speaker=말하는 사람·발표자"
-submission	"핵심 뜻: 제출물 / 제출
-부가 뜻: 과제·신청서·논문을 내는 행위나 낸 결과물
-핵심 느낌: 손에 들고 있던 문서를 마감선 안으로 넣는 느낌
-구분: submission=제출 행위·제출물 / application=지원서 / draft=수정 전 초안"
-supervisor	"핵심 뜻: 지도자 / 감독자
-부가 뜻: 연구나 업무 진행을 살피고 방향을 잡아 주는 책임자
-핵심 느낌: 위에서 방향과 기준을 잡아 주는 사람
-구분: supervisor=연구·업무를 감독하는 사람 / mentor=성장 조언자 / manager=조직 운영 관리자"
-symposium	"핵심 뜻: 학술 심포지엄
-부가 뜻: 한 주제를 두고 여러 발표와 토론이 이어지는 공식 학술 행사
-핵심 느낌: 여러 발표가 한 흐름으로 이어지는 큰 학술 자리
-구분: symposium=공식 학술 발표 행사 / seminar=소규모 토론형 모임 / forum=공개 논의의 장"
-timetable	"핵심 뜻: 시간표 / 일정표
-부가 뜻: 언제 무엇이 진행되는지 시간 순서로 적은 표
-핵심 느낌: 하루·학기 흐름을 시간 칸에 꽂아 둔 표
-구분: timetable=시간 중심 일정표 / schedule=일정표 일반 / agenda=논의할 안건 목록"
-transcript	"핵심 뜻: 성적증명서 / 기록문
-부가 뜻: 성적이나 발언 내용을 공식적으로 적어 둔 문서
-핵심 느낌: 말하거나 평가된 내용을 문자로 남긴 기록
-구분: transcript=공식 성적·발언 기록문 / record=기록 일반 / certificate=증명서"
-tutorial	"핵심 뜻: 튜토리얼 / 소규모 지도 수업
-부가 뜻: 개별 또는 소그룹으로 개념과 과제를 지도하는 수업
-핵심 느낌: 큰 강의보다 가까이 붙어서 짚어 주는 수업
-구분: tutorial=소규모 지도 수업·안내 / lecture=대형 강의 / workshop=실습형 수업"
-undergraduate	"핵심 뜻: 학부생의 / 학부생
-부가 뜻: 대학원 전 단계의 학사 과정 학생이나 그 과정 관련
-핵심 느낌: 아직 대학원 전, 학부 단계에 있는 느낌
-구분: undergraduate=학부생·학부 과정의 / graduate=대학원생·졸업자의 / freshman=1학년"
-venue	"핵심 뜻: 장소 / 개최지
-부가 뜻: 행사나 회의가 열리는 특정 공간
-핵심 느낌: 이 일이 실제로 열리는 무대가 되는 곳
-구분: venue=행사 개최 장소 / location=위치 일반 / site=현장·부지"
-waitlist	"핵심 뜻: 대기자 명단
-부가 뜻: 정원 초과 후 자리가 나면 들어갈 수 있도록 이름을 올린 목록
-핵심 느낌: 지금은 못 들어가지만 빈자리를 기다리는 줄
-구분: waitlist=대기자 명단 / roster=확정된 명단 / queue=순서를 기다리는 줄"
-workshop	"핵심 뜻: 워크숍 / 실습형 세미나
-부가 뜻: 참가자가 직접 해보며 배우는 집중형 모임
-핵심 느낌: 앉아 듣기보다 손과 말로 같이 만들어 보는 자리
-구분: workshop=실습·참여형 모임 / seminar=토론형 학술 모임 / lecture=강의형 수업"
-validation	"핵심 뜻: 타당성 인정 / 검증 승인
-부가 뜻: 기준에 맞고 믿을 만하다고 확인해 주는 인정
-핵심 느낌: 그냥 주장하는 게 아니라 확인 절차를 거쳐 맞다고 찍히는 느낌
-구분: validation=타당하다고 확인·인정함 / approval=승인 / certification=자격 인증"
-acknowledgment	"핵심 뜻: 감사의 표시 / 인정
-부가 뜻: 도움이나 기여를 공식적으로 밝혀 적는 일
-핵심 느낌: 받은 도움을 그냥 넘기지 않고 이름을 적어주는 느낌
-구분: acknowledgment=기여·도움 인정 / appreciation=감사하는 마음 / recognition=성과·가치의 인정"
-advisory	"핵심 뜻: 자문용의 / 권고 성격의
-부가 뜻: 결정을 직접 내리기보다 조언과 권고를 제공하는
-핵심 느낌: 명령이 아니라 참고할 방향을 주는 느낌
-구분: advisory=자문·권고 성격의 / mandatory=의무적인 / consultative=협의·자문 중심의"
-archiving	"핵심 뜻: 자료 보관 / 아카이브화
-부가 뜻: 나중에 찾을 수 있게 기록과 파일을 체계적으로 저장하는 일
-핵심 느낌: 당장 쓰고 버리지 않고 정리해 쌓아 두는 느낌
-구분: archiving=장기 보관용 정리 저장 / backup=복사본 저장 / filing=서류를 분류해 꽂아두기"
-breakout	"핵심 뜻: 소그룹 분과의 / 분임 토론
-부가 뜻: 전체 모임에서 나뉘어 하는 작은 그룹 세션
-핵심 느낌: 큰 방에서 갈라져 작은 방으로 흩어지는 느낌
-구분: breakout=소그룹 분과 세션 / plenary=전체회의 세션 / workshop=참여형 실습 모임"
-caption	"핵심 뜻: 그림·표 설명문 / 캡션
-부가 뜻: 이미지나 도표 아래 붙는 짧은 설명
-핵심 느낌: 자료 옆에 붙어 의미를 짚어 주는 작은 문장
-구분: caption=그림·표 설명문 / label=이름표·항목명 / title=전체 제목"
-cohesion	"핵심 뜻: 응집력 / 결속
-부가 뜻: 팀이나 글의 요소들이 잘 붙어 하나로 이어지는 성질
-핵심 느낌: 따로따로 흩어지지 않고 안에서 잘 붙는 힘
-구분: cohesion=안에서 잘 연결되는 응집력 / coherence=논리적으로 잘 이어지는 일관성 / unity=전체가 하나로 묶인 느낌"
-conferral	"핵심 뜻: 수여 / 학위·상 공식 부여
-부가 뜻: 학위나 상을 공식적으로 주는 행위
-핵심 느낌: 자격이나 영예를 공식 절차로 건네는 느낌
-구분: conferral=학위·상 수여 / awarding=상 지급 일반 / granting=허가·권리 부여"
-debrief	"핵심 뜻: 사후 점검하다 / 결과를 짚어보다
-부가 뜻: 활동이 끝난 뒤 무엇이 있었는지 돌아보고 정리하다
-핵심 느낌: 끝난 직후 경험을 펼쳐 놓고 복기하는 느낌
-구분: debrief=끝난 뒤 함께 점검하다 / review=검토하다 / brief=시작 전에 요약 설명하다"
-fieldwork	"핵심 뜻: 현장 조사 / 현지 연구
-부가 뜻: 교실이나 사무실 밖 실제 현장에서 자료를 모으는 연구 활동
-핵심 느낌: 책상 밖으로 나가 직접 보고 기록하는 느낌
-구분: fieldwork=현장에서 하는 조사·연구 / experiment=통제된 실험 / observation=관찰 행위"
-handshake	"핵심 뜻: 악수 / 합의의 상징적 확인
-부가 뜻: 인사나 협력 시작을 보여 주는 상징적 몸짓
-핵심 느낌: 말로만이 아니라 손을 맞잡아 관계를 여는 느낌
-구분: handshake=인사·합의 확인의 악수 / agreement=합의 내용 / greeting=인사 일반"
-monitoring	"핵심 뜻: 모니터링 / 지속적 점검
-부가 뜻: 상황이나 진행을 계속 살펴 이상을 확인하는 일
-핵심 느낌: 눈을 떼지 않고 흐름을 따라가며 확인하는 느낌
-구분: monitoring=계속 지켜보며 점검함 / supervision=위에서 관리·감독함 / review=나중에 다시 검토함"
-itinerary	"핵심 뜻: 여행·방문 일정표
-부가 뜻: 이동과 방문 순서를 시간대별로 적은 계획표
-핵심 느낌: 어디서 어디로 갈지 길순서를 적어 둔 일정
-구분: itinerary=이동·방문 중심 일정표 / timetable=시간표 / agenda=회의 안건"
-onboarding	"핵심 뜻: 초기 적응 안내 / 합류 절차
-부가 뜻: 새 구성원이 조직과 업무에 익숙해지도록 돕는 과정
-핵심 느낌: 들어온 첫 단계에서 시스템에 태워 적응시키는 느낌
-구분: onboarding=새 구성원 적응 절차 / orientation=초기 소개·안내 / training=업무 기술 훈련"
-outreach	"핵심 뜻: 대외 홍보 / 외부 연계 활동
-부가 뜻: 학교나 기관 밖의 사람들에게 다가가 연결을 만드는 활동
-핵심 느낌: 안에만 머물지 않고 바깥으로 손을 뻗는 느낌
-구분: outreach=외부 대상 연결·홍보 활동 / publicity=널리 알리는 홍보 / service=봉사·지원 활동"
-plagiarism	"핵심 뜻: 표절
-부가 뜻: 남의 글이나 아이디어를 출처 없이 자기 것처럼 쓰는 일
-핵심 느낌: 빌려 온 생각을 출처표 없이 내 이름으로 덮는 것
-구분: plagiarism=출처 없이 베끼는 표절 / citation=출처 표기 / paraphrase=뜻을 살려 바꿔 쓰기"
-overseer	"핵심 뜻: 감독 담당자 / 총괄 감시자
-부가 뜻: 일이나 절차가 기준대로 진행되는지 살피는 사람
-핵심 느낌: 세부를 놓치지 않게 위에서 전체 흐름을 지켜보는 역할
-구분: overseer=진행을 위에서 감독하는 사람 / supervisor=지도·감독 책임자 / monitor=상황을 지켜보는 사람"
-readout	"핵심 뜻: 요점 보고 / 결과 브리핑
-부가 뜻: 논의나 회의 결과를 핵심만 정리해 전달하는 설명
-핵심 느낌: 무슨 얘기가 나왔는지 결론만 꺼내 읽어 주는 느낌
-구분: readout=회의·결과 요점 보고 / summary=요약 / transcript=발언 기록문"
-recap	"핵심 뜻: 요약해 되짚다 / 핵심 정리
-부가 뜻: 이미 논의한 내용을 짧게 다시 정리하다
-핵심 느낌: 흩어진 말을 한 번 접어서 다시 보여주는 느낌
-구분: recap=간단히 되짚어 정리하다 / review=다시 검토하다 / repeat=그대로 반복하다"
-sponsorship	"핵심 뜻: 후원 / 재정 지원
-부가 뜻: 행사·연구·활동을 돈이나 공식 지원으로 뒷받침하는 일
-핵심 느낌: 혼자 못 굴러가는 일을 뒤에서 밀어주는 지원
-구분: sponsorship=후원·지원 제공 / funding=자금 지원 / endorsement=공개 지지"
-whiteboard	"핵심 뜻: 화이트보드 / 판서판
-부가 뜻: 회의나 수업 중 아이디어를 적고 공유하는 판
-핵심 느낌: 말을 바로 적어 모두가 같이 보는 벽 위 메모장
-구분: whiteboard=판서용 보드 / screen=화면 표시 장치 / notebook=개인 기록용 공책"
-backlog	"핵심 뜻: 미처리 목록 / 밀린 작업
-부가 뜻: 아직 처리하지 못해 쌓여 있는 과제나 요청
-핵심 느낌: 해야 할 일이 뒤에 줄줄이 밀려 있는 느낌
-구분: backlog=밀린 미처리 작업 묶음 / workload=현재 맡은 일의 양 / agenda=논의할 안건 목록"
-checklist	"핵심 뜻: 점검표 / 체크리스트
-부가 뜻: 빠뜨리지 않게 항목별로 확인하도록 만든 목록
-핵심 느낌: 하나씩 표시하며 누락을 막는 목록
-구분: checklist=확인용 항목표 / guideline=따를 지침 / inventory=보유 목록"
-facilitator	"핵심 뜻: 진행 촉진자 / 협의 조력자
-부가 뜻: 토론이나 협업이 매끄럽게 흘러가도록 돕는 사람
-핵심 느낌: 사람들 말과 흐름이 막히지 않게 밀어주는 역할
-구분: facilitator=논의·협업을 원활하게 돕는 사람 / moderator=발언 순서를 조정하는 진행자 / coordinator=실무 연결 담당자"
+redundancy	"핵심 뜻: 불필요한 반복 / 중복
+구분: redundancy=불필요한 중복 / repetition=반복 자체"
+refute	"핵심 뜻: 반박하다 / 논박하다
+구분: refute=근거로 반박하다 / deny=그냥 부인하다"
+requisite	"핵심 뜻: 필수의
+구분: requisite=필수 조건 / prerequisite=선행 조건"
+resilient	핵심 뜻: 회복력 있는 / 탄력적인
+restructure	핵심 뜻: 구조를 재편하다 / 재조정하다
+scrutiny	"핵심 뜻: 면밀한 조사
+구분: scrutiny=매우 세밀한 검토 / review=일반적 검토"
+secular	핵심 뜻: 세속적인 / 비종교적인
+sequential	"핵심 뜻: 순차적인 / 연속된
+구분: sequential=순서대로 진행 / consecutive=연달아 이어짐"
+sovereign	핵심 뜻: 주권의 / 자주적인
+streamline	핵심 뜻: 간소화하다 / 효율화하다
+substantive	"핵심 뜻: 실질적인 / 중요한
+구분: substantive=실질적 내용이 있음 / substantial=상당한 규모·양"
+superfluous	"핵심 뜻: 불필요한 / 남아도는
+구분: superfluous=있어도 쓸모없는 과잉 / redundant=중복되어 불필요한"
+tentative	"핵심 뜻: 잠정적인
+구분: tentative=잠정적인 / provisional=임시로 정한"
+transparent	핵심 뜻: 투명한
+underscore	핵심 뜻: 강조하다
+unprecedented	"핵심 뜻: 전례 없는 / 유례없는
+구분: unprecedented=전례 없는 / novel=새로운"
+validate	"핵심 뜻: 입증하다 / 정당화하다
+구분: validate=타당성·유효성을 확인 / verify=사실 여부를 확인"
+annotation	핵심 뜻: 주석
+contingency	"핵심 뜻: 우발 상황
+구분: contingency=예상 밖 상황 가능성 / emergency=이미 닥친 긴급 사태"
+corroborate	"핵심 뜻: 확증하다 / 뒷받침하다
+구분: corroborate=추가 증거로 뒷받침 / confirm=맞음을 확인"
+deflect	"핵심 뜻: 빗나가게 하다
+구분: deflect=방향·주의를 다른 데로 돌리다 / evade=직접 답을 피하다"
+detract	"핵심 뜻: 가치를 떨어뜨리다 / 손상시키다
+구분: detract=가치·품질을 깎다 / undermine=기반을 약화시키다"
+diverge	"핵심 뜻: 갈라지다 / 달라지다
+구분: diverge=한 지점에서 갈라지다 / deviate=기준에서 벗어나다"
+eclectic	핵심 뜻: 다양한 것을 절충한 / 폭넓게 취합한
+elucidate	"핵심 뜻: 명확히 설명하다 / 밝혀주다
+구분: elucidate=복잡한 내용을 밝혀 설명 / clarify=헷갈리는 점을 분명히 하다"
+encroach	"핵심 뜻: 침범하다 / 잠식하다
+구분: encroach=서서히 침범하다 / intrude=불쑥 끼어들다"
+envision	핵심 뜻: 마음속에 그리다 / 구상하다
+epitomize	"핵심 뜻: 전형적으로 보여주다
+구분: epitomize=핵심 특징을 대표하다 / exemplify=예시로 보여주다"
+galvanize	"핵심 뜻: 자극해 행동하게 하다 / 활기를 불어넣다
+구분: galvanize=행동하게 강하게 자극하다 / motivate=동기를 주다"
+immutable	"핵심 뜻: 변하지 않는 / 불변의
+구분: immutable=본질적으로 바뀌지 않는 / fixed=지금 고정된"
+impede	"핵심 뜻: 방해하다 / 지연시키다
+구분: impede=진행을 늦추며 방해하다 / obstruct=앞을 막아 가로막다"
+impoverish	"핵심 뜻: 가난하게 만들다
+구분: impoverish=내용·자원을 빈약하게 하다 / deplete=고갈시키다"
+inadvertent	"핵심 뜻: 부주의한
+구분: inadvertent=의도치 않은 실수성 / accidental=우연한"
+juxtapose	"핵심 뜻: 나란히 놓고 대비시키다
+구분: juxtapose=나란히 놓고 대비하다 / contrast=차이를 부각하다"
+mobilize	"핵심 뜻: 동원하다
+구분: mobilize=자원·사람을 실제로 동원하다 / organize=체계 있게 정리하다"
+notable	핵심 뜻: 주목할 만한 / 두드러진
+omit	"핵심 뜻: 생략하다 / 빠뜨리다
+구분: omit=빠뜨리다 / exclude=의도적으로 빼다"
+overt	"핵심 뜻: 명백한 / 공개적인
+구분: overt=겉으로 드러난 / implicit=겉으로 드러나지 않은"
+peripheral	"핵심 뜻: 주변적인 / 부차적인
+구분: peripheral=주변부의 / central=핵심의"
+propensity	"핵심 뜻: 성향 / 경향
+구분: propensity=특정 방향으로 기우는 성향 / tendency=일반적 경향"
+residual	핵심 뜻: 남은 / 잔여의
+salient	"핵심 뜻: 가장 두드러진 / 현저한
+구분: salient=핵심이라 특히 눈에 띄는 / prominent=크게 눈에 띄는"
+sparing	핵심 뜻: 아끼는 / 절제된
+tacit	"핵심 뜻: 암묵적인
+구분: tacit=말하지 않아도 전제된 / explicit=분명히 말한"
+tangible	핵심 뜻: 구체적인
+transient	"핵심 뜻: 일시적인
+구분: transient=잠깐 스쳐 지나가는 / temporary=한동안만 지속되는"
+deliverable	핵심 뜻: 제출 산출물 / 결과물
+design	핵심 뜻: 설계 / 설계하다
+tractable	"핵심 뜻: 다루기 쉬운
+구분: tractable=다룰 수 있을 만큼 해결 가능한 / manageable=감당 가능한"
+facilitation	핵심 뜻: 촉진
+variety	핵심 뜻: 다양성
+recoverable	핵심 뜻: 회복 가능한
+guideline	"핵심 뜻: 지침
+구분: guideline=따르는 것이 권장되는 지침 / rule=반드시 지켜야 하는 규칙"
+milestone	"핵심 뜻: 이정표 / 중요한 단계
+구분: milestone=중간의 중요한 성취점 / deadline=끝내야 하는 시점"
+overview	핵심 뜻: 개요
+coverage	핵심 뜻: 포괄 범위
+planning	핵심 뜻: 계획 수립 / 기획
+circularity	핵심 뜻: 순환성
+presentation	핵심 뜻: 발표 / 제시
+byproduct	핵심 뜻: 부산물
+shortage	"핵심 뜻: 부족
+구분: shortage=필요량에 못 미치는 부족 / scarcity=원래 드문 희소함"
+interconnection	핵심 뜻: 상호 연결
+progress	핵심 뜻: 진전 / 발전
+intrusion	핵심 뜻: 침범 / 끼어듦
+proposal	핵심 뜻: 제안 / 제안서
+diminish	"핵심 뜻: 줄어들다 / 약해지다
+구분: diminish=점점 줄어들다 / disappear=아예 사라지다"
+forage	"핵심 뜻: 먹이를 찾아다니다 / 사료
+구분: forage=먹이를 찾아다님·사료 / graze=풀을 뜯어먹음"
+supply	"핵심 뜻: 공급
+구분: supply=필요한 것을 제공하다·공급량 / demand=필요로 하는 양"
+review	"핵심 뜻: 검토 / 재검토하다
+구분: review=다시 살펴보다 / revise=고쳐 다듬다"
+reserve	"핵심 뜻: 비축분
+구분: reserve=비축해 둔 것 / stock=현재 보유량"
+roadmap	핵심 뜻: 로드맵
+impermeable	핵심 뜻: 스며들지 않는 / 불투과성의
+irrigate	"핵심 뜻: 관개하다
+구분: irrigate=농지에 물을 대다 / drain=물을 빼다"
+buffer-zone	핵심 뜻: 완충 구역
+teamwork	핵심 뜻: 팀워크 / 협업
+lowland	핵심 뜻: 저지대
+climate-related	핵심 뜻: 기후와 관련된
+timeline	핵심 뜻: 시간표
+training	핵심 뜻: 훈련

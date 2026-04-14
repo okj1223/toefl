@@ -333,3 +333,109 @@ climate uncertainty	multi-word front violates the one-headword/lemma rule and is
 green certification	multi-word front violates the one-headword/lemma rule and is better omitted than force-normalized		high
 supply resilience	multi-word front violates the one-headword/lemma rule and is better omitted than force-normalized		high
 climate scenario	multi-word front violates the one-headword/lemma rule and is better omitted than force-normalized		high
+bioindicator	too biology/environment-specific for the broad band-5 TOEFL core		high
+biomechanical	too specialized toward movement science and physiology		high
+carbohydrate	domain-specific nutrition term with lower cross-topic academic reuse		high
+circulatory	biology-system term with lower transferability outside science passages		high
+cross-signaling	niche scientific mechanism term with low broad TOEFL transferability		high
+brushstroke	art-production-specific term with low cross-disciplinary reuse		high
+collage	art-technique term with lower broad academic utility		medium
+curatorial	museum/exhibition-specific adjective with low broad TOEFL reuse		high
+photorealistic	visual-rendering term that is too medium-specific for the core set		high
+weather-proofing	practical building-maintenance compound with low academic transferability		high
+trendwise	awkward low-utility adverb for the TOEFL core; better handled through clearer trend vocabulary		medium
+infostream	low-transfer coined digital term with weak standalone TOEFL value		high
+two-factor	fragmentary headword; the full expression is better omitted than forced into a single-word front		high
+cross-adaptation	hyper-specialized biology term with low cross-topic TOEFL transferability		high
+sink-source	narrow ecology compound with low standalone transferability		high
+threshold-sensitive	narrow technical compound likely to be glossed in passage if needed		high
+density-dependent	narrow ecology/statistics compound with limited broad TOEFL reuse		high
+disturbance-tolerant	niche ecology descriptor with low broad TOEFL transferability		high
+chemosensory	hyper-specialized sensory-science term		high
+photoperiodic	hyper-specialized biology term		high
+bioenergetic	narrow biological-process descriptor with low broad TOEFL reuse		high
+administrability	rare bureaucratic noun with weak broad TOEFL transferability		high
+caseworker	social-services-specific occupational term with low cross-topic reuse		high
+deliverable-based	jargon-heavy compound with low standalone vocabulary value		high
+whole-of-government	policy-jargon compound with low standalone TOEFL transferability		high
+adjudicator	narrow formal decision-maker term with lower utility than broader judging vocabulary		high
+text-to-context	study-label compound rather than a strong standalone academic headword		high
+premise-checking	meta-analytic compound with low standalone vocabulary value		high
+quote-heavy	low-transfer descriptive compound with limited standalone payoff		high
+reason-giving	meta-analytic compound with low standalone vocabulary value		high
+rebuttal-ready	coined study-prep compound with weak standalone TOEFL value		high
+statement-level	meta-analytic compound with limited standalone transferability		high
+line-by-line	common phrase but weak as a dedicated Band-5 headword		medium
+buildout	product-development noun with low broad TOEFL reuse		high
+proof-of-concept	startup/product jargon compound with limited broad TOEFL transferability		high
+make-or-buy	business decision compound with low standalone TOEFL value		high
+milestone-driven	project-management compound with lower broad transferability		high
+outage-prone	technical-service compound with low broad TOEFL reuse		high
+zero-defect	quality-control slogan-like compound with low broad academic payoff		high
+backward-compatible	software-specific compound with low cross-topic TOEFL reuse		high
+constraint-aware	engineering/design jargon compound with low standalone payoff		high
+trialable	awkward low-frequency product-adoption adjective		high
+upgrade-ready	product-lifecycle compound with low standalone TOEFL value		high
+captioned	media-format descriptor with limited broad academic transferability		high
+genre-bending	arts-review compound with low broad TOEFL reuse		high
+voiceover	media-production term with low cross-topic transferability		high
+chiaroscuro	art-history-specific term likely to be glossed if needed		high
+mise-en-scene	film/theater-specific term likely to be glossed if needed		high
+dramaturgical	theater-structure term with low broad TOEFL reuse		high
+motivic	narrow arts-analysis adjective with low broad transferability		high
+soundscape	medium-specific arts term with limited broad academic reuse		high
+offscreen	film/video-specific adjective with low cross-topic transferability		high
+scenic	arts/landscape descriptor with lower utility than broader interpretive vocabulary		medium
+bridge-building	metaphoric social-process compound with lower standalone vocabulary value		high
+trust-building	process-label compound better handled through broader trust vocabulary		high
+status-seeking	social-behavior compound with lower broad TOEFL transferability		high
+volunteer-based	compound descriptor with limited standalone payoff		high
+consent-based	process descriptor better handled through broader consent vocabulary		high
+conservation-oriented	jargon-heavy climate descriptor with limited standalone payoff		high
+flood-mitigation	narrow hazard-management compound with low cross-topic transferability		high
+restoration-oriented	jargon-heavy environmental descriptor with limited standalone payoff		high
+weather-resilient	compound descriptor with narrower payoff than broader resilience vocabulary		high
+climate-informed	policy-planning compound with lower standalone vocabulary value		high
+climate-proof	policy/engineering compound with low standalone transferability		high
+climate-ready	policy-planning compound with low standalone transferability		high
+low-maintenance	consumer/product-style descriptor with weak academic payoff		medium
+low-footprint	environmental slogan-like compound with low standalone value		high
+low-regret	policy-jargon compound with low standalone TOEFL payoff		high
+long-horizon	compound descriptor better handled through broader long-term vocabulary		medium
+reuse-oriented	jargon-heavy sustainability descriptor with limited standalone payoff		high
+low-consumption	compound descriptor with lower payoff than broader efficiency vocabulary		medium
+resilience-oriented	jargon-heavy planning descriptor with limited standalone payoff		high
+sustainability-oriented	jargon-heavy planning descriptor with limited standalone payoff		high
+signup	UI/process label with low standalone Band-5 vocabulary value		high
+signoff	workflow label with low broad TOEFL transferability		high
+checkin	UI/process label with low standalone vocabulary value		high
+checkout	UI/process label with low standalone vocabulary value		high
+walkin	service-desk label with low broad TOEFL transferability		high
+headsup	informal colloquial label with low academic usefulness		high
+filename	software UI label with low standalone TOEFL value		high
+folder	too basic as a standalone Band-5 target in this set		high
+barcode	product/labeling term with low broad academic transferability		high
+buspass	campus-life specific noun with low broad TOEFL reuse		high
+classmate	too basic for target band		high
+teammate	too basic for target band		high
+roommate	too basic for target band		high
+campus	too basic for target band		high
+service	too broad/basic for standalone focus in this supplement		high
+wordcount	UI/task label with low standalone vocabulary payoff		high
+grammarcheck	awkward tool label with low standalone academic value		high
+scanner	too basic/product-specific for target band		medium
+quickstart	software/help label with low standalone TOEFL value		high
+soundcheck	event-tech label with low broad academic transferability		high
+timepoint	narrow stats/research noun with lower broad payoff than broader time vocabulary		high
+datapoint	narrow analytics noun with lower broad payoff than broader data vocabulary		high
+denominator	math-specific term with low broad TOEFL transferability		high
+numerator	math-specific term with low broad TOEFL transferability		high
+sensitivity	technical diagnostic-statistics term with limited broad reuse		high
+specificity	technical diagnostic-statistics term with limited broad reuse		high
+normalization	technical data-processing term with lower broad transferability		high
+thresholding	technical processing term likely to be glossed if needed		high
+observability	narrow measurement concept with lower payoff than broader measurable/observable vocabulary		high
+annualized	finance/reporting-specific adjective with limited cross-topic reuse		high
+upward	too basic as a standalone Band-5 target		high
+downward	too basic as a standalone Band-5 target		high
+monotonically	narrow mathematical adverb with low broad TOEFL transferability		high

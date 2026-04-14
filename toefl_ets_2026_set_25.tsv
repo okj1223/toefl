@@ -1,0 +1,105 @@
+dispersion	"핵심 뜻: 산포 / 퍼짐 정도
+구분: dispersion=퍼짐 정도 / concentration=한곳에 모임"
+skew	"핵심 뜻: 한쪽으로 치우치다
+구분: skew=한쪽으로 치우치다 / bias=편향"
+slope	핵심 뜻: 기울기
+plateau	"핵심 뜻: 정체 구간 / 고원 상태
+구분: plateau=상승이 멈춘 평평한 구간 / peak=가장 높은 한 점"
+uptrend	핵심 뜻: 상승 추세
+downtrend	핵심 뜻: 하락 추세
+spike	핵심 뜻: 급등
+dip	핵심 뜻: 일시적 하락
+surge	핵심 뜻: 급증
+trendline	"핵심 뜻: 추세선
+구분: trendline=전체 방향을 잇는 선 / baseline=비교 기준선"
+increment	핵심 뜻: 증가분
+decrement	핵심 뜻: 감소분
+amplitude	"핵심 뜻: 진폭
+구분: amplitude=진폭 / frequency=빈도"
+subset	핵심 뜻: 부분집합
+metric	핵심 뜻: 측정 지표
+rounding	핵심 뜻: 반올림
+underestimate	"핵심 뜻: 과소평가하다
+구분: underestimate=과소평가하다 / overestimate=과대평가하다"
+overestimate	"핵심 뜻: 과대평가하다
+구분: overestimate=과대평가하다 / underestimate=과소평가하다"
+granularity	"핵심 뜻: 세분성
+구분: granularity=얼마나 잘게 나눠 보는지 / resolution=구분의 세밀함"
+weighting	핵심 뜻: 가중치 부여
+benchmarking	핵심 뜻: 기준 비교
+extrapolate	"핵심 뜻: 외삽하다
+구분: extrapolate=범위 밖으로 추정하다 / interpolate=사이값을 추정하다"
+interpolate	"핵심 뜻: 보간하다
+구분: interpolate=사이값을 추정하다 / extrapolate=범위 밖을 추정하다"
+disaggregate	"핵심 뜻: 세분해 나누다
+구분: disaggregate=세분해 나누다 / classify=기준별로 분류하다"
+tabulate	핵심 뜻: 표로 정리하다
+quantify	"핵심 뜻: 수량화하다
+구분: quantify=수량화하다 / measure=측정하다"
+calibrate	핵심 뜻: 보정하다
+compare	핵심 뜻: 비교하다
+rank	핵심 뜻: 순위를 매기다
+classify	"핵심 뜻: 분류하다
+구분: classify=분류하다 / categorize=범주화하다"
+stratification	"핵심 뜻: 층화
+구분: stratification=층별로 나눠 보는 구조 / segmentation=기준에 따라 잘게 나눈 구획"
+segmentation	"핵심 뜻: 세분화
+구분: segmentation=세분화 / stratification=층화"
+causation	"핵심 뜻: 인과관계
+구분: causation=인과관계 / correlation=상관관계"
+confounding	"핵심 뜻: 교란
+구분: confounding=제3변수가 관계를 흐리는 교란 / bias=한쪽으로 기운 왜곡"
+randomization	"핵심 뜻: 무작위 배정
+구분: randomization=무작위 배정 / allocation=배분"
+replicability	"핵심 뜻: 재현 가능성
+구분: replicability=재현 가능성 / reliability=신뢰성"
+extrapolation	"핵심 뜻: 외삽 추정
+구분: extrapolation=외삽 추정 / interpolation=보간 추정"
+interpolation	"핵심 뜻: 보간 추정
+구분: interpolation=보간 추정 / extrapolation=외삽 추정"
+filtering	핵심 뜻: 필터링
+ranking	핵심 뜻: 순위화
+comparability	"핵심 뜻: 비교 가능성
+구분: comparability=같은 기준으로 견줄 수 있음 / similarity=서로 닮아 있음"
+uncorrelated	핵심 뜻: 상관없는
+linear	핵심 뜻: 선형의
+proportional	핵심 뜻: 비례하는
+inverse	핵심 뜻: 반비례의
+seasonality	핵심 뜻: 계절성
+cyclicality	핵심 뜻: 순환성
+volatility	"핵심 뜻: 변동성
+구분: volatility=변동성 / instability=불안정성"
+stabilization	핵심 뜻: 안정화
+deterioration	핵심 뜻: 악화 / 저하
+attainment	핵심 뜻: 달성
+shortfall	"핵심 뜻: 부족분 / 목표 미달분
+구분: shortfall=부족분 / deficit=적자·결손"
+divergence	"핵심 뜻: 발산
+구분: divergence=발산·차이 확대 / deviation=편차"
+stagnation	핵심 뜻: 정체
+acceleration	핵심 뜻: 가속
+deceleration	핵심 뜻: 감속
+plateauing	"핵심 뜻: 정체 단계에 들어섬
+구분: plateauing=정체 단계 진입 / declining=감소"
+breakdown	"핵심 뜻: 세부 내역 / 항목별 구분
+구분: breakdown=항목별로 쪼갠 내역 / total=전체 합계"
+data-based	핵심 뜻: 자료 기반의
+measurability	핵심 뜻: 측정 가능성
+traceability	핵심 뜻: 추적 가능성
+statistically	핵심 뜻: 통계적으로
+numerically	핵심 뜻: 수치상으로
+approximately	핵심 뜻: 대략
+roughly	핵심 뜻: 대충
+consistently	핵심 뜻: 일관되게
+systematically	핵심 뜻: 체계적으로
+sequentially	핵심 뜻: 순차적으로
+simultaneously	핵심 뜻: 동시에
+cautiously	핵심 뜻: 조심스럽게
+tentatively	핵심 뜻: 잠정적으로
+substantially	핵심 뜻: 상당히
+marginally	핵심 뜻: 약간만
+uniformly	핵심 뜻: 균일하게
+unevenly	핵심 뜻: 불균등하게
+erratically	핵심 뜻: 불규칙하게
+steadily	핵심 뜻: 꾸준히
+intermittently	핵심 뜻: 간헐적으로

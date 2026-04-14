@@ -19,7 +19,7 @@ ETS does not publish a canonical TOEFL 3000-word inventory, and forcing the tail
 
 - build a high-confidence ETS-based core first
 - stop expanding when added words become too specialized, too low-utility, or too duplicate-prone
-- keep 100-card file chunking, but allow the final number of ETS files to reflect quality gates instead of forcing exactly 30 files
+- rebalance final file chunking to keep section sizes reasonably even after pruning, targeting roughly 80 cards per ETS section when practical
 - keep AWL as a separate headword inventory
 
 ## Prompt File Policy
@@ -75,22 +75,39 @@ Words were excluded or deprioritized when they were:
 
 ## Card-Back Style Principle
 
-Cards now omit example sentences and translations.
+Cards now use a compact front-facing style.
 
-- prioritize concise Korean meaning, semantic nuance, and differentiation from near-synonyms
+- omit example sentences and translations
+- omit `부가 뜻` entirely
+- omit `핵심 느낌` entirely
+- prioritize concise Korean meaning and only high-value differentiation from near-synonyms
+- omit `구분` when it is just a part-of-speech tag, a field tag, or a generic comparison shell
 - avoid copying ETS source wording
 - keep back-side text compact and review-friendly
+
+## Flexible Meaning Policy
+
+Card content is no longer trimmed toward an artificial fixed shape.
+
+- if a headword has one dominant TOEFL sense, keep one
+- if it has two or three recurring TOEFL senses, keep two or three
+- do not force extra glosses just to make the card look balanced
+- do not force three comparison targets in `구분:` when one or two is enough
+- when a comparison line contains only a very easy generic word that adds little study value, trim that comparator and keep the sharper contrast
 
 ## Current Status
 
 As of this draft:
 
-- ETS sets `01` to `24` exist, and after the 2026-pruning pass plus a practical/data supplement pass the ETS-based total is now 2076 cards
+- ETS sets `01` to `25` exist, and after the full 2026-pruning/review pass the ETS-based total is now 1967 cards
 - that second pruning pass deleted outdated, over-specialized, and multi-word front entries without backfilling
+- a later strict review also removed 10 narrow late-stage science, art, and building-maintenance compounds and cleaned residual English-reference phrasing that added study fatigue
 - set `23` adds practical post-2026 academic-life language for email, scheduling, campus services, interviews, and file workflows
 - set `24` adds transferable quantitative/data language for trends, dispersion, uncertainty, approximation, and interpretation
-- AWL sets `01` to `03` now contain 278 AWL headwords repacked into 100/100/78 records after ETS-overlap removal
+- after the full semantic review, ETS files were rebalanced into `79/78`-card sections to avoid late-stage count collapse while preserving ordering
+- AWL sets `01` to `04` now contain 278 AWL headwords repacked into `70/70/69/69` records after ETS-overlap removal and later count rebalancing
 - automated TSV validation is in place
-- AWL generation is structurally complete and a first-pass Korean meaning polish has been applied, but manual spot review is still recommended
+- AWL generation is structurally complete and repeated Korean meaning cleanup passes have been applied, but periodic manual spot review is still recommended
 - duplicate cleanup has started and is tracked in `duplicates_removed.tsv`
 - with sets `23` and `24` added, there is no obvious remaining domain gap for a band-5-oriented single-headword core, but final meaning-quality spot review is still recommended
+- a later compact pass stripped all remaining `부가 뜻` and `핵심 느낌` lines from AWL `01` through ETS `24`, leaving only `핵심 뜻` plus optional `구분`

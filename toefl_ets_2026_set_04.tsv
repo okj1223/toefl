@@ -1,400 +1,119 @@
-access	"핵심 뜻: 접근 / 이용 권한
-부가 뜻: 접속하다 / 입수하다
-핵심 느낌: 필요한 정보나 장소에 들어갈 수 있음
-구분: access=접근 가능 / entrance=입구 / obtain=손에 넣다"
+exclude	"핵심 뜻: 제외하다
+구분: exclude=제외하다 / omit=빠뜨리다"
+explicit	"핵심 뜻: 명시적인
+구분: explicit=분명히 드러난 / implicit=암묵적인"
+export	"핵심 뜻: 수출하다 / 수출품
+구분: export=밖으로 보내다 / import=안으로 들이다"
+external	핵심 뜻: 외부의
+extract	핵심 뜻: 추출하다 / 뽑아내다
+framework	핵심 뜻: 틀
+global	핵심 뜻: 세계적인
+grant	"핵심 뜻: 보조금 / 승인하다
+구분: grant=공식 지원금 / scholarship=장학금"
+hence	핵심 뜻: 따라서
+hierarchy	핵심 뜻: 위계
+ignore	"핵심 뜻: 무시하다
+구분: ignore=의도적으로 무시 / overlook=못 보고 지나침"
+immigrate	"핵심 뜻: 이민 오다
+구분: immigrate=들어오다 / emigrate=떠나다"
+implement	"핵심 뜻: 실행하다 / 시행하다
+구분: implement=실행에 옮기다 / apply=적용하다"
+impose	"핵심 뜻: 부과하다 / 강요하다
+구분: impose=강제로 부과 / enforce=집행하다"
+incentive	핵심 뜻: 동기 / 유인책
+incidence	핵심 뜻: 발생률 / 발생
+income	핵심 뜻: 소득 / 수입
+inevitable	핵심 뜻: 불가피한
+infer	"핵심 뜻: 추론하다
+구분: infer=증거로 추론 / assume=가정하다"
+inhibit	핵심 뜻: 억제하다 / 방해하다
+initial	핵심 뜻: 초기의 / 처음의
+instance	핵심 뜻: 사례 / 경우
+insufficient	"핵심 뜻: 불충분한
+구분: insufficient=필요보다 부족 / inadequate=기준에 못 미침"
+internal	핵심 뜻: 내부의
+interval	핵심 뜻: 간격 / 사이
+lecture	핵심 뜻: 강의
+migrate	"핵심 뜻: 이동하다 / 이주하다
+구분: migrate=이동·이주 / immigrate=이민 오다"
+minimum	핵심 뜻: 최소한의 / 최소치
+modify	"핵심 뜻: 수정하다 / 변경하다
+구분: modify=부분 수정 / adapt=상황에 맞게 바꾸다"
+monitor	핵심 뜻: 관찰하다 / 점검하다
+network	핵심 뜻: 망 / 네트워크
+notion	"핵심 뜻: 개념 / 생각
+구분: notion=막연한 개념 / concept=정교한 개념"
+nuclear	핵심 뜻: 핵의 / 원자력의
+objective	"핵심 뜻: 객관적인 / 목표
+구분: objective=객관적 / unbiased=편향 없는"
+option	"핵심 뜻: 선택지 / 선택권
+구분: option=선택 가능한 것 / alternative=대안"
+outcome	핵심 뜻: 결과 / 성과
+overall	핵심 뜻: 전체적인 / 전반적으로
+parallel	"핵심 뜻: 평행한 / 유사한
+구분: parallel=나란함·유사성 / similar=비슷한"
+parameter	"핵심 뜻: 매개변수
+구분: parameter=설정 값 / variable=변수"
+phase	핵심 뜻: 단계 / 국면
+phenomenon	핵심 뜻: 현상
+policy	핵심 뜻: 정책 / 방침
+portion	핵심 뜻: 부분 / 일부
+potential	핵심 뜻: 잠재적인 / 잠재력
+precise	"핵심 뜻: 정확한 / 정밀한
+구분: precise=세밀하게 정확 / accurate=오차 없이 정확"
+predict	"핵심 뜻: 예측하다
+구분: predict=미래 예측 / forecast=전망하다"
+previous	핵심 뜻: 이전의 / 앞선
+primary	핵심 뜻: 주요한 / 1차의
+prior	"핵심 뜻: 이전의 / 사전의
+구분: prior=시간상 앞선 / previous=이전의"
+professional	핵심 뜻: 전문적인 / 직업의
+prohibit	"핵심 뜻: 금지하다
+구분: prohibit=공식 금지 / ban=금지하다"
+project	핵심 뜻: 프로젝트 / 계획
+promote	"핵심 뜻: 촉진하다 / 장려하다
+구분: promote=촉진·장려 / encourage=격려하다"
+react	핵심 뜻: 반응하다
+region	핵심 뜻: 지역 / 권역
+register	"핵심 뜻: 등록하다 / 기록하다
+구분: register=공식 등록 / enroll=과정 등록"
+relevant	"핵심 뜻: 관련 있는 / 적절한
+구분: relevant=주제와 관련 / appropriate=적절한"
+rely	"핵심 뜻: 의존하다 / 믿다
+구분: rely on=의존하다 / trust=믿고 맡기다"
+resident	핵심 뜻: 거주자
+resource	핵심 뜻: 자원 / 자료
+sequence	핵심 뜻: 순서 / 연속
+specify	"핵심 뜻: 명시하다
+구분: specify=구체적으로 명시 / define=정의하다"
+stable	핵심 뜻: 안정된 / 변함없는
+access	"핵심 뜻: 접근 / 이용할 수 있음
+구분: access=접근하거나 이용할 수 있음 / permission=허가"
 accompany	"핵심 뜻: 동반하다
-부가 뜻: 수반하다 / 함께 가다
-핵심 느낌: 어떤 것과 나란히 따라붙음
-구분: accompany=함께 일어나다 / follow=뒤따르다 / attend=참석하다"
+구분: accompany=함께 일어나다 / follow=뒤따르다"
 accomplish	"핵심 뜻: 성취하다
-부가 뜻: 완수하다 / 해내다
-핵심 느낌: 목표를 끝까지 이루어 냄
-구분: accomplish=완수하다 / achieve=달성하다 / complete=끝내다"
+구분: accomplish=완수하다 / achieve=달성하다"
 administer	"핵심 뜻: 관리하다
-부가 뜻: 집행하다 / 시행하다
-핵심 느낌: 제도나 시험을 공식적으로 운영함
-구분: administer=공식 운영 / manage=관리하다 / supervise=감독하다"
+구분: administer=공식 운영 / manage=관리하다"
 adopt	"핵심 뜻: 채택하다
-부가 뜻: 받아들이다 / 입양하다
-핵심 느낌: 새로운 생각이나 방식을 자기 것으로 삼음
-구분: adopt=채택하다 / accept=받아들이다 / adjust=조정하다"
-adult	"핵심 뜻: 성인
-부가 뜻: 성숙한 / 다 자란
-핵심 느낌: 완전히 성장한 상태
-구분: adult=성인 / mature=성숙한 / elderly=노년의"
+구분: adopt=채택하다 / accept=받아들이다"
+adult	핵심 뜻: 성인
 advise	"핵심 뜻: 조언하다
-부가 뜻: 권고하다 / 알리다
-핵심 느낌: 더 나은 선택을 하도록 방향을 제시함
-구분: advise=조언하다 / recommend=권하다 / inform=알리다"
-aid	"핵심 뜻: 도움
-부가 뜻: 지원하다 / 원조
-핵심 느낌: 부족한 부분을 보태 줌
-구분: aid=도움 / assist=돕다 / relief=구호"
-annual	"핵심 뜻: 연간의
-부가 뜻: 해마다의 / 연례의
-핵심 느낌: 매년 반복되거나 한 해 동안의
-구분: annual=매년의 / yearly=해마다의 / monthly=매월의"
+구분: advise=조언하다 / recommend=권하다"
+aid	"핵심 뜻: 돕다 / 도움
+구분: aid=도움을 주거나 도움 / assist=돕다"
+annual	핵심 뜻: 연간의
 append	"핵심 뜻: 덧붙이다
-부가 뜻: 첨부하다 / 추가하다
-핵심 느낌: 본문 끝에 더해 붙임
-구분: append=끝에 덧붙이다 / attach=붙이다 / include=포함하다"
+구분: append=끝에 덧붙이다 / attach=붙이다"
 appreciate	"핵심 뜻: 이해하다 / 감사하다
-부가 뜻: 인식하다 / 높이 평가하다
-핵심 느낌: 가치나 의미를 깊이 알아봄
-구분: appreciate=가치 이해 / value=가치를 두다 / acknowledge=인정하다"
+구분: appreciate=가치 이해 / value=가치를 두다"
 arise	"핵심 뜻: 발생하다
-부가 뜻: 생겨나다 / 일어나다
-핵심 느낌: 문제가나 상황이 새롭게 나타남
-구분: arise=생겨나다 / occur=발생하다 / emerge=드러나다"
+구분: arise=생겨나다 / occur=발생하다"
 assemble	"핵심 뜻: 모으다 / 조립하다
-부가 뜻: 집합하다 / 구성하다
-핵심 느낌: 여러 부분이나 사람을 한데 모음
-구분: assemble=한데 모으다 / gather=모으다 / compile=정리해 모으다"
+구분: assemble=한데 모으다 / gather=모으다"
 assign	"핵심 뜻: 할당하다
-부가 뜻: 지정하다 / 부여하다
-핵심 느낌: 역할이나 책임을 특정 대상에 나눠 줌
-구분: assign=할당하다 / allocate=배분하다 / designate=지정하다"
+구분: assign=할당하다 / allocate=배분하다"
 attach	"핵심 뜻: 붙이다
-부가 뜻: 첨부하다 / 연결하다
-핵심 느낌: 떨어져 있던 것을 하나로 잇는 것
-구분: attach=붙이다 / append=덧붙이다 / connect=연결하다"
+구분: attach=붙이다 / append=덧붙이다"
 automate	"핵심 뜻: 자동화하다
-부가 뜻: 기계화하다 / 자동 처리하다
-핵심 느낌: 사람 대신 시스템이 반복 작업을 수행함
-구분: automate=자동화하다 / mechanize=기계화하다 / simplify=단순화하다"
-benefit	"핵심 뜻: 이익 / 혜택
-부가 뜻: 도움이 되다 / 유익하다
-핵심 느낌: 어떤 것에서 긍정적 결과를 얻음
-구분: benefit=이익·혜택 / advantage=유리함 / profit=금전적 이익"
-brief	"핵심 뜻: 짧은
-부가 뜻: 간단한 / 잠시의
-핵심 느낌: 길지 않고 핵심만 담긴 상태
-구분: brief=짧고 간단한 / concise=간결한 / temporary=일시적인"
-broaden	"핵심 뜻: 넓히다
-부가 뜻: 확대하다 / 폭넓게 하다
-핵심 느낌: 범위나 시야를 더 크게 만듦
-구분: broaden=폭넓게 하다 / expand=확장하다 / deepen=깊게 하다"
-category	"핵심 뜻: 범주
-부가 뜻: 부류 / 유형
-핵심 느낌: 공통 특징을 기준으로 묶은 집단
-구분: category=범주 / class=분류 집단 / type=유형"
-chemical	"핵심 뜻: 화학의 / 화학 물질
-부가 뜻: 화학적인 / 약품
-핵심 느낌: 물질의 성질과 반응에 관련됨
-구분: chemical=화학 관련 / biological=생물학적 / physical=물리적"
-civil	"핵심 뜻: 시민의 / 민간의
-부가 뜻: 예의 바른 / 국내의
-핵심 느낌: 군사나 종교가 아닌 사회 일반과 관련됨
-구분: civil=시민·민간의 / public=공공의 / military=군사의"
-code	"핵심 뜻: 규범 / 암호
-부가 뜻: 법전 / 부호화하다
-핵심 느낌: 규칙이나 정보를 일정 체계로 정리함
-구분: code=체계화된 규칙 / rule=규칙 / signal=신호"
-commission	"핵심 뜻: 위원회 / 위임하다
-부가 뜻: 수수료 / 의뢰하다
-핵심 느낌: 공식 권한을 받아 일을 맡김
-구분: commission=공식 의뢰 / assign=할당하다 / committee=위원회"
-commodity	"핵심 뜻: 상품
-부가 뜻: 원자재 / 거래 품목
-핵심 느낌: 시장에서 사고파는 경제적 대상
-구분: commodity=거래 상품 / product=제품 / resource=자원"
-compatible	"핵심 뜻: 양립 가능한
-부가 뜻: 호환되는 / 조화를 이루는
-핵심 느낌: 함께 있어도 충돌하지 않음
-구분: compatible=서로 맞는 / consistent=일관된 / suitable=적합한"
-compete	"핵심 뜻: 경쟁하다
-부가 뜻: 겨루다 / 다투다
-핵심 느낌: 같은 목표를 두고 서로 앞서려 함
-구분: compete=경쟁하다 / contend=다투다 / cooperate=협력하다"
-complement	"핵심 뜻: 보완하다
-부가 뜻: 보완물 / 완성시키다
-핵심 느낌: 부족한 부분을 채워 전체를 더 좋게 만듦
-구분: complement=보완하다 / supplement=추가 보충 / replace=대체하다"
-compound	"핵심 뜻: 혼합물 / 복합의
-부가 뜻: 악화시키다 / 합성하다
-핵심 느낌: 여러 요소가 결합된 상태
-구분: compound=복합되다 / combine=결합하다 / intensify=강화하다"
-confer	"핵심 뜻: 수여하다
-부가 뜻: 상의하다 / 부여하다
-핵심 느낌: 권한이나 명예를 공식적으로 줌
-구분: confer=공식 부여 / grant=주다 / discuss=논의하다"
-consent	"핵심 뜻: 동의
-부가 뜻: 승낙하다 / 허락
-핵심 느낌: 충분히 알고 허락함
-구분: consent=동의 / approval=승인 / permission=허가"
-consideration	"핵심 뜻: 고려
-부가 뜻: 숙고 / 배려
-핵심 느낌: 결정을 내리기 전에 신중히 생각함
-구분: consideration=고려 / thought=생각 / concern=우려 사항"
-contact	"핵심 뜻: 접촉 / 연락
-부가 뜻: 연락하다 / 닿음
-핵심 느낌: 사람이나 사물과 직접 이어짐
-구분: contact=접촉·연락 / connection=연결 / communication=의사소통"
-convert	"핵심 뜻: 전환하다
-부가 뜻: 바꾸다 / 개조하다
-핵심 느낌: 한 형태나 상태를 다른 것으로 바꿈
-구분: convert=형태 전환 / transform=크게 바꾸다 / alter=변경하다"
-couple	"핵심 뜻: 한 쌍 / 결합하다
-부가 뜻: 둘 / 연결하다
-핵심 느낌: 두 요소가 함께 묶인 상태
-구분: couple=둘을 묶다 / pair=한 쌍 / combine=결합하다"
-credible	"핵심 뜻: 신뢰할 수 있는
-부가 뜻: 믿을 만한 / 그럴듯한
-핵심 느낌: 증거나 평판이 있어 믿음이 감
-구분: credible=믿을 만한 / reliable=일관되게 믿을 수 있는 / plausible=그럴듯한"
-currency	"핵심 뜻: 통화
-부가 뜻: 유통 / 화폐
-핵심 느낌: 경제 활동에 실제로 쓰이는 돈
-구분: currency=통화 / cash=현금 / finance=재정"
-cycle	"핵심 뜻: 주기
-부가 뜻: 순환 / 반복 과정
-핵심 느낌: 일정한 순서가 되풀이됨
-구분: cycle=반복 주기 / sequence=순서 / pattern=양상"
-data	"핵심 뜻: 자료
-부가 뜻: 데이터 / 정보
-핵심 느낌: 분석의 근거가 되는 수치나 사실
-구분: data=분석 자료 / information=정보 / evidence=증거"
-despite	"핵심 뜻: ~에도 불구하고
-부가 뜻: 그래도 / 역행하여
-핵심 느낌: 장애 요소가 있어도 결과가 이어짐
-구분: despite=~에도 불구하고 / although=비록 ~이지만 / regardless of=상관없이"
-displace	"핵심 뜻: 대체하다 / 이동시키다
-부가 뜻: 쫓아내다 / 밀어내다
-핵심 느낌: 원래 있던 자리를 다른 것이 차지함
-구분: displace=자리에서 밀어내다 / replace=대체하다 / remove=제거하다"
-display	"핵심 뜻: 보여 주다
-부가 뜻: 전시하다 / 드러내다
-핵심 느낌: 밖으로 보이게 나타냄
-구분: display=보여 주다 / exhibit=전시하다 / reveal=드러내다"
-dispose	"핵심 뜻: 처리하다
-부가 뜻: 배치하다 / ~할 마음이 들게 하다
-핵심 느낌: 남은 것을 적절히 정리하거나 없앰
-구분: dispose=처리하다 / discard=버리다 / arrange=배치하다"
-edit	"핵심 뜻: 편집하다
-부가 뜻: 수정하다 / 교정하다
-핵심 느낌: 더 나은 형태가 되도록 손질함
-구분: edit=편집하다 / revise=수정하다 / correct=고치다"
-energy	"핵심 뜻: 에너지
-부가 뜻: 힘 / 활력
-핵심 느낌: 일을 가능하게 하는 동력
-구분: energy=에너지 / power=힘·전력 / fuel=연료"
-enforce	"핵심 뜻: 시행하다
-부가 뜻: 강제하다 / 집행하다
-핵심 느낌: 규칙을 실제로 따르게 만듦
-구분: enforce=강제 시행 / implement=실행하다 / require=요구하다"
-entity	"핵심 뜻: 개체
-부가 뜻: 독립체 / 실체
-핵심 느낌: 하나의 분명한 존재 단위로 봄
-구분: entity=독립 실체 / object=대상 / institution=기관"
-environment	"핵심 뜻: 환경
-부가 뜻: 주변 조건 / 자연환경
-핵심 느낌: 어떤 존재를 둘러싼 전체 조건
-구분: environment=주변 환경 / context=맥락 / ecosystem=생태계"
-equilibrium	"핵심 뜻: 균형 상태
-부가 뜻: 평형 / 안정 상태
-핵심 느낌: 힘이나 조건이 맞춰져 안정됨
-구분: equilibrium=평형 / balance=균형 / stability=안정성"
-era	"핵심 뜻: 시대
-부가 뜻: 시기 / 시대 구분
-핵심 느낌: 특정 특징으로 구분되는 긴 기간
-구분: era=특징 있는 시대 / period=기간 / age=시대"
-error	"핵심 뜻: 오류
-부가 뜻: 실수 / 착오
-핵심 느낌: 정확해야 할 곳에서 틀어짐
-구분: error=오류 / mistake=실수 / flaw=결함"
-evident	"핵심 뜻: 분명한
-부가 뜻: 명백한 / 뚜렷한
-핵심 느낌: 굳이 설명하지 않아도 드러남
-구분: evident=명백한 / obvious=분명한 / explicit=명시적인"
-exceed	"핵심 뜻: 초과하다
-부가 뜻: 넘다 / 능가하다
-핵심 느낌: 기준이나 한계를 넘어섬
-구분: exceed=기준 초과 / surpass=능가하다 / overtake=앞지르다"
-expert	"핵심 뜻: 전문가
-부가 뜻: 숙련된 / 전문적인
-핵심 느낌: 특정 분야에 깊은 지식과 기술이 있음
-구분: expert=전문가 / specialist=전문 분야 종사자 / professional=직업인"
-final	"핵심 뜻: 최종의
-부가 뜻: 마지막의 / 결정적인
-핵심 느낌: 더 이상의 단계가 없는 끝
-구분: final=최종의 / last=마지막의 / ultimate=궁극적인"
-flexible	"핵심 뜻: 유연한
-부가 뜻: 융통성 있는 / 잘 구부러지는
-핵심 느낌: 상황에 따라 조절이 가능함
-구분: flexible=유연한 / adaptable=적응 가능한 / stable=안정적인"
-fund	"핵심 뜻: 자금을 대다
-부가 뜻: 기금 / 재원
-핵심 느낌: 필요한 돈을 마련해 공급함
-구분: fund=자금 지원 / finance=재정 조달 / sponsor=후원하다"
-goal	"핵심 뜻: 목표
-부가 뜻: 목적 / 지향점
-핵심 느낌: 노력의 방향이 되는 도착점
-구분: goal=목표 / objective=구체 목표 / purpose=목적"
-guarantee	"핵심 뜻: 보장하다
-부가 뜻: 보증 / 확약하다
-핵심 느낌: 결과나 조건을 확실히 약속함
-구분: guarantee=확실히 보장 / ensure=확실히 하다 / promise=약속하다"
-highlight	"핵심 뜻: 강조하다
-부가 뜻: 두드러지게 하다 / 핵심 사항
-핵심 느낌: 중요한 부분을 눈에 띄게 만듦
-구분: highlight=강조하다 / emphasize=강조하다 / indicate=가리키다"
-hypothetical	"핵심 뜻: 가설의
-부가 뜻: 가정상의 / 상상의
-핵심 느낌: 실제가 아니라 가정을 위해 설정한 것
-구분: hypothetical=가정상의 / theoretical=이론적인 / imaginary=상상의"
-image	"핵심 뜻: 이미지 / 영상
-부가 뜻: 인상 / 상
-핵심 느낌: 눈에 보이거나 ذهن에 그려지는 모습
-구분: image=영상·상 / picture=그림 / impression=인상"
-immune	"핵심 뜻: 면역의
-부가 뜻: 영향을 받지 않는 / 면제된
-핵심 느낌: 외부 자극에 쉽게 흔들리지 않음
-구분: immune=면역·영향 없음 / resistant=저항하는 / protected=보호된"
-label	"핵심 뜻: 분류하다 / 꼬리표
-부가 뜻: 명명하다 / 표지
-핵심 느낌: 이름을 붙여 성격을 규정함
-구분: label=이름 붙이다 / classify=분류하다 / identify=확인하다"
-layer	"핵심 뜻: 층
-부가 뜻: 겹 / 계층
-핵심 느낌: 하나 위에 하나가 포개진 구조
-구분: layer=층 / level=수준 / stratum=지층"
-legal	"핵심 뜻: 법률의
-부가 뜻: 합법적인 / 법적인
-핵심 느낌: 법의 규정과 직접 관련됨
-구분: legal=법률의 / lawful=합법적인 / ethical=윤리적인"
-levy	"핵심 뜻: 부과하다
-부가 뜻: 세금 / 징수하다
-핵심 느낌: 세금이나 부담을 공식적으로 매김
-구분: levy=부과하다 / impose=부과하다 / collect=징수하다"
-link	"핵심 뜻: 연결하다
-부가 뜻: 관련짓다 / 고리
-핵심 느낌: 떨어진 요소들 사이에 관계를 만듦
-구분: link=연결하다 / connect=잇다 / associate=연관짓다"
-locate	"핵심 뜻: 위치를 찾다
-부가 뜻: 자리 잡다 / 찾아내다
-핵심 느낌: 어디에 있는지 정확히 밝혀냄
-구분: locate=위치 찾기 / find=찾다 / identify=식별하다"
-logic	"핵심 뜻: 논리
-부가 뜻: 타당한 사고 / 논법
-핵심 느낌: 앞뒤가 맞는 사고의 흐름
-구분: logic=논리 체계 / reason=이성 / argument=주장"
-margin	"핵심 뜻: 여백 / 차이
-부가 뜻: 폭 / 한계
-핵심 느낌: 중심이나 기준에서 남는 부분
-구분: margin=차이·여백 / gap=격차 / boundary=경계"
-medical	"핵심 뜻: 의학의
-부가 뜻: 의료의 / 치료용의
-핵심 느낌: 질병과 치료에 관련됨
-구분: medical=의학의 / clinical=임상의 / biological=생물학의"
-mental	"핵심 뜻: 정신의
-부가 뜻: 마음의 / 지적인
-핵심 느낌: 마음과 사고 활동에 관련됨
-구분: mental=정신의 / cognitive=인지의 / emotional=감정의"
-methodology	"핵심 뜻: 방법론
-부가 뜻: 연구 방법 체계 / 절차
-핵심 느낌: 단순한 방법이 아니라 방법의 설계 원리
-구분: methodology=방법론 / method=방법 / procedure=절차"
-military	"핵심 뜻: 군사의
-부가 뜻: 군대 / 군사적
-핵심 느낌: 군대와 전쟁 활동에 관련됨
-구분: military=군사의 / civil=민간의 / political=정치의"
-normal	"핵심 뜻: 정상의
-부가 뜻: 일반적인 / 보통의
-핵심 느낌: 특별하지 않고 흔한 기준에 맞음
-구분: normal=정상의 / typical=전형적인 / standard=기준의"
-occupy	"핵심 뜻: 차지하다
-부가 뜻: 점유하다 / 사용하다
-핵심 느낌: 공간이나 시간, 위치를 채움
-구분: occupy=차지하다 / fill=채우다 / possess=소유하다"
-output	"핵심 뜻: 산출량
-부가 뜻: 생산물 / 출력
-핵심 느낌: 투입 뒤에 실제로 나오는 결과
-구분: output=산출량 / product=생산물 / outcome=결과"
-permit	"핵심 뜻: 허용하다
-부가 뜻: 허가증 / 가능하게 하다
-핵심 느낌: 공식적으로 가능하다고 인정함
-구분: permit=허용하다 / allow=허용하다 / authorize=공식 허가하다"
-persist	"핵심 뜻: 지속되다
-부가 뜻: 고집하다 / 계속하다
-핵심 느낌: 쉽게 사라지지 않고 남아 있음
-구분: persist=지속되다 / remain=남아 있다 / endure=견디며 계속되다"
-perspective	"핵심 뜻: 관점
-부가 뜻: 시각 / 견해
-핵심 느낌: 어떤 대상을 바라보는 방향과 틀
-구분: perspective=관점 / viewpoint=견해 / angle=접근 각도"
-precede	"핵심 뜻: 앞서다
-부가 뜻: 선행하다 / 먼저 오다
-핵심 느낌: 시간이나 순서상 먼저 위치함
-구분: precede=앞서다 / come before=먼저 오다 / follow=뒤따르다"
-preserve	"핵심 뜻: 보존하다
-부가 뜻: 유지하다 / 지키다
-핵심 느낌: 손상되지 않게 그대로 남김
-구분: preserve=보존하다 / conserve=보호·보존하다 / maintain=유지하다"
-qualitative	"핵심 뜻: 질적인
-부가 뜻: 성질상의 / 비수치적
-핵심 느낌: 양보다 특성과 내용에 초점을 둠
-구분: qualitative=질적인 / quantitative=양적인 / descriptive=서술적인"
-quote	"핵심 뜻: 인용하다
-부가 뜻: 인용문 / 견적을 제시하다
-핵심 느낌: 다른 사람의 말을 그대로 가져옴
-구분: quote=인용하다 / cite=출처 언급 / mention=언급하다"
-radical	"핵심 뜻: 급진적인
-부가 뜻: 근본적인 / 과격한
-핵심 느낌: 표면이 아니라 뿌리부터 크게 바꾸려 함
-구분: radical=근본적 변화 / drastic=강한 변화 / gradual=점진적인"
-random	"핵심 뜻: 무작위의
-부가 뜻: 임의의 / 우연한
-핵심 느낌: 일정한 규칙이나 의도 없이 선택됨
-구분: random=무작위의 / arbitrary=자의적인 / accidental=우연한"
-recover	"핵심 뜻: 회복하다
-부가 뜻: 되찾다 / 복구하다
-핵심 느낌: 손실이나 충격 이후 원래 상태로 돌아감
-구분: recover=회복하다 / restore=복구하다 / regain=되찾다"
-reveal	"핵심 뜻: 드러내다
-부가 뜻: 밝히다 / 보여 주다
-핵심 느낌: 감춰진 것을 밖으로 나타냄
-구분: reveal=드러내다 / expose=노출하다 / indicate=시사하다"
-scope	"핵심 뜻: 범위
-부가 뜻: 여지 / 규모
-핵심 느낌: 다루거나 미치는 한계의 넓이
-구분: scope=범위 / scale=규모 / extent=정도·범위"
-subsidy	"핵심 뜻: 보조금
-부가 뜻: 지원금 / 장려금
-핵심 느낌: 정부나 기관이 비용 일부를 대신 부담함
-구분: subsidy=보조금 / grant=지원금 / fund=기금"
-sustain	"핵심 뜻: 유지하다
-부가 뜻: 지탱하다 / 지속시키다
-핵심 느낌: 중간에 무너지지 않게 계속 버팀
-구분: sustain=지속시키다 / maintain=유지하다 / support=지탱하다"
-topic	"핵심 뜻: 주제
-부가 뜻: 화제 / 논제
-핵심 느낌: 말하거나 연구하는 중심 대상
-구분: topic=주제 / subject=주제·과목 / issue=쟁점"
-tradition	"핵심 뜻: 전통
-부가 뜻: 관습 / 오랜 방식
-핵심 느낌: 오랫동안 이어져 내려오는 행동이나 생각
-구분: tradition=전통 / custom=관습 / heritage=유산"
-transfer	"핵심 뜻: 옮기다 / 이전하다
-부가 뜻: 이동 / 전이
-핵심 느낌: 사람이나 정보, 물건을 다른 곳으로 넘김
-구분: transfer=옮기다 / move=이동하다 / transmit=전달하다"
-transport	"핵심 뜻: 수송하다 / 운송
-부가 뜻: 이동시키다 / 교통
-핵심 느낌: 사람이나 물건을 한 장소에서 다른 곳으로 보냄
-구분: transport=운송하다 / deliver=배달하다 / transfer=이동시키다"
-validity	"핵심 뜻: 타당성
-부가 뜻: 유효성 / 정당성
-핵심 느낌: 주장이나 도구가 믿을 만하게 맞는 정도
-구분: validity=타당성 / reliability=신뢰성 / accuracy=정확성"
-version	"핵심 뜻: 판 / 버전
-부가 뜻: 형태 / 변형
-핵심 느낌: 같은 것의 조금 다른 형태
-구분: version=판·형태 / edition=출판판 / model=모형"
-volume	"핵심 뜻: 양 / 부피
-부가 뜻: 권 / 규모
-핵심 느낌: 크기나 총량으로 측정되는 정도
-구분: volume=양·부피 / quantity=수량 / capacity=용량"
-welfare	"핵심 뜻: 복지
-부가 뜻: 안녕 / 행복
-핵심 느낌: 사람들의 기본적 삶의 질이 보장되는 상태
-구분: welfare=복지 / well-being=안녕 / benefit=혜택"
+구분: automate=자동화하다 / mechanize=기계화하다"

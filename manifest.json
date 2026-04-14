@@ -1,9 +1,9 @@
 {
-  "total_ets_cards": 2076,
+  "total_ets_cards": 1967,
   "total_awl_cards": 278,
   "ets_target_policy": "quality-gated expansion; 3000 is not a hard quota",
   "target_score_band": "TOEFL iBT overall band 5 on the 1-6 scale introduced January 21, 2026",
-  "awl_generation_note": "AWL card files are structurally validated, but Korean glosses are machine-generated draft text intended for a later Claude quality-pass.",
+  "awl_generation_note": "AWL card files are structurally validated and have already received repeated Korean-gloss cleanup passes, though periodic manual spot review is still recommended.",
   "files_created": [
     "toefl_ets_2026_set_01.tsv",
     "toefl_ets_2026_set_02.tsv",
@@ -29,9 +29,11 @@
     "toefl_ets_2026_set_22.tsv",
     "toefl_ets_2026_set_23.tsv",
     "toefl_ets_2026_set_24.tsv",
+    "toefl_ets_2026_set_25.tsv",
     "toefl_awl_set_01.tsv",
     "toefl_awl_set_02.tsv",
     "toefl_awl_set_03.tsv",
+    "toefl_awl_set_04.tsv",
     "fields_spec.md",
     "generation_notes.md",
     "rejected_candidates.tsv",
@@ -42,6 +44,7 @@
     "ETS-based means aligned to official/public ETS TOEFL materials and test descriptions",
     "Cross-disciplinary academic vocabulary prioritized over narrow technical terms",
     "Modern academic-life contexts prioritized for the 2026 TOEFL direction",
+    "Meaning counts stay flexible by TOEFL usefulness rather than fixed card symmetry",
     "AWL handled by headword, not by uncontrolled derivative expansion",
     "Do not force low-utility tail words just to reach 3000 cards"
   ],
@@ -53,10 +56,12 @@
   ],
   "quality_checks": [
     "TSV two-column validation",
-    "4-line card-back label/order validation",
+    "compact card-back label/order validation with 핵심 뜻 required and 구분 optional",
     "actual multiline TSV validation",
-    "example/translation field exclusion validation",
-    "duplicate-headword audit"
+    "부가 뜻/핵심 느낌/example/translation exclusion validation",
+    "duplicate-headword audit",
+    "low-value generic comparator pruning in distinction lines",
+    "strict study-efficiency review for low-value distinctions and narrow specialist headwords"
   ],
-  "timestamp": "2026-04-04T13:38:53+09:00"
+  "timestamp": "2026-04-14T22:54:31+09:00"
 }

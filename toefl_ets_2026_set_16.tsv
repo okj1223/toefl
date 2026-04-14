@@ -1,304 +1,112 @@
-acclimate	"핵심 뜻: 적응하다 / 환경에 익숙해지다
-부가 뜻: 새 조건에 맞게 몸이나 방식이 서서히 맞춰지다
-핵심 느낌: 낯선 조건을 버티며 점점 그 온도에 몸이 맞는 느낌
-구분: acclimate=새 환경에 익숙해지다 / adapt=변화에 맞춰 조정하다 / adjust=세부를 맞춰 바꾸다"
-activation	"핵심 뜻: 활성화 / 작동 시작
-부가 뜻: 멈춰 있던 기능이나 반응이 실제로 켜져 움직이기 시작함
-핵심 느낌: 꺼져 있던 스위치가 켜지며 과정이 살아나는 느낌
-구분: activation=작동을 시작시킴 / stimulation=반응을 자극함 / initiation=시작 단계"
-amplifier	"핵심 뜻: 증폭 요인 / 강화 장치
-부가 뜻: 신호나 효과를 더 크게 키우는 것
-핵심 느낌: 작게 들어온 신호를 더 크게 밀어 올리는 느낌
-구분: amplifier=신호·효과를 키우는 것 / catalyst=변화를 촉진하는 요인 / enhancer=효과를 높이는 것"
-anatomical	"핵심 뜻: 구조상의 / 해부학적
-부가 뜻: 겉모습보다 내부 형태와 구성 구조에 관련된
-핵심 느낌: 무엇이 어떻게 생겼고 어디에 놓였는지 구조를 보는 느낌
-구분: anatomical=몸·내부 구조와 관련된 / structural=구조적인 / functional=작동 방식의"
-bioindicator	"핵심 뜻: 생물 지표 / 생태 상태를 보여주는 지표
-부가 뜻: 환경이나 시스템 상태를 간접적으로 보여주는 생물학적 단서
-핵심 느낌: 겉으로 안 보이는 변화를 대신 알려주는 살아있는 신호등
-구분: bioindicator=생물을 통해 상태를 보여주는 지표 / indicator=상태를 보여주는 신호 / biomarker=생체 상태를 나타내는 표지"
-biomechanical	"핵심 뜻: 생체역학적 / 구조와 힘의 작용에 관한
-부가 뜻: 살아 있는 구조가 힘과 움직임을 어떻게 견디고 전달하는지와 관련된
-핵심 느낌: 몸이나 구조를 힘이 지나가는 장치처럼 보는 느낌
-구분: biomechanical=생체 구조와 힘의 작용 관련 / mechanical=힘과 움직임의 / physiological=몸의 기능 작동과 관련된"
-biosphere	"핵심 뜻: 생물권 / 생명이 존재하는 전체 영역
-부가 뜻: 지구에서 생명체와 환경이 함께 맞물려 존재하는 큰 범위
-핵심 느낌: 개별 생물보다 생명이 깔린 전체 층을 보는 느낌
-구분: biosphere=생명체가 존재하는 전체 영역 / ecosystem=상호작용하는 생태 체계 / habitat=특정 서식지"
-calibration	"핵심 뜻: 보정 / 기준 맞춤
-부가 뜻: 측정이나 반응이 기준에 맞게 나오도록 눈금을 다시 맞춤
-핵심 느낌: 어긋난 계기를 기준선에 맞춰 다시 조이는 느낌
-구분: calibration=측정 기준을 다시 맞춤 / adjustment=세부를 조정함 / standardization=기준을 통일함"
-camouflage	"핵심 뜻: 위장 / 주변에 섞여 숨음
-부가 뜻: 눈에 띄지 않도록 주변 색·형태와 비슷하게 보이는 성질이나 전략
-핵심 느낌: 배경 속에 묻혀 쉽게 구별되지 않게 숨는 느낌
-구분: camouflage=주변에 섞여 숨는 위장 / concealment=감춤 / adaptation=환경에 맞춘 변화"
-carbohydrate	"핵심 뜻: 탄수화물
-부가 뜻: 에너지 공급이나 구조 형성에 쓰이는 주요 유기 영양 성분
-핵심 느낌: 몸이나 시스템이 연료처럼 꺼내 쓰는 기본 재료
-구분: carbohydrate=주요 에너지 영양 성분 / nutrient=영양분 일반 / glucose=당의 한 종류"
-cellular	"핵심 뜻: 세포 수준의 / 작은 단위 구조의
-부가 뜻: 큰 전체보다 아주 작은 기본 단위에서 일어나는 것과 관련된
-핵심 느낌: 큰 덩어리를 쪼개 가장 작은 작동 단위에서 보는 느낌
-구분: cellular=세포·작은 단위 수준의 / microscopic=현미경적 규모의 / systemic=전체 시스템 수준의"
-circulatory	"핵심 뜻: 순환의 / 흐름을 돌리는
-부가 뜻: 물질이나 정보가 닫힌 경로나 체계 안에서 돌아 움직이는 것과 관련된
-핵심 느낌: 한 번 쓰고 끝이 아니라 길을 따라 계속 도는 느낌
-구분: circulatory=흐름을 순환시키는 / distributive=여러 곳에 나눠 퍼뜨리는 / linear=한 방향으로만 이어지는"
-coexist	"핵심 뜻: 공존하다
-부가 뜻: 서로 다른 요소나 집단이 같은 공간이나 체계 안에 함께 존재하다
-핵심 느낌: 하나가 다른 하나를 완전히 밀어내지 않고 같이 자리 잡는 느낌
-구분: coexist=함께 존재하다 / interact=서로 영향을 주고받다 / compete=자리를 두고 겨루다"
-compartment	"핵심 뜻: 구획 / 분리된 칸
-부가 뜻: 전체 안에서 특정 기능이나 내용을 따로 담는 분리된 부분
-핵심 느낌: 한 덩어리 속을 칸막이로 나눠 역할을 가르는 느낌
-구분: compartment=분리된 구획 / section=부분 구역 / chamber=닫힌 공간"
-conductive	"핵심 뜻: 전달성이 있는 / 잘 통하는
-부가 뜻: 열·전기·신호 같은 것이 지나가기 쉬운 성질의
-핵심 느낌: 막히지 않고 안을 통해 신호가 잘 흐르는 느낌
-구분: conductive=열·신호를 잘 전달하는 / permeable=물질이 통과하기 쉬운 / insulating=흐름을 막는"
-convergent	"핵심 뜻: 수렴하는 / 한쪽으로 모이는
-부가 뜻: 서로 다른 흐름이나 특징이 점점 비슷한 방향으로 모이는
-핵심 느낌: 따로 출발했지만 끝에서 점점 한 점으로 좁혀지는 느낌
-구분: convergent=한 방향으로 수렴하는 / divergent=서로 갈라지는 / similar=비슷한"
-cyclic	"핵심 뜻: 주기적인 / 순환하는
-부가 뜻: 한 번으로 끝나지 않고 일정한 패턴으로 되풀이되는
-핵심 느낌: 직선으로만 가지 않고 다시 처음 쪽으로 돌아오는 느낌
-구분: cyclic=되풀이되는 순환형의 / periodic=일정 주기로 반복되는 / linear=직선적으로 진행되는"
-decay	"핵심 뜻: 쇠퇴 / 분해되다
-부가 뜻: 시간이 지나며 구조나 강도, 질서가 약해지거나 쪼개지다
-핵심 느낌: 단단하던 것이 서서히 풀리고 무너지는 느낌
-구분: decay=서서히 약해지거나 분해됨 / erosion=표면이 깎여 닳음 / deterioration=상태가 나빠짐"
-decomposition	"핵심 뜻: 분해 / 구성 요소로 쪼개짐
-부가 뜻: 복잡한 것이 더 단순한 부분으로 나뉘거나 해체됨
-핵심 느낌: 큰 덩어리가 작은 조각과 성분으로 풀리는 느낌
-구분: decomposition=구성 요소로 분해됨 / breakdown=작동·구조가 무너짐 / analysis=개념적으로 나누어 살펴봄"
-differentiation	"핵심 뜻: 분화 / 차별화
-부가 뜻: 처음 비슷하던 것이 서로 다른 기능이나 특징을 갖도록 갈라짐
-핵심 느낌: 같은 출발점에서 각자 다른 역할로 갈라져 가는 느낌
-구분: differentiation=다르게 분화·구별됨 / specialization=특정 역할에 맞게 특화됨 / distinction=차이를 구분함"
-dormancy	"핵심 뜻: 휴면 상태 / 잠잠히 멈춰 있음
-부가 뜻: 겉으로 활동이 거의 멈췄지만 완전히 사라진 것은 아닌 상태
-핵심 느낌: 꺼진 듯 조용하지만 조건이 맞으면 다시 깨어날 수 있는 느낌
-구분: dormancy=활동이 잠시 멈춘 휴면 상태 / inactivity=비활동 상태 일반 / extinction=완전히 사라짐"
-downregulate	"핵심 뜻: 하향 조절하다 / 작동을 낮추다
-부가 뜻: 반응이나 기능의 강도나 발현 수준을 줄이다
-핵심 느낌: 너무 센 출력을 한 단계 낮춰 누르는 느낌
-구분: downregulate=작동 수준을 낮추다 / suppress=억제하다 / attenuate=강도를 약화시키다"
-encapsulate	"핵심 뜻: 감싸 담다 / 핵심을 압축해 담다
-부가 뜻: 내용이나 기능을 한 경계 안에 넣어 보호하거나 요약해 담다
-핵심 느낌: 중요한 것을 한 껍질 안에 모아 싸두는 느낌
-구분: encapsulate=경계 안에 담거나 요약해 담다 / enclose=둘러싸 넣다 / summarize=핵심만 줄여 말하다"
-equilibrate	"핵심 뜻: 평형을 이루다 / 균형을 맞추다
-부가 뜻: 차이나 불균형이 줄어들며 비교적 안정된 상태로 맞춰지다
-핵심 느낌: 한쪽으로 기운 상태가 서서히 가운데로 돌아오는 느낌
-구분: equilibrate=평형 상태로 맞춰지다 / balance=균형을 맞추다 / stabilize=안정되게 하다"
-exogenous	"핵심 뜻: 외부에서 온 / 외생적인
-부가 뜻: 시스템 안에서 생긴 것이 아니라 바깥 원인에서 들어온
-핵심 느낌: 안쪽 자체보다 밖에서 밀고 들어온 요인을 보는 느낌
-구분: exogenous=외부 원인에서 온 / external=바깥의 / endogenous=내부에서 생긴"
-feedback-driven	"핵심 뜻: 피드백에 따라 조정되는
-부가 뜻: 한 번 정한 대로 고정되지 않고 돌아오는 반응을 바탕으로 바뀌는
-핵심 느낌: 결과가 다시 돌아와 다음 작동의 손잡이를 돌리는 느낌
-구분: feedback-driven=반응을 받아가며 조정되는 / adaptive=상황에 맞게 조정되는 / fixed=고정된"
-flow-through	"핵심 뜻: 흘러 통과하는 / 관통 흐름의
-부가 뜻: 자원이나 정보가 한 곳에 머물지 않고 들어와 지나가며 이어지는
-핵심 느낌: 고여 쌓이기보다 안을 통과해 계속 흘러가는 느낌
-구분: flow-through=안으로 들어와 지나가는 흐름의 / retained=안에 남겨진 / blocked=막힌"
-frictionless	"핵심 뜻: 마찰이 적은 / 막힘없이 진행되는
-부가 뜻: 절차나 이동이 불필요한 저항 없이 쉽게 이어지는
-핵심 느낌: 중간 걸림돌 없이 매끄럽게 미끄러져 가는 느낌
-구분: frictionless=저항이 적고 매끄러운 / smooth=부드럽게 이어지는 / cumbersome=절차가 번거로운"
-gradational	"핵심 뜻: 단계적으로 이어지는 / 점층적인
-부가 뜻: 뚝 끊긴 범주보다 연속적인 정도 차이로 변하는
-핵심 느낌: 검은색과 흰색 사이가 서서히 여러 층으로 이어지는 느낌
-구분: gradational=정도가 연속적으로 변하는 / discrete=뚝 나뉜 / gradual=서서히 진행되는"
-homeostatic	"핵심 뜻: 항상성을 유지하는 / 균형 조절의
-부가 뜻: 외부 변화가 있어도 내부 상태를 일정 범위 안에 맞추려는
-핵심 느낌: 흔들려도 중심값 근처로 다시 끌어오는 조절 느낌
-구분: homeostatic=내부 균형을 유지하려는 / self-regulating=스스로 조절하는 / stable=안정된"
-hybridize	"핵심 뜻: 혼합하다 / 서로 다른 것을 결합하다
-부가 뜻: 서로 다른 유형이나 방식의 요소를 섞어 새 조합을 만들다
-핵심 느낌: 한 갈래만 쓰지 않고 두 계열을 섞어 새 형태를 내는 느낌
-구분: hybridize=다른 유형을 섞어 결합하다 / integrate=하나의 체계로 묶다 / blend=섞다"
-inflow	"핵심 뜻: 유입 / 안으로 들어오는 흐름
-부가 뜻: 자원·정보·물질이 시스템 안으로 들어오는 양이나 움직임
-핵심 느낌: 밖에서 안쪽으로 계속 흘러 들어오는 물줄기
-구분: inflow=안으로 들어오는 흐름 / outflow=밖으로 나가는 흐름 / intake=받아들이는 양"
-interdependent	"핵심 뜻: 상호의존적인
-부가 뜻: 각 요소가 따로 독립해 있지 않고 서로 기대며 영향을 주고받는
-핵심 느낌: 하나만 바뀌어도 다른 쪽이 같이 흔들릴 만큼 얽힌 느낌
-구분: interdependent=서로 의존하며 연결된 / independent=독립적인 / interconnected=서로 이어진"
-microstructure	"핵심 뜻: 미세 구조 / 작은 수준의 내부 짜임
-부가 뜻: 겉에서 바로 보이지 않는 작은 단위 수준의 배열과 구조
-핵심 느낌: 전체 표면 아래 확대했을 때 드러나는 안쪽 세부 짜임
-구분: microstructure=미세한 내부 구조 / structure=짜임 일반 / texture=표면이나 조직감"
-modulator	"핵심 뜻: 조절 요인 / 강도를 바꾸는 요소
-부가 뜻: 반응이나 신호 자체를 새로 만들기보다 그 세기를 바꾸는 요소
-핵심 느낌: 음량 손잡이처럼 작동 강도를 올리거나 내리는 역할
-구분: modulator=반응 강도를 조절하는 요인 / regulator=작동 수준을 조정하는 요소 / trigger=시작을 일으키는 계기"
-niche	"핵심 뜻: 틈새 역할 / 특정 자리
-부가 뜻: 전체 체계 안에서 어떤 대상이 맡는 특정 위치나 역할
-핵심 느낌: 큰 판 안에서 내가 딱 들어맞는 좁지만 분명한 자리
-구분: niche=특정 환경·시장 안의 자리나 역할 / role=맡은 역할 일반 / habitat=사는 장소"
-nutrient-rich	"핵심 뜻: 영양분이 풍부한 / 자원이 많은
-부가 뜻: 성장이나 생산에 필요한 성분이 충분히 들어 있는
-핵심 느낌: 자라거나 돌아가기에 필요한 재료가 넉넉히 채워진 느낌
-구분: nutrient-rich=필요한 영양·자원이 많은 / fertile=생산성이 높은 / resource-poor=자원이 부족한"
-organismal	"핵심 뜻: 개체 수준의 / 생물 개체와 관련된
-부가 뜻: 세포 하나가 아니라 한 생물 개체 전체를 단위로 보는
-핵심 느낌: 조각보다 한 생명체 전체를 하나의 단위로 잡는 느낌
-구분: organismal=생물 개체 수준의 / cellular=세포 수준의 / ecological=환경 관계 수준의"
-oscillation	"핵심 뜻: 진동 / 오르내림의 반복
-부가 뜻: 값이나 상태가 한 방향으로만 가지 않고 반복해서 왔다 갔다 함
-핵심 느낌: 중심 주변을 두고 위아래로 흔들리며 되풀이되는 느낌
-구분: oscillation=반복적으로 흔들리는 변동 / fluctuation=불규칙한 오르내림 / cycle=되풀이되는 주기"
-outcompete	"핵심 뜻: 경쟁에서 이기다 / 더 잘 버티다
-부가 뜻: 같은 자원이나 자리에서 다른 대상보다 더 우세해지다
-핵심 느낌: 같은 판에서 더 잘 가져가며 상대를 밀어내는 느낌
-구분: outcompete=경쟁에서 더 우세해지다 / dominate=위에서 강하게 앞서다 / coexist=함께 존재하다"
-overflow	"핵심 뜻: 넘침 / 한계를 넘어 흘러나옴
-부가 뜻: 용량이나 경계를 넘어서 밖으로 흘러나가거나 넘쳐 확산됨
-핵심 느낌: 담아둔 선을 넘어 밖으로 흘러넘치는 느낌
-구분: overflow=한계를 넘어 밖으로 넘침 / spillover=주변으로 퍼진 파급 효과 / excess=남아도는 초과분"
-parameterize	"핵심 뜻: 매개변수로 규정하다 / 조건값을 설정하다
-부가 뜻: 모형이나 과정이 어떤 값과 조건에 따라 움직이는지 변수로 정해 넣다
-핵심 느낌: 막연한 설명 대신 조절 손잡이 값을 정해 작동 방식을 박아두는 느낌
-구분: parameterize=조건값으로 모형을 규정하다 / specify=구체적으로 지정하다 / calibrate=기준에 맞게 보정하다"
-partition	"핵심 뜻: 분할하다 / 구획으로 나누다
-부가 뜻: 전체를 기능이나 기준에 따라 여러 부분으로 나눠 배치하다
-핵심 느낌: 한 덩어리를 칸막이로 잘라 각 구역을 나누는 느낌
-구분: partition=기준에 따라 나누어 구획함 / divide=나누다 일반 / allocate=몫을 배정하다"
-phenotypic	"핵심 뜻: 겉으로 드러난 특성의
-부가 뜻: 안쪽 원인보다 관찰 가능한 형태와 성질로 나타난 것과 관련된
-핵심 느낌: 속의 설계보다 바깥에서 실제로 보이는 모습 쪽을 보는 느낌
-구분: phenotypic=관찰되는 겉특성의 / genetic=유전 정보의 / morphological=형태상의"
-photosensitive	"핵심 뜻: 빛에 민감한 / 광반응성의
-부가 뜻: 빛 자극이나 밝기 변화에 반응하기 쉬운
-핵심 느낌: 빛이 닿으면 그냥 지나가지 않고 반응이 열리는 느낌
-구분: photosensitive=빛 자극에 민감한 / responsive=반응을 잘 보이는 / inert=반응성이 낮은"
-plasticity	"핵심 뜻: 가소성 / 유연하게 바뀌는 성질
-부가 뜻: 경험이나 조건에 따라 구조나 기능이 고정되지 않고 달라질 수 있음
-핵심 느낌: 딱 굳지 않고 상황에 맞게 다시 모양이 바뀌는 느낌
-구분: plasticity=조건에 따라 바뀔 수 있는 성질 / flexibility=유연성 / rigidity=고정되어 잘 안 바뀜"
-porosity	"핵심 뜻: 다공성 / 빈틈이 많은 정도
-부가 뜻: 작은 구멍이나 빈틈이 많아 물질이 스며들거나 통과할 여지가 있는 성질
-핵심 느낌: 겉은 막혀 보여도 안에 작은 틈길이 많은 느낌
-구분: porosity=빈틈과 구멍이 많은 성질 / permeability=실제로 통과하기 쉬운 성질 / density=빽빽한 정도"
-predation	"핵심 뜻: 포식 / 잡아먹음
-부가 뜻: 한 생물이나 주체가 다른 대상을 사냥하거나 소비하며 우위에 서는 관계
-핵심 느낌: 관계망 안에서 한쪽이 다른 쪽을 먹이처럼 끌어가는 느낌
-구분: predation=먹이로 삼아 잡아먹는 관계 / competition=자원을 두고 겨룸 / parasitism=붙어서 이득을 얻음"
-reassembly	"핵심 뜻: 재조립 / 다시 짜 맞춤
-부가 뜻: 흩어진 부분들을 다시 모아 하나의 구조나 작동 체계로 맞춤
-핵심 느낌: 분해된 조각을 다시 제자리에 끼워 전체를 세우는 느낌
-구분: reassembly=부분을 다시 조립함 / reconstruction=다시 세우거나 재구성함 / repair=고장난 것을 고침"
-recombination	"핵심 뜻: 재조합 / 새 조합으로 섞임
-부가 뜻: 기존 요소들이 다시 섞이며 이전과 다른 조합을 만듦
-핵심 느낌: 있던 조각들을 다시 섞어 새 배열을 만드는 느낌
-구분: recombination=기존 요소의 새 조합 형성 / combination=함께 묶임 일반 / hybridization=서로 다른 유형을 섞음"
-regenerative	"핵심 뜻: 재생의 / 다시 회복시키는
-부가 뜻: 손상이나 소모 후 다시 자라거나 기능을 되살리는 성질의
-핵심 느낌: 잃은 것을 끝으로 두지 않고 다시 채워 살아나는 느낌
-구분: regenerative=다시 자라거나 회복시키는 / restorative=원래 상태로 되돌리는 / renewable=다시 보충 가능한"
-replicable	"핵심 뜻: 재현 가능한 / 반복 검증 가능한
-부가 뜻: 같은 방법을 다시 적용했을 때 비슷한 결과를 얻을 수 있는
-핵심 느낌: 한 번만 우연히가 아니라 다시 해도 따라 나오는 느낌
-구분: replicable=같은 결과를 다시 재현할 수 있는 / reproducible=다시 만들어 확인 가능한 / unique=한 번뿐인"
-retentive	"핵심 뜻: 보유력이 있는 / 잘 유지하는
-부가 뜻: 들어온 정보나 물질, 상태를 쉽게 잃지 않고 붙잡아 두는
-핵심 느낌: 한 번 들어온 것을 흘려보내지 않고 오래 잡고 있는 느낌
-구분: retentive=잘 보유하고 유지하는 / absorptive=잘 흡수하는 / porous=빈틈이 많은"
-self-regulating	"핵심 뜻: 자기 조절적인 / 스스로 균형을 맞추는
-부가 뜻: 외부가 매번 조정하지 않아도 내부 기준에 따라 스스로 상태를 맞추는
-핵심 느낌: 흔들리면 안에서 알아서 손잡이를 돌려 균형을 찾는 느낌
-구분: self-regulating=스스로 상태를 조절함 / homeostatic=내부 균형을 유지함 / externally controlled=밖에서 통제됨"
-sink-source	"핵심 뜻: 흡수원-공급원 관계의
-부가 뜻: 어떤 곳은 자원을 받아들이고 어떤 곳은 내보내는 흐름 관계를 나타내는
-핵심 느낌: 한쪽은 끌어들이고 다른 쪽은 밀어내며 균형을 만드는 느낌
-구분: sink-source=흡수원과 공급원의 대응 관계 / inflow-outflow=들어오고 나가는 흐름 / distribution=분포"
-size-selective	"핵심 뜻: 크기에 따라 선별되는
-부가 뜻: 대상의 크기 차이에 따라 통과·생존·선택 여부가 달라지는
-핵심 느낌: 큰 것과 작은 것이 같은 문을 통과하지 못하고 따로 걸러지는 느낌
-구분: size-selective=크기에 따라 선택되는 / selective=기준에 따라 골라지는 / random=무작위의"
-stabilizer	"핵심 뜻: 안정화 요인 / 흔들림을 줄이는 것
-부가 뜻: 변동이나 과잉 반응을 줄여 상태를 더 안정되게 만드는 요소
-핵심 느낌: 출렁이는 것을 한가운데로 붙잡아 두는 중심추
-구분: stabilizer=상태를 안정되게 하는 요인 / buffer=충격을 완충하는 것 / regulator=작동 수준을 조절하는 요소"
-survivorship	"핵심 뜻: 생존 유지 / 오래 남아 버팀
-부가 뜻: 시간이나 조건 변화 속에서 계속 살아남거나 유지되는 정도
-핵심 느낌: 중간에 떨어져 나가지 않고 끝까지 남아 버티는 느낌
-구분: survivorship=생존이 유지되는 정도 / resilience=충격 후 회복력 / persistence=계속 남아 있음"
-symbiotic	"핵심 뜻: 공생의 / 서로 기대어 사는
-부가 뜻: 서로 다른 주체가 함께 있으면서 일정한 이익이나 영향을 주고받는
-핵심 느낌: 완전히 따로보다 가까이 붙어 서로 기대는 관계
-구분: symbiotic=서로 기대어 사는 공생의 / cooperative=협력적인 / parasitic=한쪽만 이득을 보는"
-threshold-sensitive	"핵심 뜻: 문턱값에 민감한
-부가 뜻: 작은 변화에는 반응이 적다가 특정 경계를 넘으면 뚜렷이 달라지는
-핵심 느낌: 한 선 전에는 잠잠하다가 선을 넘는 순간 확 바뀌는 느낌
-구분: threshold-sensitive=경계값을 넘을 때 반응이 커지는 / gradual=서서히 변하는 / abrupt=갑작스러운"
-transboundary	"핵심 뜻: 경계를 넘나드는 / 경계 간의
-부가 뜻: 행정·생태·공간적 경계 하나 안에만 머물지 않고 여러 경계를 가로지르는
-핵심 느낌: 선 하나로 딱 막히지 않고 이쪽과 저쪽을 함께 건너는 느낌
-구분: transboundary=여러 경계를 가로지르는 / local=한 지역 안의 / cross-regional=여러 지역에 걸친"
-upregulate	"핵심 뜻: 상향 조절하다 / 작동을 높이다
-부가 뜻: 반응이나 기능의 발현 수준이나 강도를 높이다
-핵심 느낌: 낮게 돌아가던 출력을 한 단계 끌어올리는 느낌
-구분: upregulate=작동 수준을 높이다 / enhance=효과를 높이다 / activate=작동을 시작시키다"
-cross-adaptation	"핵심 뜻: 교차 적응 / 한 변화가 다른 맥락에도 도움이 됨
-부가 뜻: 한 조건에서 생긴 적응이 다른 유사 조건에서도 이점을 주는 현상
-핵심 느낌: 여기서 익힌 적응이 저기에서도 일부 통하는 느낌
-구분: cross-adaptation=한 맥락의 적응이 다른 맥락에도 작용함 / transferability=다른 상황에 적용 가능함 / specialization=특정 조건에만 맞춘 특화"
-density-dependent	"핵심 뜻: 밀도 의존적인 / 붐빔 정도에 따라 달라지는
-부가 뜻: 개체나 요소가 얼마나 빽빽한지에 따라 효과나 성장률이 달라지는
-핵심 느낌: 많이 몰릴수록 같은 조건도 다르게 작동하는 느낌
-구분: density-dependent=밀도에 따라 결과가 달라지는 / crowding-sensitive=붐빔에 민감한 / independent=무관한"
-disturbance-tolerant	"핵심 뜻: 교란을 견디는 / 흔들림에 강한
-부가 뜻: 외부 충격이나 환경 변화가 있어도 비교적 버티고 유지되는
-핵심 느낌: 판이 흔들려도 쉽게 무너지지 않고 남아 있는 느낌
-구분: disturbance-tolerant=교란을 비교적 잘 견디는 / resilient=충격 후 회복력이 있는 / fragile=쉽게 깨지는"
-oxygenation	"핵심 뜻: 산소 공급 / 산소가 스며듦
-부가 뜻: 산소가 어떤 환경이나 물질 안으로 들어가거나 충분히 공급되는 과정
-핵심 느낌: 막힌 곳에 공기가 돌며 다시 숨이 트이는 느낌
-구분: oxygenation=산소를 공급하거나 스며들게 함 / ventilation=공기를 통하게 함 / aeration=공기를 섞어 넣음"
-self-renewal	"핵심 뜻: 자기 갱신 / 스스로 다시 채움
-부가 뜻: 외부에서 전부 새로 넣지 않아도 내부적으로 다시 보충되거나 유지되는 성질
-핵심 느낌: 소모되기만 하지 않고 안에서 다시 새것을 만들어 메우는 느낌
-구분: self-renewal=스스로를 다시 보충·갱신함 / regeneration=손상 후 다시 자라남 / replacement=다른 것으로 대체됨"
-bioenergetic	"핵심 뜻: 에너지 흐름과 관련된 / 생체 에너지의
-부가 뜻: 살아 있는 체계나 과정에서 에너지가 어떻게 들어가고 쓰이는지와 관련된
-핵심 느낌: 모양보다 에너지가 어디서 와서 어디에 쓰이는지 보는 느낌
-구분: bioenergetic=에너지 사용·흐름과 관련된 / metabolic=내부 물질·에너지 전환의 / energetic=에너지와 관련된"
-chemosensory	"핵심 뜻: 화학 자극을 감지하는 / 화학 신호에 반응하는
-부가 뜻: 냄새나 농도 같은 화학적 단서를 받아들여 반응하는 성질의
-핵심 느낌: 눈보다 화학 신호를 맡아 방향을 잡는 느낌
-구분: chemosensory=화학 신호를 감지하는 / sensory=자극을 받아들이는 / responsive=반응하는"
-co-regulation	"핵심 뜻: 공동 조절 / 함께 균형을 맞춤
-부가 뜻: 한 요소만이 아니라 여러 요소가 서로 맞물려 작동 수준을 조정함
-핵심 느낌: 손잡이 하나가 아니라 여러 조절축이 같이 눈금을 맞추는 느낌
-구분: co-regulation=여러 요소가 함께 조절함 / self-regulation=스스로 조절함 / coordination=서로 맞춰 움직임"
-cross-signaling	"핵심 뜻: 교차 신호 전달 / 서로 다른 경로 간 신호 교환
-부가 뜻: 서로 다른 경로나 요소가 따로 움직이지 않고 신호를 주고받으며 연결됨
-핵심 느낌: 옆 라인이 서로 무관하지 않고 중간중간 신호를 건네는 느낌
-구분: cross-signaling=다른 경로 사이 신호 교환 / transmission=한 경로를 따라 전달 / interaction=서로 영향을 주고받음"
-energy-efficient	"핵심 뜻: 에너지 효율적인
-부가 뜻: 같은 결과를 내는 데 필요한 에너지 소모가 비교적 적은
-핵심 느낌: 덜 태우고도 비슷한 일을 해내는 절약형 작동 느낌
-구분: energy-efficient=에너지 소모가 적은 / efficient=자원 대비 결과가 좋은 / wasteful=낭비가 큰"
-microhabitat	"핵심 뜻: 미세 서식처 / 작은 규모의 환경 자리
-부가 뜻: 큰 환경 안에서도 조건이 조금 달라 특정 생물이나 과정이 자리 잡는 작은 공간
-핵심 느낌: 넓은 환경 속에 숨어 있는 더 작은 조건의 자리
-구분: microhabitat=작은 규모의 서식 환경 / habitat=서식지 일반 / niche=체계 안의 특정 자리·역할"
-moisture-retaining	"핵심 뜻: 수분을 붙잡아 두는 / 보습성 있는
-부가 뜻: 물이 쉽게 빠져나가지 않고 안에 어느 정도 유지되게 하는
-핵심 느낌: 들어온 물을 흘려보내지 않고 머금고 붙잡는 느낌
-구분: moisture-retaining=수분을 잘 유지하는 / retentive=들어온 것을 잘 붙잡는 / permeable=통과시키기 쉬운"
-multiphase	"핵심 뜻: 다단계의 / 여러 상태가 함께 있는
-부가 뜻: 하나의 단일 단계가 아니라 서로 다른 단계나 상태가 함께 얽힌
-핵심 느낌: 한 층만 보는 게 아니라 여러 상태가 동시에 포개진 느낌
-구분: multiphase=여러 단계·상태가 함께 있는 / stepwise=단계적인 / homogeneous=하나로 균일한"
-photoperiodic	"핵심 뜻: 일조 주기에 반응하는 / 빛 주기 기반의
-부가 뜻: 하루나 계절의 빛 길이 변화에 따라 반응이 달라지는
-핵심 느낌: 빛이 얼마나 오래 들어오는지가 작동 타이밍을 잡는 느낌
-구분: photoperiodic=빛의 주기 변화에 반응하는 / photosensitive=빛 자극에 민감한 / cyclic=주기적인"
+exposure	"핵심 뜻: 노출
+구분: exposure=무언가에 접하는 상태 / experience=겪어 얻은 경험"
+fatigue	핵심 뜻: 피로
+flexibility	"핵심 뜻: 유연성
+구분: flexibility=상황에 따라 바꿀 수 있는 유연성 / stability=쉽게 안 흔들리는 안정성"
+independence	"핵심 뜻: 독립성
+구분: independence=남에게 덜 기대는 독립성 / autonomy=스스로 결정하는 자율성"
+instinct	핵심 뜻: 본능
+mood	"핵심 뜻: 기분
+구분: mood=한동안 이어지는 기분 상태 / emotion=순간적으로 올라오는 감정"
+patience	핵심 뜻: 인내심
+restraint	"핵심 뜻: 자제
+구분: restraint=행동을 눌러 절제함 / inhibition=반응이 막히는 억제"
+adjourn	핵심 뜻: 회의를 마치다 / 휴회하다
+alumni	핵심 뜻: 졸업생들 / 동문
+applicant	"핵심 뜻: 지원자 / 신청자
+구분: applicant=지원한 사람 / candidate=선발 대상자"
+appointment	"핵심 뜻: 약속
+구분: appointment=예약된 만남 / reservation=자리·시설 예약"
+attendance	"핵심 뜻: 출석 / 참석
+구분: attendance=출석 여부 / participation=활동 참여"
+attendee	핵심 뜻: 참석자
+brainstorm	핵심 뜻: 아이디어를 자유롭게 내다
+bulletin	핵심 뜻: 공지
+candidate	"핵심 뜻: 후보자
+구분: candidate=후보·심사 대상 / applicant=지원자"
+chairperson	핵심 뜻: 의장
+citation	"핵심 뜻: 출처 표기 / 인용
+구분: citation=출처를 밝히는 인용 표기 / reference=참고문헌·참조 대상"
+coauthor	핵심 뜻: 공동 저자
+discussion-based	핵심 뜻: 토론 중심의
+committee	"핵심 뜻: 위원회
+구분: committee=공식 심의 집단 / panel=발표·심사단"
+consultation	"핵심 뜻: 상담 / 협의
+구분: consultation=전문가·관계자와 상담·협의 / discussion=폭넓은 논의"
+convene	"핵심 뜻: 소집하다 / 모이다
+구분: convene=공식적으로 소집하다 / gather=모이다"
+coordinator	핵심 뜻: 조정자
+correspondence	핵심 뜻: 서신 교환
+credential	핵심 뜻: 자격 증명 / 인증
+deadline	"핵심 뜻: 마감 기한
+구분: deadline=마감 시한 / timeline=전체 일정 흐름"
+discussant	"핵심 뜻: 토론 발표자
+구분: discussant=지정 논평자 / presenter=발표자"
+disseminate	핵심 뜻: 널리 퍼뜨리다 / 배포하다
+enrollment	"핵심 뜻: 등록
+구분: enrollment=등록 상태·인원 / registration=등록 절차"
+excerpt	핵심 뜻: 발췌문
+extension	핵심 뜻: 연장
+faculty	핵심 뜻: 교수진
+follow-up	"핵심 뜻: 후속 조치
+구분: follow-up=후속 확인·조치 / reminder=잊지 않게 알림"
+forum	"핵심 뜻: 공개 토론의 장 / 포럼
+구분: forum=공개 논의의 장 / seminar=학술 발표·수업형 모임"
+handbook	핵심 뜻: 안내서 / 편람
+instructor	핵심 뜻: 강사
+internship	"핵심 뜻: 인턴십
+구분: internship=현장 실습 과정 / training=훈련 전반"
+receptiveness	핵심 뜻: 수용성
+keynote	핵심 뜻: 기조연설 / 기조발표
+liaison	핵심 뜻: 연락 담당자
+logistics	핵심 뜻: 실무 준비
+manuscript	핵심 뜻: 원고
+memorandum	핵심 뜻: 공식 메모
+mentor	핵심 뜻: 멘토 / 조언자
+moderator	"핵심 뜻: 진행자 / 사회자
+구분: moderator=토론 진행자 / chairperson=회의 책임자"
+nomination	핵심 뜻: 지명
+nominee	"핵심 뜻: 지명된 후보자
+구분: nominee=지명된 후보 / candidate=검토 대상 후보"
+outline	핵심 뜻: 개요
+panel	핵심 뜻: 토론 패널 / 심사단
+participant	"핵심 뜻: 참가자
+구분: participant=활동 참가자 / attendee=자리에 온 사람"
+peer	핵심 뜻: 동료
+group-wide	"핵심 뜻: 집단 전체 대상의
+구분: group-wide=집단 전체에 걸친 / partial=일부만의"
+poster	핵심 뜻: 발표 포스터 / 게시물
+publicize	핵심 뜻: 홍보하다
+questionnaire	"핵심 뜻: 설문지 / 질문지
+구분: questionnaire=설문 질문지 / survey=조사 전체"
+floor	핵심 뜻: 발언권 / 토론 기회
+rapport	핵심 뜻: 친밀한 신뢰 관계
+recipient	핵심 뜻: 수신자 / 수령인
+recruitment	"핵심 뜻: 모집
+구분: recruitment=사람을 모집·선발하는 과정 / selection=뽑는 판단 단계"
+referral	핵심 뜻: 추천
+registration	"핵심 뜻: 등록
+구분: registration=등록 절차 / enrollment=등록된 상태·인원"
+reminder	핵심 뜻: 알림
+repository	핵심 뜻: 저장소
+reservation	핵심 뜻: 예약
+roster	핵심 뜻: 명단
+roundtable	"핵심 뜻: 원탁 토론
+구분: roundtable=수평적 집단 토론 / seminar=학술 수업·발표 모임"
+scholarship	"핵심 뜻: 장학금 / 학문성
+구분: scholarship=장학금 / fellowship=연구 중심 지원"
+seminar	핵심 뜻: 세미나
+spokesperson	핵심 뜻: 대변인
+submission	핵심 뜻: 제출
+supervisor	"핵심 뜻: 지도자 / 감독자
+구분: supervisor=연구·업무를 감독하는 사람 / mentor=성장 조언자"
+symposium	"핵심 뜻: 학술 심포지엄
+구분: symposium=공식 학술 발표 행사 / seminar=소규모 토론형 모임"
+timetable	핵심 뜻: 시간표 / 일정표
+transcript	"핵심 뜻: 성적증명서 / 기록문
+구분: transcript=공식 성적·발언 기록문 / certificate=증명서"
+tutorial	"핵심 뜻: 튜토리얼
+구분: tutorial=소규모 지도 수업·안내 / lecture=대형 강의"
+undergraduate	"핵심 뜻: 학부생의 / 학부생
+구분: undergraduate=학부생·학부 과정의 / graduate=대학원생·졸업자의"
+venue	핵심 뜻: 장소 / 개최지
