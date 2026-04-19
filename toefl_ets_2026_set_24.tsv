@@ -1,112 +1,190 @@
-pickup	핵심 뜻: 수령
-handoff	핵심 뜻: 인계
-inbox	핵심 뜻: 받은 편지함
-outbox	핵심 뜻: 보낸 편지함
-sender	핵심 뜻: 보낸 사람
-salutation	핵심 뜻: 인사말
-timeslot	핵심 뜻: 시간대
-callback	핵심 뜻: 회신 전화
-voicemail	핵심 뜻: 음성 메시지
-overrun	핵심 뜻: 초과 진행되다
-frontdesk	핵심 뜻: 안내 데스크
-helpdesk	핵심 뜻: 지원 창구
-workstation	핵심 뜻: 작업용 자리
-workspace	핵심 뜻: 작업 공간
-proofread	"핵심 뜻: 교정하다 / 오탈자를 점검하다
+"pickup
+[ˈpɪk.ʌp]"	핵심 뜻: 수령
+"handoff
+[ˈhænd.ɑːf]"	핵심 뜻: 인계
+"inbox
+[ˈɪn.bɑːks]"	핵심 뜻: 받은 편지함
+"outbox
+[ˈaʊt.bɑːks]"	핵심 뜻: 보낸 편지함
+"sender
+[ˈsen.dɚ]"	핵심 뜻: 보낸 사람
+"salutation
+[ˌsæl.jəˈteɪ.ʃən]"	핵심 뜻: 인사말
+"timeslot
+[ˈtaɪmˌslɑːt]"	핵심 뜻: 시간대
+"callback
+[ˈkɑːl.bæk]"	핵심 뜻: 회신 전화
+"voicemail
+[ˈvɔɪ.s.meɪl]"	핵심 뜻: 음성 메시지
+"overrun
+[ˌoʊ.vɚˈrʌn]"	핵심 뜻: 초과 진행되다
+"frontdesk
+[ˈfrʌnt.desk]"	핵심 뜻: 안내 데스크
+"helpdesk
+[ˈhelpdesk]"	핵심 뜻: 지원 창구
+"workstation
+[ˈwɝːkˌsteɪ.ʃən]"	핵심 뜻: 작업용 자리
+"workspace
+[ˈwɝːk.speɪs]"	핵심 뜻: 작업 공간
+"proofread
+[ˈpruːf.riːd]"	"핵심 뜻: 교정하다 / 오탈자를 점검하다
 구분: proofread=오탈자만 교정하다 / revise=내용까지 고쳐 다듬다"
-reword	"핵심 뜻: 바꿔 쓰다
+"reword
+[ˌriːˈwɝːd]"	"핵심 뜻: 바꿔 쓰다
 구분: reword=표현만 바꿔 쓰다 / paraphrase=의미를 풀어 다시 쓰다"
-redraft	"핵심 뜻: 초안을 다시 쓰다
+"redraft
+[ˌriːˈdræft]"	"핵심 뜻: 초안을 다시 쓰다
 구분: redraft=초안을 다시 쓰다 / revise=일부를 고쳐 다듬다"
-markup	핵심 뜻: 수정 표시
-waiver	"핵심 뜻: 면제서 / 면제 승인
+"markup
+[ˈmɑːrk.ʌp]"	핵심 뜻: 수정 표시
+"waiver
+[ˈweɪ.vɚ]"	"핵심 뜻: 면제서 / 면제 승인
 구분: waiver=요건·비용 면제 / exemption=규정상 면제"
-refund	"핵심 뜻: 환불
+"refund
+[ˈriː.fʌnd]"	"핵심 뜻: 환불
 구분: refund=낸 돈을 돌려줌 / reimbursement=쓴 비용을 되갚음"
-invoice	"핵심 뜻: 청구서
+"invoice
+[ˈɪn.vɔɪs]"	"핵심 뜻: 청구서
 구분: invoice=청구서 / receipt=지불 증빙 영수증"
-receipt	"핵심 뜻: 영수증
+"receipt
+[rɪˈsiːt]"	"핵심 뜻: 영수증
 구분: receipt=영수증 / invoice=청구서"
-deposit	"핵심 뜻: 보증금
+"deposit
+[dɪˈpɑː.zɪt]"	"핵심 뜻: 보증금
 구분: deposit=보증금·예치금 / fee=서비스 수수료"
-stipend	"핵심 뜻: 정액 지원금 / 생활 지원금
+"stipend
+[ˈstaɪ.pend]"	"핵심 뜻: 정액 지원금 / 생활 지원금
 구분: stipend=정액 지원금 / salary=근로 대가 급여"
-reimbursement	"핵심 뜻: 비용 상환
+"reimbursement
+[ˌriː.ɪmˈbɝːs.mənt]"	"핵심 뜻: 비용 상환
 구분: reimbursement=쓴 비용을 되갚음 / refund=낸 돈을 돌려줌"
-referee	"핵심 뜻: 추천인
+"referee
+[ˌref.əˈriː]"	"핵심 뜻: 추천인
 구분: referee=추천인·심판 / recommender=추천서 맥락 추천인"
-recommender	"핵심 뜻: 추천인
+"recommender
+[ˌrek.əˈmen.dɚ]"	"핵심 뜻: 추천인
 구분: recommender=추천서 맥락 추천인 / referee=추천인·심판"
-sync	핵심 뜻: 동기화하다
-backup	"핵심 뜻: 백업
+"sync
+[sɪŋk]"	핵심 뜻: 동기화하다
+"backup
+[ˈbæk.ʌp]"	"핵심 뜻: 백업
 구분: backup=복구용 예비본 / archive=장기 보관본"
-login	핵심 뜻: 로그인
-logout	핵심 뜻: 로그아웃
-username	핵심 뜻: 사용자 이름
-passcode	핵심 뜻: 인증 코드
-timesheet	핵심 뜻: 근무시간 기록표
-queue	핵심 뜻: 대기열
-waittime	핵심 뜻: 대기 시간
-locker	핵심 뜻: 보관함
-keycard	핵심 뜻: 출입 카드
-shuttle	핵심 뜻: 셔틀
-registrar	"핵심 뜻: 학사 등록 담당 부서
+"login
+[ˈlɑːɡ.ɪn]"	핵심 뜻: 로그인
+"logout
+[ˈlɑːɡ.aʊt]"	핵심 뜻: 로그아웃
+"username
+[ˈjuː.zɚ.neɪm]"	핵심 뜻: 사용자 이름
+"passcode
+[ˈpæs.koʊd]"	핵심 뜻: 인증 코드
+"timesheet
+[ˈtaɪm.ʃiːt]"	핵심 뜻: 근무시간 기록표
+"queue
+[kjuː]"	핵심 뜻: 대기열
+"waittime
+[ˈweɪt.taɪm]"	핵심 뜻: 대기 시간
+"locker
+[ˈlɑː.kɚ]"	핵심 뜻: 보관함
+"keycard
+[ˈkiː.kɑːrd]"	핵심 뜻: 출입 카드
+"shuttle
+[ˈʃʌt̬.əl]"	핵심 뜻: 셔틀
+"registrar
+[ˈredʒ.ə.strɑːr]"	"핵심 뜻: 학사 등록 담당 부서
 구분: registrar=등록·성적 기록 담당 부서 / advisor=학업 조언 담당"
-doublecheck	핵심 뜻: 재확인하다
-crosscheck	"핵심 뜻: 교차 확인하다
+"doublecheck
+[ˌdʌb.əlˈtʃek]"	핵심 뜻: 재확인하다
+"crosscheck
+[ˈkrɑːs.tʃek]"	"핵심 뜻: 교차 확인하다
 구분: crosscheck=서로 대조해 확인하다 / verify=사실 여부를 확인하다"
-slot	핵심 뜻: 시간·자리 한 칸
-headcount	핵심 뜻: 인원수
-turnout	핵심 뜻: 참석률
-retake	"핵심 뜻: 재응시하다
+"slot
+[slɑːt]"	핵심 뜻: 시간·자리 한 칸
+"headcount
+[ˈhed.kaʊnt]"	핵심 뜻: 인원수
+"turnout
+[ˈtɝːn.aʊt]"	핵심 뜻: 참석률
+"retake
+[ˌriːˈteɪk]"	"핵심 뜻: 재응시하다
 구분: retake=시험을 다시 보다 / repeat=과목·과정을 다시 듣다"
-regrade	"핵심 뜻: 재채점하다
+"regrade
+[ˌriːˈɡreɪd]"	"핵심 뜻: 재채점하다
 구분: regrade=재채점하다 / appeal=이의 제기하다"
-appeal	"핵심 뜻: 이의를 제기하다
+"appeal
+[əˈpiːl]"	"핵심 뜻: 이의를 제기하다
 구분: appeal=공식적으로 이의 제기하다 / complain=불만을 말하다"
-reopen	핵심 뜻: 다시 열다
-resubmit	"핵심 뜻: 다시 제출하다
+"reopen
+[ˌriːˈoʊ.pən]"	핵심 뜻: 다시 열다
+"resubmit
+[ˌriː.səbˈmɪt]"	"핵심 뜻: 다시 제출하다
 구분: resubmit=수정 후 다시 제출하다 / reapply=다시 지원하다"
-overwrite	핵심 뜻: 덮어쓰다
-walkthrough	핵심 뜻: 단계별 안내
-setup	핵심 뜻: 설정
-spellcheck	핵심 뜻: 맞춤법 검사
-handout	핵심 뜻: 배포 자료
-printout	핵심 뜻: 인쇄물
-scan	"핵심 뜻: 스캔하다
+"overwrite
+[ˌoʊ.vɚˈraɪt]"	핵심 뜻: 덮어쓰다
+"walkthrough
+[ˈwɑːk.θruː]"	핵심 뜻: 단계별 안내
+"setup
+[ˈset̬ˌʌp]"	핵심 뜻: 설정
+"spellcheck
+[ˈspelˌtʃek]"	핵심 뜻: 맞춤법 검사
+"handout
+[ˈhænd.aʊt]"	핵심 뜻: 배포 자료
+"printout
+[ˈprɪnt.aʊt]"	핵심 뜻: 인쇄물
+"scan
+[skæn]"	"핵심 뜻: 스캔하다
 구분: scan=문서를 디지털로 읽다 / photocopy=종이로 복사하다"
-photocopy	"핵심 뜻: 복사하다
+"photocopy
+[ˈfoʊ.t̬oʊˌkɑː.pi]"	"핵심 뜻: 복사하다
 구분: photocopy=종이로 복사하다 / scan=디지털로 읽다"
-slides	핵심 뜻: 발표 슬라이드
-projector	핵심 뜻: 프로젝터
-turnaround	"핵심 뜻: 처리 소요 시간 / 회신 속도
+"slides
+[slaɪd]"	핵심 뜻: 발표 슬라이드
+"projector
+[prəˈdʒek.tɚ]"	핵심 뜻: 프로젝터
+"turnaround
+[ˈtɝːn.ɚ.aʊnd]"	"핵심 뜻: 처리 소요 시간 / 회신 속도
 구분: turnaround=처리 완료까지 걸리는 시간 / deadline=끝내야 하는 시점"
-leadtime	"핵심 뜻: 사전 준비 기간
+"leadtime
+[ˈliːd.taɪm]"	"핵심 뜻: 사전 준비 기간
 구분: leadtime=시작 전에 필요한 준비 기간 / delay=예정보다 늦어짐"
-timeframe	핵심 뜻: 기간 틀
-sincerely	핵심 뜻: 진심으로
-courteous	핵심 뜻: 정중한
-respectfully	핵심 뜻: 정중하게
-request	핵심 뜻: 요청하다
-availability	"핵심 뜻: 가능 시간 / 이용 가능성
+"timeframe
+[ˈtaɪm ˌfreɪm]"	핵심 뜻: 기간 틀
+"sincerely
+[sɪnˈsɪr.li]"	핵심 뜻: 진심으로
+"courteous
+[ˈkɝː.t̬i.əs]"	핵심 뜻: 정중한
+"respectfully
+[rɪˈspekt.fəl.i]"	핵심 뜻: 정중하게
+"request
+[rɪˈkwest]"	핵심 뜻: 요청하다
+"availability
+[əˌveɪ.ləˈbɪl.ə.t̬i]"	"핵심 뜻: 가능 시간 / 이용 가능성
 구분: availability=가능 여부·가능 시간 / accessibility=접근 가능성"
-advisor	"핵심 뜻: 지도교수·상담자
+"advisor
+[ædˈvaɪzər]"	"핵심 뜻: 지도교수·상담자
 구분: advisor=조언·학업 지도 담당 / supervisor=업무·연구 감독"
-troubleshooting	"핵심 뜻: 문제 해결 점검 / 오류 해결
+"troubleshooting
+[ˈtrʌb.əlˌʃuː.t̬ɪŋ]"	"핵심 뜻: 문제 해결 점검 / 오류 해결
 구분: troubleshooting=오류 원인을 찾아 해결 / repair=고장 난 것을 고치다"
-approximation	"핵심 뜻: 근사치 / 어림값
+"approximation
+[əˌprɑːk.səˈmeɪ.ʃən]"	"핵심 뜻: 근사치 / 어림값
 구분: approximation=정확값에 가까운 값 / estimate=대략 어림한 값"
-scatter	"핵심 뜻: 흩어지다
+"scatter
+[ˈskæt̬.ɚ]"	"핵심 뜻: 흩어지다
 구분: scatter=흩어져 퍼지다 / cluster=가깝게 모이다"
-cluster	"핵심 뜻: 군집
+"cluster
+[ˈklʌs.tɚ]"	"핵심 뜻: 군집
 구분: cluster=가깝게 모인 군집 / scatter=흩어짐"
-outlier	"핵심 뜻: 이상치 / 유난한 값
+"outlier
+[ˈaʊtˌlaɪ.ɚ]"	"핵심 뜻: 이상치 / 유난한 값
 구분: outlier=다른 값과 크게 벗어난 이상치 / anomaly=눈에 띄는 이례 현상"
-forecast	"핵심 뜻: 예측하다 / 전망하다
+"forecast
+[ˈfɔːr.kæst]"	"핵심 뜻: 예측하다 / 전망하다
 구분: forecast=근거를 바탕으로 전망하다 / estimate=현재 값을 어림잡다"
-percentage	"핵심 뜻: 백분율
+"percentage
+[pɚˈsen.t̬ɪdʒ]"	"핵심 뜻: 백분율
 구분: percentage=전체 중 몇 퍼센트인지 / percent point=퍼센트의 차이"
-median	"핵심 뜻: 중앙값
+"median
+[ˈmiː.di.ən]"	"핵심 뜻: 중앙값
 구분: median=가운데 값 / mean=산술평균"
-mean	"핵심 뜻: 평균값
+"mean
+[miːn]"	"핵심 뜻: 평균값
 구분: mean=산술평균 / median=가운데 값"

@@ -2,3 +2,4 @@
 .mini_test.tsv
 *.new.tsv
 __pycache__/
+tools/pronunciation_cache.json

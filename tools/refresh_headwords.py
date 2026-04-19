@@ -4,6 +4,8 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
+from front_utils import extract_headword
+
 
 def collect(pattern: str) -> list[str]:
     words: set[str] = set()
@@ -12,7 +14,9 @@ def collect(pattern: str) -> list[str]:
             reader = csv.reader(handle, delimiter="\t")
             for row in reader:
                 if len(row) == 2:
-                    words.add(row[0].strip())
+                    headword = extract_headword(row[0])
+                    if headword:
+                        words.add(headword)
     return sorted(word for word in words if word)
 
 

@@ -3,10 +3,10 @@
 All card files are stored as UTF-8 TSV with:
 
 - no header
-- column 1 = English headword only
+- column 1 = English headword on line 1, with optional line 2 as `[IPA pronunciation]`
 - column 2 = card back content
 - delimiter = tab
-- internal line breaks in column 2 are stored as actual newlines inside a quoted TSV field
+- internal line breaks in either column are stored as actual newlines inside a quoted TSV field
 
 ## Card Back Structure
 
@@ -16,6 +16,13 @@ Every card back now uses a compact structure:
 2. `구분:` optional
 
 The card back may therefore have 1 or 2 lines.
+
+## Card Front Structure
+
+The card front always keeps the canonical English headword on line 1.
+
+- line 2 is optional and may contain a bracketed IPA pronunciation such as `[əˈlaɪn]`
+- duplicate headword checks are based on the line-1 headword, not the optional pronunciation line
 
 ## Meaning Count Policy
 
@@ -51,6 +58,7 @@ The following review fields are tracked during generation and validation, but ar
 ## Validation Rules
 
 - exactly 2 TSV columns per row
+- column 1 must contain a headword on line 1, with optional line 2 in bracketed IPA format
 - column 2 must contain actual line breaks, not escaped `\n` text
 - 1 to 2 labeled lines in the allowed order
 - `핵심 뜻:` must always be present

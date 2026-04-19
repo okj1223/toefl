@@ -1,119 +1,198 @@
-exclude	"핵심 뜻: 제외하다
+"exclude
+[ɪksˈkluːd]"	"핵심 뜻: 제외하다
 구분: exclude=제외하다 / omit=빠뜨리다"
-explicit	"핵심 뜻: 명시적인
+"explicit
+[ɪkˈsplɪs.ɪt]"	"핵심 뜻: 명시적인
 구분: explicit=분명히 드러난 / implicit=암묵적인"
-export	"핵심 뜻: 수출하다 / 수출품
+"export
+[ˈek.spɔːrt]"	"핵심 뜻: 수출하다 / 수출품
 구분: export=밖으로 보내다 / import=안으로 들이다"
-external	핵심 뜻: 외부의
-extract	핵심 뜻: 추출하다 / 뽑아내다
-framework	핵심 뜻: 틀
-global	핵심 뜻: 세계적인
-grant	"핵심 뜻: 보조금 / 승인하다
+"external
+[ɪkˈstɝː.nəl]"	핵심 뜻: 외부의
+"extract
+[ɪkˈstrækt]"	핵심 뜻: 추출하다 / 뽑아내다
+"framework
+[ˈfreɪm.wɝːk]"	핵심 뜻: 틀
+"global
+[ˈɡloʊ.bəl]"	핵심 뜻: 세계적인
+"grant
+[ɡrænt]"	"핵심 뜻: 보조금 / 승인하다
 구분: grant=공식 지원금 / scholarship=장학금"
-hence	핵심 뜻: 따라서
-hierarchy	핵심 뜻: 위계
-ignore	"핵심 뜻: 무시하다
+"hence
+[hens]"	핵심 뜻: 따라서
+"hierarchy
+[ˈhaɪ.rɑːr.ki]"	핵심 뜻: 위계
+"ignore
+[ɪɡˈnɔːr]"	"핵심 뜻: 무시하다
 구분: ignore=의도적으로 무시 / overlook=못 보고 지나침"
-immigrate	"핵심 뜻: 이민 오다
+"immigrate
+[ˈɪm.ə.ɡreɪt]"	"핵심 뜻: 이민 오다
 구분: immigrate=들어오다 / emigrate=떠나다"
-implement	"핵심 뜻: 실행하다 / 시행하다
+"implement
+[ˈɪm.plə.ment]"	"핵심 뜻: 실행하다 / 시행하다
 구분: implement=실행에 옮기다 / apply=적용하다"
-impose	"핵심 뜻: 부과하다 / 강요하다
+"impose
+[ɪmˈpoʊz]"	"핵심 뜻: 부과하다 / 강요하다
 구분: impose=강제로 부과 / enforce=집행하다"
-incentive	핵심 뜻: 동기 / 유인책
-incidence	핵심 뜻: 발생률 / 발생
-income	핵심 뜻: 소득 / 수입
-inevitable	핵심 뜻: 불가피한
-infer	"핵심 뜻: 추론하다
+"incentive
+[ɪnˈsen.t̬ɪv]"	핵심 뜻: 동기 / 유인책
+"incidence
+[ˈɪn.sɪ.dəns]"	핵심 뜻: 발생률 / 발생
+"income
+[ˈɪn.kʌm]"	핵심 뜻: 소득 / 수입
+"inevitable
+[ˌɪnˈev.ə.t̬ə.bəl]"	핵심 뜻: 불가피한
+"infer
+[ɪnˈfɝː]"	"핵심 뜻: 추론하다
 구분: infer=증거로 추론 / assume=가정하다"
-inhibit	핵심 뜻: 억제하다 / 방해하다
-initial	핵심 뜻: 초기의 / 처음의
-instance	핵심 뜻: 사례 / 경우
-insufficient	"핵심 뜻: 불충분한
+"inhibit
+[ɪnˈhɪb.ɪt]"	핵심 뜻: 억제하다 / 방해하다
+"initial
+[ɪˈnɪʃ.əl]"	핵심 뜻: 초기의 / 처음의
+"instance
+[ˈɪn.stəns]"	핵심 뜻: 사례 / 경우
+"insufficient
+[ˌɪn.səˈfɪʃ.ənt]"	"핵심 뜻: 불충분한
 구분: insufficient=필요보다 부족 / inadequate=기준에 못 미침"
-internal	핵심 뜻: 내부의
-interval	핵심 뜻: 간격 / 사이
-lecture	핵심 뜻: 강의
-migrate	"핵심 뜻: 이동하다 / 이주하다
+"internal
+[ɪnˈtɝː.nəl]"	핵심 뜻: 내부의
+"interval
+[ˈɪn.t̬ɚ.vəl]"	핵심 뜻: 간격 / 사이
+"lecture
+[ˈlek.tʃɚ]"	핵심 뜻: 강의
+"migrate
+[ˈmaɪ.ɡreɪt]"	"핵심 뜻: 이동하다 / 이주하다
 구분: migrate=이동·이주 / immigrate=이민 오다"
-minimum	핵심 뜻: 최소한의 / 최소치
-modify	"핵심 뜻: 수정하다 / 변경하다
+"minimum
+[ˈmɪn.ə.məm]"	핵심 뜻: 최소한의 / 최소치
+"modify
+[ˈmɑː.də.faɪ]"	"핵심 뜻: 수정하다 / 변경하다
 구분: modify=부분 수정 / adapt=상황에 맞게 바꾸다"
-monitor	핵심 뜻: 관찰하다 / 점검하다
-network	핵심 뜻: 망 / 네트워크
-notion	"핵심 뜻: 개념 / 생각
+"monitor
+[ˈmɑː.nə.t̬ɚ]"	핵심 뜻: 관찰하다 / 점검하다
+"network
+[ˈnet.wɝːk]"	핵심 뜻: 망 / 네트워크
+"notion
+[ˈnoʊ.ʃən]"	"핵심 뜻: 개념 / 생각
 구분: notion=막연한 개념 / concept=정교한 개념"
-nuclear	핵심 뜻: 핵의 / 원자력의
-objective	"핵심 뜻: 객관적인 / 목표
+"nuclear
+[ˈnuː.kli.ɚ]"	핵심 뜻: 핵의 / 원자력의
+"objective
+[əbˈdʒek.tɪv]"	"핵심 뜻: 객관적인 / 목표
 구분: objective=객관적 / unbiased=편향 없는"
-option	"핵심 뜻: 선택지 / 선택권
+"option
+[ˈɑːp.ʃən]"	"핵심 뜻: 선택지 / 선택권
 구분: option=선택 가능한 것 / alternative=대안"
-outcome	핵심 뜻: 결과 / 성과
-overall	핵심 뜻: 전체적인 / 전반적으로
-parallel	"핵심 뜻: 평행한 / 유사한
+"outcome
+[ˈaʊt.kʌm]"	핵심 뜻: 결과 / 성과
+"overall
+[ˌoʊ.vɚˈɑːl]"	핵심 뜻: 전체적인 / 전반적으로
+"parallel
+[ˈper.ə.lel]"	"핵심 뜻: 평행한 / 유사한
 구분: parallel=나란함·유사성 / similar=비슷한"
-parameter	"핵심 뜻: 매개변수
+"parameter
+[pəˈræm.ə.t̬ɚ]"	"핵심 뜻: 매개변수
 구분: parameter=설정 값 / variable=변수"
-phase	핵심 뜻: 단계 / 국면
-phenomenon	핵심 뜻: 현상
-policy	핵심 뜻: 정책 / 방침
-portion	핵심 뜻: 부분 / 일부
-potential	핵심 뜻: 잠재적인 / 잠재력
-precise	"핵심 뜻: 정확한 / 정밀한
+"phase
+[feɪz]"	핵심 뜻: 단계 / 국면
+"phenomenon
+[fəˈnɑː.mə.nɑːn]"	핵심 뜻: 현상
+"policy
+[ˈpɑː.lə.si]"	핵심 뜻: 정책 / 방침
+"portion
+[ˈpɔːr.ʃən]"	핵심 뜻: 부분 / 일부
+"potential
+[poʊˈten.ʃəl]"	핵심 뜻: 잠재적인 / 잠재력
+"precise
+[prəˈsaɪs]"	"핵심 뜻: 정확한 / 정밀한
 구분: precise=세밀하게 정확 / accurate=오차 없이 정확"
-predict	"핵심 뜻: 예측하다
+"predict
+[prɪˈdɪkt]"	"핵심 뜻: 예측하다
 구분: predict=미래 예측 / forecast=전망하다"
-previous	핵심 뜻: 이전의 / 앞선
-primary	핵심 뜻: 주요한 / 1차의
-prior	"핵심 뜻: 이전의 / 사전의
+"previous
+[ˈpriː.vi.əs]"	핵심 뜻: 이전의 / 앞선
+"primary
+[ˈpraɪ.mer.i]"	핵심 뜻: 주요한 / 1차의
+"prior
+[praɪr]"	"핵심 뜻: 이전의 / 사전의
 구분: prior=시간상 앞선 / previous=이전의"
-professional	핵심 뜻: 전문적인 / 직업의
-prohibit	"핵심 뜻: 금지하다
+"professional
+[prəˈfeʃ.ən.əl]"	핵심 뜻: 전문적인 / 직업의
+"prohibit
+[prəˈhɪb.ɪt]"	"핵심 뜻: 금지하다
 구분: prohibit=공식 금지 / ban=금지하다"
-project	핵심 뜻: 프로젝트 / 계획
-promote	"핵심 뜻: 촉진하다 / 장려하다
+"project
+[ˈprɑː.dʒekt]"	핵심 뜻: 프로젝트 / 계획
+"promote
+[prəˈmoʊt]"	"핵심 뜻: 촉진하다 / 장려하다
 구분: promote=촉진·장려 / encourage=격려하다"
-react	핵심 뜻: 반응하다
-region	핵심 뜻: 지역 / 권역
-register	"핵심 뜻: 등록하다 / 기록하다
+"react
+[riˈækt]"	핵심 뜻: 반응하다
+"region
+[ˈriː.dʒən]"	핵심 뜻: 지역 / 권역
+"register
+[ˈredʒ.ə.stɚ]"	"핵심 뜻: 등록하다 / 기록하다
 구분: register=공식 등록 / enroll=과정 등록"
-relevant	"핵심 뜻: 관련 있는 / 적절한
+"relevant
+[ˈrel.ə.vənt]"	"핵심 뜻: 관련 있는 / 적절한
 구분: relevant=주제와 관련 / appropriate=적절한"
-rely	"핵심 뜻: 의존하다 / 믿다
+"rely
+[rɪˈlaɪ]"	"핵심 뜻: 의존하다 / 믿다
 구분: rely on=의존하다 / trust=믿고 맡기다"
-resident	핵심 뜻: 거주자
-resource	핵심 뜻: 자원 / 자료
-sequence	핵심 뜻: 순서 / 연속
-specify	"핵심 뜻: 명시하다
+"resident
+[ˈrez.ə.dənt]"	핵심 뜻: 거주자
+"resource
+[ˈriː.sɔːrs]"	핵심 뜻: 자원 / 자료
+"sequence
+[ˈsiː.kwəns]"	핵심 뜻: 순서 / 연속
+"specify
+[ˈspes.ə.faɪ]"	"핵심 뜻: 명시하다
 구분: specify=구체적으로 명시 / define=정의하다"
-stable	핵심 뜻: 안정된 / 변함없는
-access	"핵심 뜻: 접근 / 이용할 수 있음
+"stable
+[ˈsteɪ.bəl]"	핵심 뜻: 안정된 / 변함없는
+"access
+[ˈæk.ses]"	"핵심 뜻: 접근 / 이용할 수 있음
 구분: access=접근하거나 이용할 수 있음 / permission=허가"
-accompany	"핵심 뜻: 동반하다
+"accompany
+[əˈkʌm.pə.ni]"	"핵심 뜻: 동반하다
 구분: accompany=함께 일어나다 / follow=뒤따르다"
-accomplish	"핵심 뜻: 성취하다
+"accomplish
+[əˈkɑːm.plɪʃ]"	"핵심 뜻: 성취하다
 구분: accomplish=완수하다 / achieve=달성하다"
-administer	"핵심 뜻: 관리하다
+"administer
+[ədˈmɪn.ə.stɚ]"	"핵심 뜻: 관리하다
 구분: administer=공식 운영 / manage=관리하다"
-adopt	"핵심 뜻: 채택하다
+"adopt
+[əˈdɑːpt]"	"핵심 뜻: 채택하다
 구분: adopt=채택하다 / accept=받아들이다"
-adult	핵심 뜻: 성인
-advise	"핵심 뜻: 조언하다
+"adult
+[əˈdʌlt]"	핵심 뜻: 성인
+"advise
+[ədˈvaɪz]"	"핵심 뜻: 조언하다
 구분: advise=조언하다 / recommend=권하다"
-aid	"핵심 뜻: 돕다 / 도움
+"aid
+[eɪd]"	"핵심 뜻: 돕다 / 도움
 구분: aid=도움을 주거나 도움 / assist=돕다"
-annual	핵심 뜻: 연간의
-append	"핵심 뜻: 덧붙이다
+"annual
+[ˈæn.ju.əl]"	핵심 뜻: 연간의
+"append
+[əˈpend]"	"핵심 뜻: 덧붙이다
 구분: append=끝에 덧붙이다 / attach=붙이다"
-appreciate	"핵심 뜻: 이해하다 / 감사하다
+"appreciate
+[əˈpriː.ʃi.eɪt]"	"핵심 뜻: 이해하다 / 감사하다
 구분: appreciate=가치 이해 / value=가치를 두다"
-arise	"핵심 뜻: 발생하다
+"arise
+[əˈraɪz]"	"핵심 뜻: 발생하다
 구분: arise=생겨나다 / occur=발생하다"
-assemble	"핵심 뜻: 모으다 / 조립하다
+"assemble
+[əˈsem.bəl]"	"핵심 뜻: 모으다 / 조립하다
 구분: assemble=한데 모으다 / gather=모으다"
-assign	"핵심 뜻: 할당하다
+"assign
+[əˈsaɪn]"	"핵심 뜻: 할당하다
 구분: assign=할당하다 / allocate=배분하다"
-attach	"핵심 뜻: 붙이다
+"attach
+[əˈtætʃ]"	"핵심 뜻: 붙이다
 구분: attach=붙이다 / append=덧붙이다"
-automate	"핵심 뜻: 자동화하다
+"automate
+[ˈɑː.t̬ə.meɪt]"	"핵심 뜻: 자동화하다
 구분: automate=자동화하다 / mechanize=기계화하다"

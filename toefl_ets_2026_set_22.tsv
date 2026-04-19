@@ -1,104 +1,182 @@
-fine-grained	핵심 뜻: 세밀한
-high-throughput	핵심 뜻: 대량 처리형의
-iterative	핵심 뜻: 반복 개선형의
-maintainable	"핵심 뜻: 유지보수하기 쉬운
+"fine-grained
+[ˈfaɪn.ɡreɪnd]"	핵심 뜻: 세밀한
+"high-throughput
+[haɪ θˈruˌpʊt]"	핵심 뜻: 대량 처리형의
+"iterative
+[ˈɪt̬.ə.reɪ.t̬ɪv]"	핵심 뜻: 반복 개선형의
+"maintainable
+[meɪnˈteɪ.nə.bəl]"	"핵심 뜻: 유지보수하기 쉬운
 구분: maintainable=이후 관리와 수정이 쉬운 / durable=오래 버티는"
-plug-and-play	핵심 뜻: 바로 연결해 쓸 수 있는
-post-launch	핵심 뜻: 출시 이후의
-process-oriented	핵심 뜻: 과정 중심의
-quality-assurance	핵심 뜻: 품질 보증
-resource-intensive	핵심 뜻: 자원을 많이 쓰는 / 비용·인력·시간이 많이 드는
-serviceability	핵심 뜻: 정비 용이성
-streamlined	핵심 뜻: 간소화된
-suboptimal	"핵심 뜻: 최적에는 못 미치는 / 다소 비효율적인
+"plug-and-play
+[ˌplʌɡ ən ˈpleɪ]"	핵심 뜻: 바로 연결해 쓸 수 있는
+"post-launch
+[ˌpoʊstˈlɑːntʃ]"	핵심 뜻: 출시 이후의
+"process-oriented
+[ˈprɔˌsɛs ˈɔriˌɛntɪd]"	핵심 뜻: 과정 중심의
+"quality-assurance
+[ˈkwɑː.lə.t̬i əˌʃʊr.əns]"	핵심 뜻: 품질 보증
+"resource-intensive
+[ˈrisɔrs ˌɪnˈtɛnsɪv]"	핵심 뜻: 자원을 많이 쓰는 / 비용·인력·시간이 많이 드는
+"serviceability
+[ˌsɝː.vɪ.səˈbɪl.ə.t̬i]"	핵심 뜻: 정비 용이성
+"streamlined
+[ˈstriːm.laɪnd]"	핵심 뜻: 간소화된
+"suboptimal
+[sʌbˈɑːp.tə.məl]"	"핵심 뜻: 최적에는 못 미치는 / 다소 비효율적인
 구분: suboptimal=최선보다 못한 / inefficient=비효율적인"
-underutilized	핵심 뜻: 충분히 활용되지 않는
-upgradable	핵심 뜻: 업그레이드 가능한
-usability	"핵심 뜻: 사용성 / 사용 편의성
+"underutilized
+[ˌʌn.dɚˈjuː.t̬əl.aɪzd]"	핵심 뜻: 충분히 활용되지 않는
+"upgradable
+[ʌpˈɡreɪ.də.bəl]"	핵심 뜻: 업그레이드 가능한
+"usability
+[ˌjuːzəˈbɪləti]"	"핵심 뜻: 사용성 / 사용 편의성
 구분: usability=실제 사용하기 쉬운 정도 / accessibility=접근하기 쉬운 정도"
-versioning	"핵심 뜻: 버전 관리
+"versioning
+[ˈvɜrʒənɪŋ]"	"핵심 뜻: 버전 관리
 구분: versioning=서로 다른 수정판을 구분해 관리함 / tracking=변화를 추적함"
-design-driven	핵심 뜻: 설계 중심의
-go-live	핵심 뜻: 정식 가동
-high-availability	핵심 뜻: 고가용성의
-off-the-shelf	핵심 뜻: 기성품형의
-solution-oriented	핵심 뜻: 해결 중심의
-co-design	핵심 뜻: 공동 설계
-maintainability	핵심 뜻: 유지보수성 / 관리 용이성
-open-ended	핵심 뜻: 열린 형태의
-aesthetic	"핵심 뜻: 미학적인
+"design-driven
+[dɪˈzaɪn ˈdrɪvən]"	핵심 뜻: 설계 중심의
+"go-live
+[goʊ lɪv]"	핵심 뜻: 정식 가동
+"high-availability
+[haɪ əˌveɪləˈbɪlɪti]"	핵심 뜻: 고가용성의
+"off-the-shelf
+[ɔf ðə ʃɛlf]"	핵심 뜻: 기성품형의
+"solution-oriented
+[səˈluʃən ˈɔriˌɛntɪd]"	핵심 뜻: 해결 중심의
+"co-design
+[ˌkoʊ.dɪˈzaɪn]"	핵심 뜻: 공동 설계
+"maintainability
+[meɪnˌteɪ.nəˈbɪl.ə.t̬i]"	핵심 뜻: 유지보수성 / 관리 용이성
+"open-ended
+[ˌoʊ.pənˈen.dɪd]"	핵심 뜻: 열린 형태의
+"aesthetic
+[esˈθet̬.ɪk]"	"핵심 뜻: 미학적인
 구분: aesthetic=감각적 아름다움과 표현 방식의 / artistic=예술적인"
-allegorical	핵심 뜻: 우화적인
-ambience	핵심 뜻: 분위기
-backdrop	"핵심 뜻: 배경 / 배경막
+"allegorical
+[ˌæl.əˈɡɔːr.ə.kəl]"	핵심 뜻: 우화적인
+"ambience
+[ˌɑːm.biˈɑːns]"	핵심 뜻: 분위기
+"backdrop
+[ˈbæk.drɑːp]"	"핵심 뜻: 배경 / 배경막
 구분: backdrop=앞 장면을 받치는 배경 / foreground=앞쪽에 두드러진 부분"
-choreograph	핵심 뜻: 동작을 짜다
-cinematic	핵심 뜻: 영화적인
-composition	"핵심 뜻: 구도 / 구성
+"choreograph
+[ˈkɔːr.i.ə.ɡræf]"	핵심 뜻: 동작을 짜다
+"cinematic
+[ˌsɪn.əˈmæt̬.ɪk]"	핵심 뜻: 영화적인
+"composition
+[ˌkɑːm.pəˈzɪʃ.ən]"	"핵심 뜻: 구도 / 구성
 구분: composition=요소의 전체 배열과 구도 / layout=배치"
-connotation	"핵심 뜻: 함축 의미
+"connotation
+[ˌkɑː.nəˈteɪ.ʃən]"	"핵심 뜻: 함축 의미
 구분: connotation=표면 뜻 너머 따라오는 함축 / denotation=직접적인 기본 뜻"
-evocative	"핵심 뜻: 강한 연상을 불러일으키는
+"evocative
+[ɪˈvɑː.kə.t̬ɪv]"	"핵심 뜻: 강한 연상을 불러일으키는
 구분: evocative=강한 이미지·감정을 불러일으키는 / suggestive=무언가를 암시하는"
-expressive	핵심 뜻: 표현력이 강한
-iconic	"핵심 뜻: 상징적으로 유명한 / 대표적인
+"expressive
+[ɪkˈspres.ɪv]"	핵심 뜻: 표현력이 강한
+"iconic
+[aɪˈkɑː.nɪk]"	"핵심 뜻: 상징적으로 유명한 / 대표적인
 구분: iconic=대표 이미지처럼 널리 각인된 / famous=유명한"
-immersive	핵심 뜻: 몰입감 있는
-improvise	핵심 뜻: 즉흥적으로 하다
-layered	"핵심 뜻: 층위가 겹친
+"immersive
+[ɪˈmɝː.sɪv]"	핵심 뜻: 몰입감 있는
+"improvise
+[ˈɪm.prə.vaɪz]"	핵심 뜻: 즉흥적으로 하다
+"layered
+[ˈleɪ.ɚd]"	"핵심 뜻: 층위가 겹친
 구분: layered=의미나 구성이 여러 겹인 / simple=단순한"
-lyrical	핵심 뜻: 서정적인
-metaphorical	"핵심 뜻: 은유적인
+"lyrical
+[ˈlɪr.ɪ.kəl]"	핵심 뜻: 서정적인
+"metaphorical
+[ˌmet̬.əˈfɔːr.ɪ.kəl]"	"핵심 뜻: 은유적인
 구분: metaphorical=다른 대상을 빌려 뜻을 옮기는 / literal=직접적인"
-minimalist	핵심 뜻: 미니멀한
-motif	"핵심 뜻: 반복 모티프
+"minimalist
+[ˈmɪn.ə.məl.ɪst]"	핵심 뜻: 미니멀한
+"motif
+[moʊˈtiːf]"	"핵심 뜻: 반복 모티프
 구분: motif=반복되는 주제 요소 / theme=작품 전체의 중심 주제"
-multimodal	"핵심 뜻: 다중 양식의
+"multimodal
+[ˌmʌl.tiˈmoʊ.dəl]"	"핵심 뜻: 다중 양식의
 구분: multimodal=여러 표현 양식을 함께 쓰는 / visual=시각 중심의"
-orchestrate	"핵심 뜻: 조율해 엮다
+"orchestrate
+[ˈɔːr.kə.streɪt]"	"핵심 뜻: 조율해 엮다
 구분: orchestrate=여러 요소를 조율해 하나로 엮다 / organize=조직하다"
-performative	"핵심 뜻: 행위 자체가 의미를 만드는 / 보여주는 수행의 성격이 강한
+"performative
+[pɚˈfɔːr.mə.t̬ɪv]"	"핵심 뜻: 행위 자체가 의미를 만드는 / 보여주는 수행의 성격이 강한
 구분: performative=행위의 수행 자체가 의미를 만드는 / expressive=감정을 드러내는"
-pictorial	핵심 뜻: 그림으로 표현된
-portrayal	"핵심 뜻: 묘사 방식
+"pictorial
+[pɪkˈtɔːr.i.əl]"	핵심 뜻: 그림으로 표현된
+"portrayal
+[pɔːrˈtreɪ.əl]"	"핵심 뜻: 묘사 방식
 구분: portrayal=특정 인상으로 대상을 그려낸 방식 / depiction=묘사"
-resonance	"핵심 뜻: 울림 / 공명
+"resonance
+[ˈrez.ən.əns]"	"핵심 뜻: 울림 / 공명
 구분: resonance=마음이나 문화 속에 오래 남는 울림 / impact=즉각적 영향"
-rhythmic	핵심 뜻: 리듬감 있는
-scene-setting	핵심 뜻: 장면 설정
-silhouette	핵심 뜻: 실루엣
-spectator	핵심 뜻: 관람자
-staging	핵심 뜻: 무대 연출
-stylized	핵심 뜻: 양식화된
-subtext	"핵심 뜻: 숨은 뜻
+"rhythmic
+[ˈrɪð.mɪk]"	핵심 뜻: 리듬감 있는
+"scene-setting
+[sin ˈsɛtɪŋ]"	핵심 뜻: 장면 설정
+"silhouette
+[ˌsɪl.əˈwet]"	핵심 뜻: 실루엣
+"spectator
+[spekˈteɪ.t̬ɚ]"	핵심 뜻: 관람자
+"staging
+[ˈsteɪ.dʒɪŋ]"	핵심 뜻: 무대 연출
+"stylized
+[ˈstaɪə.laɪzd]"	핵심 뜻: 양식화된
+"subtext
+[ˈsʌb.tekst]"	"핵심 뜻: 숨은 뜻
 구분: subtext=겉표현 아래 깔린 숨은 의미 / context=주변 맥락"
-textured	핵심 뜻: 질감이 살아 있는 / 결이 느껴지는
-tonal	핵심 뜻: 어조나 분위기의
-understated	핵심 뜻: 절제된
-visualize	핵심 뜻: 시각화하다
-authorial	핵심 뜻: 작가의
-characterization	핵심 뜻: 인물 형상화
-contextualize	"핵심 뜻: 맥락화하다
+"textured
+[ˈteks.tʃɚd]"	핵심 뜻: 질감이 살아 있는 / 결이 느껴지는
+"tonal
+[ˈtoʊ.nəl]"	핵심 뜻: 어조나 분위기의
+"understated
+[ˌʌn.dɚˈsteɪ.t̬ɪd]"	핵심 뜻: 절제된
+"visualize
+[ˈvɪʒ.u.əl.aɪz]"	핵심 뜻: 시각화하다
+"authorial
+[ɑːˈθɔːr.i.əl]"	핵심 뜻: 작가의
+"characterization
+[ˌker.ək.tə.rəˈzeɪ.ʃən]"	핵심 뜻: 인물 형상화
+"contextualize
+[kənˈteks.tʃu.ə.laɪz]"	"핵심 뜻: 맥락화하다
 구분: contextualize=주변 맥락 속에 놓고 이해하다 / isolate=따로 떼어내다"
-embody	"핵심 뜻: 구현하다 / 체현하다
+"embody
+[ɪmˈbɑː.di]"	"핵심 뜻: 구현하다 / 체현하다
 구분: embody=의미·가치를 구체적 형태로 드러내다 / symbolize=상징하다"
-emotive	핵심 뜻: 감정을 강하게 불러일으키는
-impressionistic	핵심 뜻: 인상주의적인
-intertextual	"핵심 뜻: 텍스트 상호참조적인
+"emotive
+[ɪˈmoʊ.t̬ɪv]"	핵심 뜻: 감정을 강하게 불러일으키는
+"impressionistic
+[ɪmˌpreʃ.ənˈɪs.tɪk]"	핵심 뜻: 인상주의적인
+"intertextual
+[ˌɪn.t̬ɚˈteks.tʃu.əl]"	"핵심 뜻: 텍스트 상호참조적인
 구분: intertextual=다른 텍스트와 연결해 읽히는 / original=독자적인"
-medium-specific	핵심 뜻: 매체 고유의
-montage	핵심 뜻: 몽타주
-nonlinear	"핵심 뜻: 비선형의
+"medium-specific
+[ˈmidiəm spɪˈsɪfɪk]"	핵심 뜻: 매체 고유의
+"montage
+[ˈmɑːn.tɑːʒ]"	핵심 뜻: 몽타주
+"nonlinear
+[ˌnɑːnˈlɪn.i.ɚ]"	"핵심 뜻: 비선형의
 구분: nonlinear=순서나 전개가 직선적이지 않은 / linear=일직선 순서의"
-ornamental	핵심 뜻: 장식적인
-pacing	"핵심 뜻: 전개 속도
+"ornamental
+[ˌɔːr.nəˈmen.t̬əl]"	핵심 뜻: 장식적인
+"pacing
+[peɪs]"	"핵심 뜻: 전개 속도
 구분: pacing=전개와 전달의 속도 조절 / timing=언제 맞춰 내는가"
-performer	핵심 뜻: 수행자
-poetics	핵심 뜻: 시학
-rehearsed	핵심 뜻: 리허설된
-reinterpret	"핵심 뜻: 재해석하다
+"performer
+[pɚˈfɔːr.mɚ]"	핵심 뜻: 수행자
+"poetics
+[poʊˈet̬.ɪks]"	핵심 뜻: 시학
+"rehearsed
+[rəˈhɝːs]"	핵심 뜻: 리허설된
+"reinterpret
+[ˌriː.ɪnˈtɝː.prət]"	"핵심 뜻: 재해석하다
 구분: reinterpret=기존 것을 다른 관점으로 다시 해석하다 / revise=수정하다"
-scripted	핵심 뜻: 대본화된
-semiotic	"핵심 뜻: 기호학적인
+"scripted
+[ˈskrɪp.tɪd]"	핵심 뜻: 대본화된
+"semiotic
+[ˌsem.iˈɑː.t̬ɪk]"	"핵심 뜻: 기호학적인
 구분: semiotic=기호와 의미 작동에 관한 / symbolic=상징적인"
-world-building	핵심 뜻: 세계 구축
+"world-building
+[ˈwɝːldˌbɪl.dɪŋ]"	핵심 뜻: 세계 구축

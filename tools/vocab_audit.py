@@ -5,8 +5,11 @@ import argparse
 import csv
 import glob
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
+
+from front_utils import extract_headword
 
 
 CANONICAL_LABELS = [
@@ -24,6 +27,8 @@ FORBIDDEN_LABELS = [
     "예문:",
     "해석:",
 ]
+
+FRONT_PRONUNCIATION_RE = re.compile(r"^\[[^\[\]\n]+\]$")
 
 
 def audit_file(path: Path) -> dict:
@@ -43,8 +48,42 @@ def audit_file(path: Path) -> dict:
                 )
                 continue
 
-            headword, back = parts
+            front, back = parts
+            front_lines = front.replace("\r\n", "\n").replace("\r", "\n").split("\n")
+            headword = extract_headword(front)
             back_lines = back.split("\n")
+
+            if not 1 <= len(front_lines) <= 2:
+                issues.append(
+                    {
+                        "file": str(path),
+                        "line": row_no,
+                        "type": "front_line_count",
+                        "detail": len(front_lines),
+                    }
+                )
+
+            if not headword:
+                issues.append(
+                    {
+                        "file": str(path),
+                        "line": row_no,
+                        "type": "empty_headword",
+                        "detail": front,
+                    }
+                )
+
+            if len(front_lines) == 2:
+                pronunciation = front_lines[1].strip()
+                if not FRONT_PRONUNCIATION_RE.fullmatch(pronunciation):
+                    issues.append(
+                        {
+                            "file": str(path),
+                            "line": row_no,
+                            "type": "front_pronunciation_format",
+                            "detail": pronunciation,
+                        }
+                    )
 
             if "\\n" in back:
                 issues.append(
@@ -126,7 +165,7 @@ def audit_file(path: Path) -> dict:
                     }
                 )
 
-            rows.append({"headword": headword.strip(), "line": row_no})
+            rows.append({"headword": headword, "line": row_no})
 
     return {"file": str(path), "count": len(rows), "rows": rows, "issues": issues}
 
